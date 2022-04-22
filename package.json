@@ -18,6 +18,7 @@
     "backup": "git add . && git commit -m \"chore: save the coding progress\" && git push",
     "prepare": "husky install",
     "release": "standard-version",
+    "pushVersion": "git push --follow-tags origin main",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "devDependencies": {
