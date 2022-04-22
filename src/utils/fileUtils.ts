@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-17 21:14:42
+ * @LastEditTime: 2022-04-19 19:18:55
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -12,6 +12,8 @@
 
 import * as fs from 'fs'
 import path from 'path'
+
+const __dirname = path.resolve()
 
 function getFileJsonData(filePath: string) {
   return new Promise((resolve, rejects) => {
@@ -25,8 +27,8 @@ function getFileJsonData(filePath: string) {
   })
 }
 
-function getFilePath(url: string) {
-  return path.join(__dirname, '../api', url + '.json')
+function getFilePath(fileName: string | string[] | undefined) {
+  return path.join(__dirname, './static', fileName + '.json')
 }
 
 export { getFileJsonData, getFilePath }

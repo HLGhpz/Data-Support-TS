@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-19 11:07:37
+ * @LastEditTime: 2022-04-19 19:17:17
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -15,7 +15,7 @@ import { DBController } from '@/controler/crud'
 
 const router = new Router()
 router
-  .get('/api/data', DataController.showData)
+  .get('/api/data', DataController.getData)
   .get('/api/todo', DBController.selectInfo)
   .put('/api/todo', DBController.updateInfo)
   .post('/api/todo', DBController.createInfo)

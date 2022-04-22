@@ -1,5 +1,16 @@
-# node-basic-starter
+# DATA-SUPPLY ![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/DATA-SUPPLY-brightgreen)
 
-This template should help you quickly create a Node.js basic project, using JavaScript as the development language by default.
+![](./data-supply.png)
 
-这个模板应该能帮你快速创建一个基础的 Node.js 项目，默认使用 JavaScript 作为开发语言。
+DATA-SUPPLY是DATA-TALK的后端
++ 使用sqlite3，对数据进行存储
++ 使用Koa作为后端框架
+
+## Installation
+```
+git clone https://github.com/HLGhpz/Data-Support-TS
+pnpm install
+pnpm start
+```
+## License
+Data-Supply is MIT licensed.

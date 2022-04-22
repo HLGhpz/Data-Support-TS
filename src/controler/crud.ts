@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-19 11:11:23
+ * @LastEditTime: 2022-04-20 22:45:46
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -13,7 +13,7 @@ import { Context } from 'koa'
 const DBController = {
   createInfo: async (ctx: Context) => {
     try {
-      await db.Info.sync()
+      await db.Info.sync({ alter: true })
       const info = await db.Info.create(ctx.request.body)
       ctx.body = info
     } catch (err) {
@@ -22,6 +22,7 @@ const DBController = {
   },
   selectInfo: async (ctx: Context) => {
     try {
+      await db.Info.sync({ alter: true })
       const info = await db.Info.findAll()
       ctx.body = info
     } catch (err) {
@@ -30,6 +31,7 @@ const DBController = {
   },
   updateInfo: async (ctx: Context) => {
     try {
+      await db.Info.sync({ alter: true })
       const info = await db.Info.update(ctx.request.body, {
         where: {
           id: ctx.request.body.id
@@ -42,6 +44,7 @@ const DBController = {
   },
   deleteInfo: async (ctx: Context) => {
     try {
+      await db.Info.sync({ alter: true })
       const info = await db.Info.destroy({
         where: {
           id: ctx.query.id
