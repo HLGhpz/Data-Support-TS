@@ -2,33 +2,28 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-18 16:22:42
+ * @LastEditTime: 2022-04-24 22:51:23
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
-// const ip = require('ip')
-
-// const miSend = require('./mi-send')
-// const miLog = require('./mi-log')
 
 import ip from 'ip'
+import cors from 'koa2-cors'
+import koaBody from 'koa-body'
+import koaStatic from 'koa-static'
+import path from 'path'
+
 import { miSend } from './mi-send'
 import { miLog } from './mi-log'
-// const miHttpError = require('./mi-http-error')
 
-export {miSend, miLog}
+const __dirname = path.resolve()
 
+function middleInit(app: any) {
+  app.use(cors())
+  app.use(miLog)
+  app.use(koaStatic(path.join(__dirname, './public')))
+  app.use(koaBody())
+}
 
-// module.exports = (app) => {
-//   // app.use(miHttpError)
-//   app.use(
-//     miLog(app.env, {
-//       env: app.env,
-//       appLogLevel: 'debug',
-//       dir: 'logs',
-//       serverIp: ip.address()
-//     })
-//   )
-//   app.use(miSend())
-// }
+export { middleInit }
