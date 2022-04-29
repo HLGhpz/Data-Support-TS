@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-21 17:40:59
+ * @LastEditTime: 2022-04-29 15:37:29
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -10,8 +10,8 @@
 
 import { Sequelize } from 'sequelize/types'
 
-function infoModel(sequelize: any, DataTypes: any) {
-  const Info = sequelize.define('Info', {
+function todoModel(sequelize: any, DataTypes: any) {
+  const Todo = sequelize.define('Todo', {
     title: {
       type: DataTypes.STRING,
       allowNull: false
@@ -37,7 +37,7 @@ function infoModel(sequelize: any, DataTypes: any) {
       defaultValue: 'Project'
     }
   })
-  return Info
+  return Todo
 }
 
-export { infoModel }
+export { todoModel }

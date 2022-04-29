@@ -1,0 +1,241 @@
+[{
+  "Index": 30,
+  "Province": "青海",
+  "2022Q1GDP": 833.3,
+  "2021Q1GDP": 743.88,
+  "GDPRise": "5.10%",
+  "2022Q1PDI": 6960,
+  "PDIRise": "5.50%"
+}, {
+  "Index": 29,
+  "Province": "宁夏",
+  "2022Q1GDP": 1114.13,
+  "2021Q1GDP": 952.53,
+  "GDPRise": "5.20%",
+  "2022Q1PDI": 6918,
+  "PDIRise": "5.70%"
+}, {
+  "Index": 28,
+  "Province": "海南",
+  "2022Q1GDP": 1593.94,
+  "2021Q1GDP": 1395.99,
+  "GDPRise": "6.00%",
+  "2022Q1PDI": 8373,
+  "PDIRise": "5.60%"
+}, {
+  "Index": 27,
+  "Province": "甘肃",
+  "2022Q1GDP": 2479.1,
+  "2021Q1GDP": 2207.1,
+  "GDPRise": "5.30%",
+  "2022Q1PDI": 6068,
+  "PDIRise": "5.90%"
+}, {
+  "Index": 26,
+  "Province": "吉林",
+  "2022Q1GDP": 2576.23,
+  "2021Q1GDP": 2771.46,
+  "GDPRise": "-7.90%",
+  "2022Q1PDI": 8049,
+  "PDIRise": null
+}, {
+  "Index": 25,
+  "Province": "黑龙江",
+  "2022Q1GDP": 2976.6,
+  "2021Q1GDP": 2692.5,
+  "GDPRise": "5.40%",
+  "2022Q1PDI": 7762,
+  "PDIRise": "5.60%"
+}, {
+  "Index": 24,
+  "Province": "天津",
+  "2022Q1GDP": 3538.52,
+  "2021Q1GDP": 3404.04,
+  "GDPRise": "0.10%",
+  "2022Q1PDI": 14082,
+  "PDIRise": "5.50%"
+}, {
+  "Index": 23,
+  "Province": "新疆",
+  "2022Q1GDP": 3975.3,
+  "2021Q1GDP": 3402.54,
+  "GDPRise": "7.00%",
+  "2022Q1PDI": 5713,
+  "PDIRise": null
+}, {
+  "Index": 22,
+  "Province": "贵州",
+  "2022Q1GDP": 4815.49,
+  "2021Q1GDP": 4336.47,
+  "GDPRise": "6.60%",
+  "2022Q1PDI": 6546,
+  "PDIRise": "7.10%"
+}, {
+  "Index": 21,
+  "Province": "内蒙古",
+  "2022Q1GDP": 5078.4,
+  "2021Q1GDP": 4222.6,
+  "GDPRise": "5.80%",
+  "2022Q1PDI": 9622,
+  "PDIRise": "5.90%"
+}, {
+  "Index": 20,
+  "Province": "山西",
+  "2022Q1GDP": 5513.12,
+  "2021Q1GDP": 4464.06,
+  "GDPRise": "6.50%",
+  "2022Q1PDI": 7206,
+  "PDIRise": null
+}, {
+  "Index": 19,
+  "Province": "广西",
+  "2022Q1GDP": 5914.78,
+  "2021Q1GDP": 5525.08,
+  "GDPRise": "4.90%",
+  "2022Q1PDI": 7854,
+  "PDIRise": "6.00%"
+}, {
+  "Index": 18,
+  "Province": "辽宁",
+  "2022Q1GDP": 6214.7,
+  "2021Q1GDP": 5844.9,
+  "GDPRise": "2.70%",
+  "2022Q1PDI": 9977,
+  "PDIRise": null
+}, {
+  "Index": 17,
+  "Province": "重庆",
+  "2022Q1GDP": 6398,
+  "2021Q1GDP": 5995.25,
+  "GDPRise": "5.20%",
+  "2022Q1PDI": 10240,
+  "PDIRise": "6.60%"
+}, {
+  "Index": 16,
+  "Province": "云南",
+  "2022Q1GDP": 6466,
+  "2021Q1GDP": 5958.64,
+  "GDPRise": "5.30%",
+  "2022Q1PDI": 6810,
+  "PDIRise": null
+}, {
+  "Index": 15,
+  "Province": "陕西",
+  "2022Q1GDP": 7265.41,
+  "2021Q1GDP": 6352.79,
+  "GDPRise": "5.10%",
+  "2022Q1PDI": 7822,
+  "PDIRise": null
+}, {
+  "Index": 14,
+  "Province": "江西",
+  "2022Q1GDP": 7320.5,
+  "2021Q1GDP": 6575,
+  "GDPRise": "6.90%",
+  "2022Q1PDI": 8391,
+  "PDIRise": "6.90%"
+}, {
+  "Index": 13,
+  "Province": "北京",
+  "2022Q1GDP": 9413.4,
+  "2021Q1GDP": 8915.9,
+  "GDPRise": "4.80%",
+  "2022Q1PDI": 20630,
+  "PDIRise": "5.30%"
+}, {
+  "Index": 12,
+  "Province": "河北",
+  "2022Q1GDP": 9559.8,
+  "2021Q1GDP": 8750.5,
+  "GDPRise": "5.20%",
+  "2022Q1PDI": 7863,
+  "PDIRise": "6.50%"
+}, {
+  "Index": 11,
+  "Province": "上海",
+  "2022Q1GDP": 10010.25,
+  "2021Q1GDP": 9458.86,
+  "GDPRise": "3.10%",
+  "2022Q1PDI": 22663,
+  "PDIRise": "5.20%"
+}, {
+  "Index": 10,
+  "Province": "安徽",
+  "2022Q1GDP": 10347.7,
+  "2021Q1GDP": 9529.1,
+  "GDPRise": "5.20%",
+  "2022Q1PDI": 9512,
+  "PDIRise": "7.00%"
+}, {
+  "Index": 9,
+  "Province": "湖北",
+  "2022Q1GDP": 10804.66,
+  "2021Q1GDP": 9872.67,
+  "GDPRise": "6.70%",
+  "2022Q1PDI": 9448,
+  "PDIRise": "7.40%"
+}, {
+  "Index": 8,
+  "Province": "湖南",
+  "2022Q1GDP": 11058.16,
+  "2021Q1GDP": 10223.99,
+  "GDPRise": "6.00%",
+  "2022Q1PDI": 9259,
+  "PDIRise": "6.80%"
+}, {
+  "Index": 7,
+  "Province": "福建",
+  "2022Q1GDP": 11859.21,
+  "2021Q1GDP": 10750.6,
+  "GDPRise": "6.70%",
+  "2022Q1PDI": 12500,
+  "PDIRise": "7.00%"
+}, {
+  "Index": 6,
+  "Province": "四川",
+  "2022Q1GDP": 12739.24,
+  "2021Q1GDP": 11859.24,
+  "GDPRise": "5.30%",
+  "2022Q1PDI": 8451,
+  "PDIRise": "7.00%"
+}, {
+  "Index": 5,
+  "Province": "河南",
+  "2022Q1GDP": 14228.79,
+  "2021Q1GDP": 13306.65,
+  "GDPRise": "4.70%",
+  "2022Q1PDI": 7419,
+  "PDIRise": null
+}, {
+  "Index": 4,
+  "Province": "浙江",
+  "2022Q1GDP": 17886,
+  "2021Q1GDP": 16347,
+  "GDPRise": "5.10%",
+  "2022Q1PDI": 19366,
+  "PDIRise": "6.00%"
+}, {
+  "Index": 3,
+  "Province": "山东",
+  "2022Q1GDP": 19926.8,
+  "2021Q1GDP": 18055.5,
+  "GDPRise": "5.20%",
+  "2022Q1PDI": 10456,
+  "PDIRise": "6.30%"
+}, {
+  "Index": 2,
+  "Province": "江苏",
+  "2022Q1GDP": 27859,
+  "2021Q1GDP": 25878.38,
+  "GDPRise": "4.60%",
+  "2022Q1PDI": 16490,
+  "PDIRise": "6.40%"
+}, {
+  "Index": 1,
+  "Province": "广东",
+  "2022Q1GDP": 28498.79,
+  "2021Q1GDP": 27117.96,
+  "GDPRise": "3.30%",
+  "2022Q1PDI": 13360,
+  "PDIRise": "5.70%"
+}]

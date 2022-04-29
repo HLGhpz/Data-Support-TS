@@ -2,23 +2,26 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-18 16:20:00
+ * @LastEditTime: 2022-04-29 15:37:49
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
 import { Sequelize, DataTypes } from 'sequelize'
 import { config } from '@/config/config'
-import { infoModel } from '@/models/info'
+import { todoModel } from '@/models/todo'
+import { finishModel } from '@/models/finish'
 
 const sequelize = new Sequelize('', '', '', config.hlg)
 
-const Info = infoModel(sequelize, DataTypes)
+const Todo = todoModel(sequelize, DataTypes)
+const Finish = finishModel(sequelize, DataTypes)
 
 const db = {
-  Info: infoModel(sequelize, DataTypes),
+  Todo,
+  Finish,
   sequelize,
   Sequelize
 }
 
-export {db}
+export { db }

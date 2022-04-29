@@ -1,0 +1,67 @@
+[{
+  "Year": 2021,
+  "PBook": 4.76,
+  "EBook": 3.3,
+  "Newspaper": 15.13,
+  "Magazine": 1.9
+}, {
+  "Year": 2020,
+  "PBook": 4.7,
+  "EBook": 3.29,
+  "Newspaper": 15.36,
+  "Magazine": 1.94
+}, {
+  "Year": 2019,
+  "PBook": 4.65,
+  "EBook": 2.84,
+  "Newspaper": 16.33,
+  "Magazine": 2.33
+}, {
+  "Year": 2018,
+  "PBook": 4.67,
+  "EBook": 3.32,
+  "Newspaper": 26.38,
+  "Magazine": 2.61
+}, {
+  "Year": 2017,
+  "PBook": 4.66,
+  "EBook": 3.12,
+  "Newspaper": 33.62,
+  "Magazine": 3.81
+}, {
+  "Year": 2016,
+  "PBook": 4.65,
+  "EBook": 3.21,
+  "Newspaper": 44.66,
+  "Magazine": 3.44
+}, {
+  "Year": 2015,
+  "PBook": 4.58,
+  "EBook": 3.26,
+  "Newspaper": 54.76,
+  "Magazine": 4.91
+}, {
+  "Year": 2014,
+  "PBook": 4.56,
+  "EBook": 3.22,
+  "Newspaper": 65.03,
+  "Magazine": 6.07
+}, {
+  "Year": 2013,
+  "PBook": 4.77,
+  "EBook": 2.48,
+  "Newspaper": 70.85,
+  "Magazine": 5.51
+}, {
+  "Year": 2012,
+  "PBook": 4.39,
+  "EBook": 2.35,
+  "Newspaper": 77.2,
+  "Magazine": 6.56
+}, {
+  "Year": 2011,
+  "PBook": 4.35,
+  "EBook": 1.42,
+  "Newspaper": 100.7,
+  "Magazine": 6.67
+}]
