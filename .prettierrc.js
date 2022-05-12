@@ -1,3 +1,12 @@
+/*
+ * @Author: HLGhpz
+ * @Date: 2022-04-22 21:38:36
+ * @LastEditors: HLGhpz
+ * @LastEditTime: 2022-05-05 19:48:04
+ * @Description:
+ *
+ * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
+ */
 // .preitterrc.js
 module.exports = {
   // 一行的字符数，如果超过会进行换行，默认为80
