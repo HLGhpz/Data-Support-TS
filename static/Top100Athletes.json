@@ -7,7 +7,9 @@
   "Salary": 36.9,
   "Endorsements": 90,
   "Total": 126.9,
-  "LastRank": "5"
+  "LastRank": "5",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "2",
   "Athlete": "Lionel Messi",
@@ -17,7 +19,9 @@
   "Salary": 72,
   "Endorsements": 50,
   "Total": 122,
-  "LastRank": "2"
+  "LastRank": "2",
+  "SportAlias": "Football",
+  "Country": "AR"
 }, {
   "Rank": "3",
   "Athlete": "Cristiano Ronaldo",
@@ -27,7 +31,9 @@
   "Salary": 60,
   "Endorsements": 55,
   "Total": 115,
-  "LastRank": "3"
+  "LastRank": "3",
+  "SportAlias": "Football",
+  "Country": "PT"
 }, {
   "Rank": "4",
   "Athlete": "Neymar",
@@ -37,7 +43,9 @@
   "Salary": 65,
   "Endorsements": 38,
   "Total": 103,
-  "LastRank": "6"
+  "LastRank": "6",
+  "SportAlias": "Football",
+  "Country": "BR"
 }, {
   "Rank": "5",
   "Athlete": "Canelo Álvarez",
@@ -47,7 +55,9 @@
   "Salary": 84,
   "Endorsements": 5,
   "Total": 89,
-  "LastRank": "12"
+  "LastRank": "12",
+  "SportAlias": "Boxing",
+  "Country": "MX"
 }, {
   "Rank": "6",
   "Athlete": "Stephen Curry",
@@ -57,7 +67,9 @@
   "Salary": 41.2,
   "Endorsements": 45,
   "Total": 86.2,
-  "LastRank": "10"
+  "LastRank": "10",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "7",
   "Athlete": "Kevin Durant",
@@ -67,7 +79,9 @@
   "Salary": 37.9,
   "Endorsements": 48,
   "Total": 85.9,
-  "LastRank": "9"
+  "LastRank": "9",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "8",
   "Athlete": "Roger Federer",
@@ -77,7 +91,9 @@
   "Salary": 0.724,
   "Endorsements": 85,
   "Total": 85.7,
-  "LastRank": "7"
+  "LastRank": "7",
+  "SportAlias": "Tennis",
+  "Country": "CH"
 }, {
   "Rank": "9",
   "Athlete": "James Harden",
@@ -87,7 +103,9 @@
   "Salary": 40,
   "Endorsements": 36,
   "Total": 76,
-  "LastRank": "16"
+  "LastRank": "16",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "10",
   "Athlete": "Tiger Woods",
@@ -97,7 +115,9 @@
   "Salary": 8.5,
   "Endorsements": 65,
   "Total": 73.5,
-  "LastRank": "13"
+  "LastRank": "13",
+  "SportAlias": "Goif",
+  "Country": "US"
 }, {
   "Rank": "11",
   "Athlete": "Matthew Stafford",
@@ -107,7 +127,9 @@
   "Salary": 70.3,
   "Endorsements": 3,
   "Total": 73.3,
-  "LastRank": "92"
+  "LastRank": "92",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "12",
   "Athlete": "Giannis Antetokounmpo",
@@ -117,7 +139,9 @@
   "Salary": 35.9,
   "Endorsements": 36,
   "Total": 71.9,
-  "LastRank": "17"
+  "LastRank": "17",
+  "SportAlias": "Basketball",
+  "Country": "GR"
 }, {
   "Rank": "13",
   "Athlete": "Russell Westbrook",
@@ -127,7 +151,9 @@
   "Salary": 39.8,
   "Endorsements": 30,
   "Total": 69.8,
-  "LastRank": "14"
+  "LastRank": "14",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "14",
   "Athlete": "Tyson Fury",
@@ -137,7 +163,9 @@
   "Salary": 63,
   "Endorsements": 6,
   "Total": 69,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Boxing",
+  "Country": "GB"
 }, {
   "Rank": "15",
   "Athlete": "Josh Allen",
@@ -147,7 +175,9 @@
   "Salary": 62.5,
   "Endorsements": 4,
   "Total": 66.5,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "16",
   "Athlete": "Tom Brady",
@@ -157,7 +187,9 @@
   "Salary": 18.4,
   "Endorsements": 40,
   "Total": 58.4,
-  "LastRank": "8"
+  "LastRank": "8",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "17",
   "Athlete": "Deshaun Watson",
@@ -167,7 +199,9 @@
   "Salary": 55.5,
   "Endorsements": 0.5,
   "Total": 56,
-  "LastRank": "44"
+  "LastRank": "44",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "18",
   "Athlete": "Klay Thompson",
@@ -177,17 +211,21 @@
   "Salary": 34.2,
   "Endorsements": 20,
   "Total": 54.2,
-  "LastRank": "22"
+  "LastRank": "22",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "19",
   "Athlete": "Lewis Hamilton",
-  "Sport": "🏎",
+  "Sport": "🏎️",
   "Team": "Mercedes",
   "Logo": "https://d3data.sportico.com/AthleteCards/Teams/Mercedes.png",
   "Salary": 42,
   "Endorsements": 12,
   "Total": 54,
-  "LastRank": "11"
+  "LastRank": "11",
+  "SportAlias": "Racing",
+  "Country": "GB"
 }, {
   "Rank": "20",
   "Athlete": "Naomi Osaka",
@@ -197,7 +235,9 @@
   "Salary": 1.2,
   "Endorsements": 52,
   "Total": 53.2,
-  "LastRank": "15"
+  "LastRank": "15",
+  "SportAlias": "Tennis",
+  "Country": "JP"
 }, {
   "Rank": "21",
   "Athlete": "Aaron Rodgers",
@@ -207,7 +247,9 @@
   "Salary": 42,
   "Endorsements": 11,
   "Total": 53,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "22",
   "Athlete": "Conor McGregor",
@@ -217,7 +259,9 @@
   "Salary": 32,
   "Endorsements": 20,
   "Total": 52,
-  "LastRank": "1"
+  "LastRank": "1",
+  "SportAlias": "MMA",
+  "Country": "IE"
 }, {
   "Rank": "23",
   "Athlete": "Damian Lillard",
@@ -227,7 +271,9 @@
   "Salary": 35.4,
   "Endorsements": 16,
   "Total": 51.4,
-  "LastRank": "30"
+  "LastRank": "30",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "24",
   "Athlete": "Mike Trout",
@@ -237,7 +283,9 @@
   "Salary": 35.5,
   "Endorsements": 14,
   "Total": 49.5,
-  "LastRank": "74"
+  "LastRank": "74",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "25",
   "Athlete": "Kylian Mbappé",
@@ -247,7 +295,9 @@
   "Salary": 31.8,
   "Endorsements": 17,
   "Total": 48.8,
-  "LastRank": "32"
+  "LastRank": "32",
+  "SportAlias": "Football",
+  "Country": "FR"
 }, {
   "Rank": "26",
   "Athlete": "Patrick Mahomes",
@@ -257,7 +307,9 @@
   "Salary": 28.6,
   "Endorsements": 20,
   "Total": 48.6,
-  "LastRank": "20"
+  "LastRank": "20",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "27",
   "Athlete": "Kirk Cousins",
@@ -267,7 +319,9 @@
   "Salary": 46,
   "Endorsements": 2.5,
   "Total": 48.5,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "28",
   "Athlete": "Kyrie Irving",
@@ -277,7 +331,9 @@
   "Salary": 31.9,
   "Endorsements": 13,
   "Total": 44.9,
-  "LastRank": "23"
+  "LastRank": "23",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "29",
   "Athlete": "Paul George",
@@ -287,7 +343,9 @@
   "Salary": 35.5,
   "Endorsements": 8.5,
   "Total": 44,
-  "LastRank": "38"
+  "LastRank": "38",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "30",
   "Athlete": "Gareth Bale",
@@ -297,17 +355,21 @@
   "Salary": 37,
   "Endorsements": 6,
   "Total": 43,
-  "LastRank": "28"
+  "LastRank": "28",
+  "SportAlias": "Football",
+  "Country": "GB"
 }, {
   "Rank": "30",
   "Athlete": "Max Verstappen",
-  "Sport": "🏎",
+  "Sport": "🏎️",
   "Team": "Red Bull Racing",
   "Logo": "https://d3data.sportico.com/AthleteCards/Teams/Red%20Bull%20Racing.png",
   "Salary": 39,
   "Endorsements": 4,
   "Total": 43,
-  "LastRank": "95"
+  "LastRank": "95",
+  "SportAlias": "Racing",
+  "Country": "NL"
 }, {
   "Rank": "32",
   "Athlete": "Anthony Davis",
@@ -317,7 +379,9 @@
   "Salary": 31.8,
   "Endorsements": 10,
   "Total": 41.8,
-  "LastRank": "39"
+  "LastRank": "39",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "33",
   "Athlete": "Kawhi Leonard",
@@ -327,7 +391,9 @@
   "Salary": 35.5,
   "Endorsements": 5.5,
   "Total": 41,
-  "LastRank": "51"
+  "LastRank": "51",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "33",
   "Athlete": "Marshon Lattimore",
@@ -337,7 +403,9 @@
   "Salary": 40.9,
   "Endorsements": 0.1,
   "Total": 41,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "35",
   "Athlete": "Amari Cooper",
@@ -347,7 +415,9 @@
   "Salary": 38.8,
   "Endorsements": 2,
   "Total": 40.8,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "36",
   "Athlete": "Jimmy Butler",
@@ -357,7 +427,9 @@
   "Salary": 32.5,
   "Endorsements": 8,
   "Total": 40.5,
-  "LastRank": "47"
+  "LastRank": "47",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "37",
   "Athlete": "John Wall",
@@ -367,7 +439,9 @@
   "Salary": 39.9,
   "Endorsements": 0.5,
   "Total": 40.4,
-  "LastRank": "48"
+  "LastRank": "48",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "38",
   "Athlete": "Ryan Ramczyk",
@@ -377,7 +451,9 @@
   "Salary": 38.7,
   "Endorsements": 0.075,
   "Total": 38.7,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "39",
   "Athlete": "Rory McIlroy",
@@ -387,7 +463,9 @@
   "Salary": 10.4,
   "Endorsements": 28,
   "Total": 38.4,
-  "LastRank": "54"
+  "LastRank": "54",
+  "SportAlias": "Goif",
+  "Country": "IE"
 }, {
   "Rank": "40",
   "Athlete": "Trevor Bauer",
@@ -397,7 +475,9 @@
   "Salary": 37.9,
   "Endorsements": 0.25,
   "Total": 38.2,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "41",
   "Athlete": "Eden Hazard",
@@ -407,7 +487,9 @@
   "Salary": 32.9,
   "Endorsements": 5,
   "Total": 37.9,
-  "LastRank": "53"
+  "LastRank": "53",
+  "SportAlias": "Football",
+  "Country": "BE"
 }, {
   "Rank": "42",
   "Athlete": "Von Miller",
@@ -417,7 +499,9 @@
   "Salary": 36.8,
   "Endorsements": 1,
   "Total": 37.8,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "43",
   "Athlete": "T.J. Watt",
@@ -427,7 +511,9 @@
   "Salary": 36.7,
   "Endorsements": 1,
   "Total": 37.7,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "44",
   "Athlete": "Phil Mickelson",
@@ -437,7 +523,9 @@
   "Salary": 7.1,
   "Endorsements": 30,
   "Total": 37.1,
-  "LastRank": "33"
+  "LastRank": "33",
+  "SportAlias": "Goif",
+  "Country": "US"
 }, {
   "Rank": "45",
   "Athlete": "Gerrit Cole",
@@ -447,7 +535,9 @@
   "Salary": 36,
   "Endorsements": 1,
   "Total": 37,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "45",
   "Athlete": "Jake Paul",
@@ -457,7 +547,9 @@
   "Salary": 30,
   "Endorsements": 7,
   "Total": 37,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Boxing",
+  "Country": "US"
 }, {
   "Rank": "47",
   "Athlete": "Mike Williams",
@@ -467,7 +559,9 @@
   "Salary": 36.7,
   "Endorsements": 0.15,
   "Total": 36.8,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "47",
   "Athlete": "Chris Godwin",
@@ -477,7 +571,9 @@
   "Salary": 34.8,
   "Endorsements": 2,
   "Total": 36.8,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "49",
   "Athlete": "Stefon Diggs",
@@ -487,7 +583,9 @@
   "Salary": 35.4,
   "Endorsements": 0.8,
   "Total": 36.2,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "50",
   "Athlete": "Chris Paul",
@@ -497,7 +595,9 @@
   "Salary": 27.8,
   "Endorsements": 8,
   "Total": 35.8,
-  "LastRank": "31"
+  "LastRank": "31",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "51",
   "Athlete": "Devin Booker",
@@ -507,7 +607,9 @@
   "Salary": 28.5,
   "Endorsements": 7,
   "Total": 35.5,
-  "LastRank": "60"
+  "LastRank": "60",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "52",
   "Athlete": "Serena Williams",
@@ -517,7 +619,9 @@
   "Salary": 0.27,
   "Endorsements": 35,
   "Total": 35.3,
-  "LastRank": "43"
+  "LastRank": "43",
+  "SportAlias": "Tennis",
+  "Country": "US"
 }, {
   "Rank": "53",
   "Athlete": "Russell Wilson",
@@ -527,7 +631,9 @@
   "Salary": 24,
   "Endorsements": 11,
   "Total": 35,
-  "LastRank": "78"
+  "LastRank": "78",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "53",
   "Athlete": "Andrés Iniesta",
@@ -537,7 +643,9 @@
   "Salary": 27,
   "Endorsements": 8,
   "Total": 35,
-  "LastRank": "35"
+  "LastRank": "35",
+  "SportAlias": "Football",
+  "Country": "ES"
 }, {
   "Rank": "55",
   "Athlete": "Joel Embiid",
@@ -547,7 +655,9 @@
   "Salary": 28.5,
   "Endorsements": 6,
   "Total": 34.5,
-  "LastRank": "64"
+  "LastRank": "64",
+  "SportAlias": "Basketball",
+  "Country": "CM"
 }, {
   "Rank": "56",
   "Athlete": "Bradley Beal",
@@ -557,7 +667,9 @@
   "Salary": 30.3,
   "Endorsements": 4,
   "Total": 34.3,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "57",
   "Athlete": "Jamal Adams",
@@ -567,7 +679,9 @@
   "Salary": 33.4,
   "Endorsements": 0.75,
   "Total": 34.2,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "57",
   "Athlete": "Mohamed Salah",
@@ -577,7 +691,9 @@
   "Salary": 20.2,
   "Endorsements": 14,
   "Total": 34.2,
-  "LastRank": "45"
+  "LastRank": "45",
+  "SportAlias": "Football",
+  "Country": "EG"
 }, {
   "Rank": "59",
   "Athlete": "Stephen Strasburg",
@@ -587,7 +703,9 @@
   "Salary": 33.6,
   "Endorsements": 0.5,
   "Total": 34.1,
-  "LastRank": "87"
+  "LastRank": "87",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "60",
   "Athlete": "Tobias Harris",
@@ -597,7 +715,9 @@
   "Salary": 32.5,
   "Endorsements": 1.5,
   "Total": 34,
-  "LastRank": "66"
+  "LastRank": "66",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "61",
   "Athlete": "Xavien Howard",
@@ -607,7 +727,9 @@
   "Salary": 33.5,
   "Endorsements": 0.4,
   "Total": 33.9,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "61",
   "Athlete": "Virat Kohli",
@@ -617,7 +739,9 @@
   "Salary": 2.9,
   "Endorsements": 31,
   "Total": 33.9,
-  "LastRank": "59"
+  "LastRank": "59",
+  "SportAlias": "Cricket",
+  "Country": "IN"
 }, {
   "Rank": "63",
   "Athlete": "Khris Middleton",
@@ -627,7 +751,9 @@
   "Salary": 32.3,
   "Endorsements": 1.5,
   "Total": 33.8,
-  "LastRank": "84"
+  "LastRank": "84",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "63",
   "Athlete": "Robert Lewandowski",
@@ -637,7 +763,9 @@
   "Salary": 28.8,
   "Endorsements": 5,
   "Total": 33.8,
-  "LastRank": "58"
+  "LastRank": "58",
+  "SportAlias": "Football",
+  "Country": "PL"
 }, {
   "Rank": "65",
   "Athlete": "Davante Adams",
@@ -647,7 +775,9 @@
   "Salary": 32.6,
   "Endorsements": 1,
   "Total": 33.6,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "66",
   "Athlete": "Brandon Scherff",
@@ -657,7 +787,9 @@
   "Salary": 33,
   "Endorsements": 0.4,
   "Total": 33.4,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "67",
   "Athlete": "Bryce Harper",
@@ -667,7 +799,9 @@
   "Salary": 26.6,
   "Endorsements": 6.5,
   "Total": 33.1,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "67",
   "Athlete": "Kevin De Bruyne",
@@ -677,7 +811,9 @@
   "Salary": 29.1,
   "Endorsements": 4,
   "Total": 33.1,
-  "LastRank": "73"
+  "LastRank": "73",
+  "SportAlias": "Football",
+  "Country": "BE"
 }, {
   "Rank": "69",
   "Athlete": "D'Angelo Russell",
@@ -687,7 +823,9 @@
   "Salary": 27,
   "Endorsements": 6,
   "Total": 33,
-  "LastRank": "69"
+  "LastRank": "69",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "69",
   "Athlete": "Dak Prescott",
@@ -697,7 +835,9 @@
   "Salary": 20,
   "Endorsements": 13,
   "Total": 33,
-  "LastRank": "4"
+  "LastRank": "4",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "69",
   "Athlete": "Rudy Gobert",
@@ -707,7 +847,9 @@
   "Salary": 32,
   "Endorsements": 1,
   "Total": 33,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "FR"
 }, {
   "Rank": "72",
   "Athlete": "Trevor Lawrence",
@@ -717,7 +859,9 @@
   "Salary": 24.8,
   "Endorsements": 8,
   "Total": 32.8,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "73",
   "Athlete": "Blake Griffin",
@@ -727,7 +871,9 @@
   "Salary": 29.2,
   "Endorsements": 3.5,
   "Total": 32.7,
-  "LastRank": "62"
+  "LastRank": "62",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "73",
   "Athlete": "Paul Pogba",
@@ -737,7 +883,9 @@
   "Salary": 25.7,
   "Endorsements": 7,
   "Total": 32.7,
-  "LastRank": "50"
+  "LastRank": "50",
+  "SportAlias": "Football",
+  "Country": "FR"
 }, {
   "Rank": "75",
   "Athlete": "Donovan Mitchell",
@@ -747,7 +895,9 @@
   "Salary": 25.5,
   "Endorsements": 7,
   "Total": 32.5,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "75",
   "Athlete": "Kristaps Porziņģis",
@@ -757,7 +907,9 @@
   "Salary": 28.5,
   "Endorsements": 4,
   "Total": 32.5,
-  "LastRank": "77"
+  "LastRank": "77",
+  "SportAlias": "Basketball",
+  "Country": "LV"
 }, {
   "Rank": "77",
   "Athlete": "Allen Robinson",
@@ -767,7 +919,9 @@
   "Salary": 31.9,
   "Endorsements": 0.5,
   "Total": 32.4,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "78",
   "Athlete": "David  Price",
@@ -777,7 +931,9 @@
   "Salary": 32.1,
   "Endorsements": 0.15,
   "Total": 32.3,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "79",
   "Athlete": "Jrue Holiday",
@@ -787,7 +943,9 @@
   "Salary": 29.7,
   "Endorsements": 2,
   "Total": 31.7,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "80",
   "Athlete": "CJ McCollum",
@@ -797,7 +955,9 @@
   "Salary": 27.8,
   "Endorsements": 3.8,
   "Total": 31.6,
-  "LastRank": "82"
+  "LastRank": "82",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "80",
   "Athlete": "Raheem Sterling",
@@ -807,7 +967,9 @@
   "Salary": 22.6,
   "Endorsements": 9,
   "Total": 31.6,
-  "LastRank": "81"
+  "LastRank": "81",
+  "SportAlias": "Football",
+  "Country": "GB"
 }, {
   "Rank": "82",
   "Athlete": "Karl-Anthony Towns",
@@ -817,7 +979,9 @@
   "Salary": 28.5,
   "Endorsements": 3,
   "Total": 31.5,
-  "LastRank": "88"
+  "LastRank": "88",
+  "SportAlias": "Basketball",
+  "Country": "DO"
 }, {
   "Rank": "83",
   "Athlete": "Jonathan Allen",
@@ -827,7 +991,9 @@
   "Salary": 31.1,
   "Endorsements": 0.3,
   "Total": 31.4,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "83",
   "Athlete": "Miguel Cabrera",
@@ -837,7 +1003,9 @@
   "Salary": 30.7,
   "Endorsements": 0.75,
   "Total": 31.4,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "VE"
 }, {
   "Rank": "85",
   "Athlete": "Justin Verlander",
@@ -847,7 +1015,9 @@
   "Salary": 30.6,
   "Endorsements": 0.75,
   "Total": 31.3,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "85",
   "Athlete": "Jordan Spieth",
@@ -857,7 +1027,9 @@
   "Salary": 9.3,
   "Endorsements": 22,
   "Total": 31.3,
-  "LastRank": "65"
+  "LastRank": "65",
+  "SportAlias": "Goif",
+  "Country": "US"
 }, {
   "Rank": "87",
   "Athlete": "Kevin Love",
@@ -867,7 +1039,9 @@
   "Salary": 28.1,
   "Endorsements": 3,
   "Total": 31.1,
-  "LastRank": "85"
+  "LastRank": "85",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "88",
   "Athlete": "Antoine Griezmann",
@@ -877,7 +1051,9 @@
   "Salary": 25,
   "Endorsements": 6,
   "Total": 31,
-  "LastRank": "27"
+  "LastRank": "27",
+  "SportAlias": "Football",
+  "Country": "FR"
 }, {
   "Rank": "89",
   "Athlete": "Pascal Siakam",
@@ -887,7 +1063,9 @@
   "Salary": 29.7,
   "Endorsements": 1,
   "Total": 30.7,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "CM"
 }, {
   "Rank": "90",
   "Athlete": "Anthony Rendon",
@@ -897,7 +1075,9 @@
   "Salary": 30.3,
   "Endorsements": 0.25,
   "Total": 30.6,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "91",
   "Athlete": "Manny Machado",
@@ -907,7 +1087,9 @@
   "Salary": 30,
   "Endorsements": 0.5,
   "Total": 30.5,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "92",
   "Athlete": "Jayson Tatum",
@@ -917,7 +1099,9 @@
   "Salary": 25.3,
   "Endorsements": 5,
   "Total": 30.3,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "92",
   "Athlete": "Grady Jarrrett",
@@ -927,7 +1111,9 @@
   "Salary": 30,
   "Endorsements": 0.3,
   "Total": 30.3,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Rugby",
+  "Country": "US"
 }, {
   "Rank": "94",
   "Athlete": "Kris Bryant",
@@ -937,7 +1123,9 @@
   "Salary": 25.7,
   "Endorsements": 4.5,
   "Total": 30.2,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "94",
   "Athlete": "Clayton Kershaw",
@@ -947,7 +1135,9 @@
   "Salary": 29,
   "Endorsements": 1.2,
   "Total": 30.2,
-  "LastRank": "98"
+  "LastRank": "98",
+  "SportAlias": "Baseball",
+  "Country": "US"
 }, {
   "Rank": "96",
   "Athlete": "Jamal Murray",
@@ -957,7 +1147,9 @@
   "Salary": 26.6,
   "Endorsements": 3.5,
   "Total": 30.1,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "CA"
 }, {
   "Rank": "97",
   "Athlete": "Brandon Ingram",
@@ -967,7 +1159,9 @@
   "Salary": 26.5,
   "Endorsements": 3.5,
   "Total": 30,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "98",
   "Athlete": "Gordon Hayward",
@@ -977,7 +1171,9 @@
   "Salary": 26.9,
   "Endorsements": 3,
   "Total": 29.9,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "US"
 }, {
   "Rank": "98",
   "Athlete": "Nikola Jokić",
@@ -987,7 +1183,9 @@
   "Salary": 27.9,
   "Endorsements": 2,
   "Total": 29.9,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "RS"
 }, {
   "Rank": "100",
   "Athlete": "Andrew Wiggins",
@@ -997,5 +1195,7 @@
   "Salary": 28.4,
   "Endorsements": 1.2,
   "Total": 29.6,
-  "LastRank": "NR"
+  "LastRank": "NR",
+  "SportAlias": "Basketball",
+  "Country": "CA"
 }]
