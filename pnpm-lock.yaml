@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
   '@commitlint/cli': ^16.2.3
@@ -9,6 +9,7 @@ specifiers:
   '@types/koa-router': ^7.4.4
   '@types/koa-static': ^4.0.2
   '@types/koa2-cors': ^2.0.2
+  '@types/lodash': ^4.14.182
   '@types/node': ^17.0.24
   '@types/sequelize': ^4.28.11
   '@types/sqlite3': ^3.1.8
@@ -29,6 +30,7 @@ specifiers:
   koa-static: ^5.0.0
   koa2-cors: ^2.0.6
   lint-staged: ^12.1.5
+  lodash: ^4.17.21
   log4js: ^6.4.5
   nodemon: ^2.0.15
   prettier: ^2.5.1
@@ -45,6 +47,7 @@ dependencies:
   koa-router: 10.1.1
   koa-static: 5.0.0
   koa2-cors: 2.0.6
+  lodash: registry.npmmirror.com/lodash/4.17.21
   log4js: 6.4.5
   sequelize: 6.19.0_sqlite3@5.0.5
   sqlite3: 5.0.5
@@ -58,6 +61,7 @@ devDependencies:
   '@types/koa-router': 7.4.4
   '@types/koa-static': 4.0.2
   '@types/koa2-cors': 2.0.2
+  '@types/lodash': registry.npmmirror.com/@types/lodash/4.14.182
   '@types/node': 17.0.25
   '@types/sequelize': 4.28.11
   '@types/sqlite3': 3.1.8
@@ -67,7 +71,7 @@ devDependencies:
   esbuild-node-loader: 0.8.0
   eslint: 8.13.0
   eslint-config-prettier: 8.5.0_eslint@8.13.0
-  eslint-plugin-prettier: 4.0.0_1815ac95b7fb26c13c7d48a8eef62d0f
+  eslint-plugin-prettier: 4.0.0_dak2zfnx7mtmcpd5jcuo55rnb4
   husky: 7.0.4
   koa-logger: 3.2.1
   lint-staged: 12.4.0
@@ -109,7 +113,7 @@ packages:
       '@commitlint/load': 16.2.3
       '@commitlint/read': 16.2.1
       '@commitlint/types': 16.2.1
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       resolve-from: 5.0.0
       resolve-global: 1.0.0
       yargs: 17.4.1
@@ -138,7 +142,7 @@ packages:
     engines: {node: '>=v12'}
     dependencies:
       '@commitlint/types': 16.2.1
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
     dev: true
 
   /@commitlint/execute-rule/16.2.1:
@@ -183,8 +187,8 @@ packages:
       '@types/node': 17.0.25
       chalk: 4.1.2
       cosmiconfig: 7.0.1
-      cosmiconfig-typescript-loader: 1.0.9_de7c86b0cde507c63a0402da5b982bd3
-      lodash: 4.17.21
+      cosmiconfig-typescript-loader: 1.0.9_3z6inmgn4ud4moqealnfxgbl2m
+      lodash: registry.npmmirror.com/lodash/4.17.21
       resolve-from: 5.0.0
       typescript: 4.6.3
     transitivePeerDependencies:
@@ -223,7 +227,7 @@ packages:
       '@commitlint/config-validator': 16.2.1
       '@commitlint/types': 16.2.1
       import-fresh: 3.3.0
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       resolve-from: 5.0.0
       resolve-global: 1.0.0
     dev: true
@@ -520,10 +524,6 @@ packages:
       '@types/koa': 2.13.4
     dev: true
 
-  /@types/lodash/4.14.182:
-    resolution: {integrity: sha512-/THyiqyQAP9AfARo4pF+aCGcyiQ94tX/Is2I7HofNRqoYLgN1PBoOWu2/zTA5zMxzP5EFutMtWtGAFRKUe961Q==}
-    dev: true
-
   /@types/mime/1.3.2:
     resolution: {integrity: sha512-YATxVxgRqNH6nHEIsvg6k2Boc1JHI9ZbH5iWFFv/MTkchz3b1ieGDa5T0a9RznNdI0KhVbdbWSN+KWWrQZRxTw==}
     dev: true
@@ -560,7 +560,7 @@ packages:
     dependencies:
       '@types/bluebird': 3.5.36
       '@types/continuation-local-storage': 3.2.4
-      '@types/lodash': 4.14.182
+      '@types/lodash': registry.npmmirror.com/@types/lodash/4.14.182
       '@types/validator': 13.7.2
     dev: true
 
@@ -831,6 +831,8 @@ packages:
       ssri: 8.0.1
       tar: 6.1.11
       unique-filename: 1.1.1
+    transitivePeerDependencies:
+      - bluebird
     dev: false
     optional: true
 
@@ -1066,7 +1068,7 @@ packages:
       glob: 7.1.4
       inquirer: 6.5.2
       is-utf8: 0.2.1
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       minimist: 1.2.5
       strip-bom: 4.0.0
       strip-json-comments: 3.0.1
@@ -1154,7 +1156,7 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       compare-func: 2.0.0
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       q: 1.5.1
     dev: true
 
@@ -1163,7 +1165,7 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       compare-func: 2.0.0
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       q: 1.5.1
     dev: true
 
@@ -1179,7 +1181,7 @@ packages:
       git-raw-commits: 2.0.11
       git-remote-origin-url: 2.0.0
       git-semver-tags: 4.1.1
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       normalize-package-data: 3.0.3
       q: 1.5.1
       read-pkg: 3.0.0
@@ -1237,7 +1239,7 @@ packages:
       dateformat: 3.0.3
       handlebars: 4.7.7
       json-stringify-safe: 5.0.1
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       meow: 8.1.2
       semver: 6.3.0
       split: 1.0.1
@@ -1280,7 +1282,7 @@ packages:
     dependencies:
       is-text-path: 1.0.1
       JSONStream: 1.3.5
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       meow: 8.1.2
       split2: 3.2.2
       through2: 4.0.2
@@ -1317,7 +1319,7 @@ packages:
     resolution: {integrity: sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==}
     dev: true
 
-  /cosmiconfig-typescript-loader/1.0.9_de7c86b0cde507c63a0402da5b982bd3:
+  /cosmiconfig-typescript-loader/1.0.9_3z6inmgn4ud4moqealnfxgbl2m:
     resolution: {integrity: sha512-tRuMRhxN4m1Y8hP9SNYfz7jRwt8lZdWxdjg/ohg5esKmsndJIn4yT96oJVcf5x0eA11taXl+sIp+ielu529k6g==}
     engines: {node: '>=12', npm: '>=6'}
     peerDependencies:
@@ -1326,7 +1328,7 @@ packages:
     dependencies:
       '@types/node': 17.0.25
       cosmiconfig: 7.0.1
-      ts-node: 10.7.0_de7c86b0cde507c63a0402da5b982bd3
+      ts-node: 10.7.0_3z6inmgn4ud4moqealnfxgbl2m
       typescript: 4.6.3
     transitivePeerDependencies:
       - '@swc/core'
@@ -1403,7 +1405,7 @@ packages:
       editor: 1.0.0
       find-config: 1.0.0
       inquirer: 6.5.2
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       temp: 0.9.4
       word-wrap: 1.2.3
     dev: true
@@ -1429,8 +1431,26 @@ packages:
 
   /debug/3.2.7:
     resolution: {integrity: sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
     dependencies:
       ms: 2.1.3
+    dev: false
+
+  /debug/3.2.7_supports-color@5.5.0:
+    resolution: {integrity: sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+    dependencies:
+      ms: 2.1.3
+      supports-color: 5.5.0
+    dev: true
 
   /debug/4.3.4:
     resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
@@ -1692,7 +1712,7 @@ packages:
       eslint: 8.13.0
     dev: true
 
-  /eslint-plugin-prettier/4.0.0_1815ac95b7fb26c13c7d48a8eef62d0f:
+  /eslint-plugin-prettier/4.0.0_dak2zfnx7mtmcpd5jcuo55rnb4:
     resolution: {integrity: sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==}
     engines: {node: '>=6.0.0'}
     peerDependencies:
@@ -2103,7 +2123,7 @@ packages:
     hasBin: true
     dependencies:
       dargs: 7.0.0
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       meow: 8.1.2
       split2: 3.2.2
       through2: 4.0.2
@@ -2214,6 +2234,8 @@ packages:
     dependencies:
       '@sindresorhus/is': 0.14.0
       '@szmarczak/http-timer': 1.1.2
+      '@types/keyv': registry.npmmirror.com/@types/keyv/3.1.4
+      '@types/responselike': registry.npmmirror.com/@types/responselike/1.0.0
       cacheable-request: 6.1.0
       decompress-response: 3.3.0
       duplexer3: 0.1.4
@@ -2479,7 +2501,7 @@ packages:
       cli-width: 2.2.1
       external-editor: 3.1.0
       figures: 2.0.0
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       mute-stream: 0.0.7
       run-async: 2.4.1
       rxjs: 6.6.7
@@ -2920,9 +2942,6 @@ packages:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
     dev: true
 
-  /lodash/4.17.21:
-    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
-
   /log-update/4.0.0:
     resolution: {integrity: sha512-9fkkDevMefjg0mmzWFBW8YkFP91OrizzkW3diF7CpG+S2EYdy4+TVfGwz1zeF8x7hCx1ovSPTOE9Ngib74qqUg==}
     engines: {node: '>=10'}
@@ -2998,6 +3017,7 @@ packages:
       socks-proxy-agent: 6.2.0
       ssri: 8.0.1
     transitivePeerDependencies:
+      - bluebird
       - supports-color
     dev: false
     optional: true
@@ -3256,7 +3276,7 @@ packages:
     requiresBuild: true
     dependencies:
       chokidar: 3.5.3
-      debug: 3.2.7
+      debug: 3.2.7_supports-color@5.5.0
       ignore-by-default: 1.0.1
       minimatch: 3.1.2
       pstree.remy: 1.1.8
@@ -3615,6 +3635,11 @@ packages:
 
   /promise-inflight/1.0.1:
     resolution: {integrity: sha1-mEcocL8igTL8vdhoEputEsPAKeM=}
+    peerDependencies:
+      bluebird: '*'
+    peerDependenciesMeta:
+      bluebird:
+        optional: true
     dev: false
     optional: true
 
@@ -3971,7 +3996,7 @@ packages:
       debug: 4.3.4
       dottie: 2.0.2
       inflection: 1.13.2
-      lodash: 4.17.21
+      lodash: registry.npmmirror.com/lodash/4.17.21
       moment: 2.29.3
       moment-timezone: 0.5.34
       pg-connection-string: 2.5.0
@@ -4127,6 +4152,7 @@ packages:
     optionalDependencies:
       node-gyp: registry.npmmirror.com/node-gyp/8.4.1
     transitivePeerDependencies:
+      - bluebird
       - encoding
       - supports-color
     dev: false
@@ -4405,7 +4431,7 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /ts-node/10.7.0_de7c86b0cde507c63a0402da5b982bd3:
+  /ts-node/10.7.0_3z6inmgn4ud4moqealnfxgbl2m:
     resolution: {integrity: sha512-TbIGS4xgJoX2i3do417KSaep1uRAW/Lu+WAL2doDHC0D6ummjirVOXU5/7aiZotbQ5p1Zp9tP7U6cYhA0O7M8A==}
     hasBin: true
     peerDependencies:
@@ -4793,8 +4819,8 @@ packages:
       '@types/node': 17.0.25
       chalk: 4.1.2
       cosmiconfig: 7.0.1
-      cosmiconfig-typescript-loader: 1.0.9_de7c86b0cde507c63a0402da5b982bd3
-      lodash: 4.17.21
+      cosmiconfig-typescript-loader: 1.0.9_3z6inmgn4ud4moqealnfxgbl2m
+      lodash: registry.npmmirror.com/lodash/4.17.21
       resolve-from: 5.0.0
       typescript: 4.6.3
     transitivePeerDependencies:
@@ -4802,6 +4828,34 @@ packages:
       - '@swc/wasm'
     dev: true
     optional: true
+
+  registry.npmmirror.com/@types/keyv/3.1.4:
+    resolution: {integrity: sha512-BQ5aZNSCpj7D6K2ksrRCTmKRLEpnPvWDiLPfoGyhZ++8YtiK9d/3DBKPJgry359X/P1PfruyYwvnvwFjuEiEIg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@types/keyv/-/keyv-3.1.4.tgz}
+    name: '@types/keyv'
+    version: 3.1.4
+    dependencies:
+      '@types/node': registry.npmmirror.com/@types/node/17.0.25
+    dev: true
+
+  registry.npmmirror.com/@types/lodash/4.14.182:
+    resolution: {integrity: sha512-/THyiqyQAP9AfARo4pF+aCGcyiQ94tX/Is2I7HofNRqoYLgN1PBoOWu2/zTA5zMxzP5EFutMtWtGAFRKUe961Q==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@types/lodash/-/lodash-4.14.182.tgz}
+    name: '@types/lodash'
+    version: 4.14.182
+    dev: true
+
+  registry.npmmirror.com/@types/node/17.0.25:
+    resolution: {integrity: sha512-wANk6fBrUwdpY4isjWrKTufkrXdu1D2YHCot2fD/DfWxF5sMrVSA+KN7ydckvaTCh0HiqX9IVl0L5/ZoXg5M7w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@types/node/-/node-17.0.25.tgz}
+    name: '@types/node'
+    version: 17.0.25
+    dev: true
+
+  registry.npmmirror.com/@types/responselike/1.0.0:
+    resolution: {integrity: sha512-85Y2BjiufFzaMIlvJDvTTB8Fxl2xfLo4HgmHzVBz08w4wDePCTjYw66PdrolO0kzli3yam/YCgRufyo1DdQVTA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@types/responselike/-/responselike-1.0.0.tgz}
+    name: '@types/responselike'
+    version: 1.0.0
+    dependencies:
+      '@types/node': registry.npmmirror.com/@types/node/17.0.25
+    dev: true
 
   registry.npmmirror.com/encoding/0.1.13:
     resolution: {integrity: sha512-ETBauow1T35Y/WZMkio9jiM0Z5xjHHmJ4XmjZOq1l/dXz3lr2sRn87nJy20RupqSh1F2m3HHPSp8ShIPQJrJ3A==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/encoding/-/encoding-0.1.13.tgz}
@@ -5048,6 +5102,11 @@ packages:
     name: graceful-fs
     version: 4.2.10
 
+  registry.npmmirror.com/lodash/4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/lodash/-/lodash-4.17.21.tgz}
+    name: lodash
+    version: 4.17.21
+
   registry.npmmirror.com/node-gyp/8.4.1:
     resolution: {integrity: sha512-olTJRgUtAb/hOXG0E93wZDs5YiJlgbXxTwQAFHyNlRsXQnYzUaF2aGgujZbw+hR8aF4ZG/rST57bWMWD16jr9w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/node-gyp/-/node-gyp-8.4.1.tgz}
     name: node-gyp
@@ -5067,6 +5126,7 @@ packages:
       tar: 6.1.11
       which: 2.0.2
     transitivePeerDependencies:
+      - bluebird
       - supports-color
     dev: false
     optional: true

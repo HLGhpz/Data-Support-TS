@@ -2,13 +2,14 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-04-29 15:59:46
+ * @LastEditTime: 2022-05-26 22:37:44
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
  */
 import { db } from '@/models/index'
 import { Context } from 'koa'
+import _ from 'lodash'
 
 const DBController = {
   createInfo: async (ctx: Context) => {
@@ -75,7 +76,8 @@ const DBController = {
       const finish = await db.Finish.create(ctx.request.body)
       ctx.body = finish
     } catch (err) {
-      ctx.body = err
+      const finish = await db.Finish.create(_.omit(ctx.request.body, 'id'))
+      ctx.body = finish
     }
   },
   updateFinish: async (ctx: Context) => {
