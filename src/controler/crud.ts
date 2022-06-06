@@ -2,7 +2,7 @@
  * @Author: HLGhpz
  * @Date: 2022-04-17 20:37:49
  * @LastEditors: HLGhpz
- * @LastEditTime: 2022-05-26 22:37:44
+ * @LastEditTime: 2022-06-06 17:22:35
  * @Description:
  *
  * Copyright (c) 2022 by HLGhpz, All Rights Reserved.
@@ -24,7 +24,12 @@ const DBController = {
   selectInfo: async (ctx: Context) => {
     try {
       await db.Todo.sync({ alter: true })
-      const info = await db.Todo.findAll()
+      const offset = (ctx.query.page - 1) * ctx.query.pageSize
+      const limit = ctx.query.pageSize
+      const info = await db.Todo.findAndCountAll({
+        offset,
+        limit
+      })
       ctx.body = info
     } catch (err) {
       ctx.body = `Error: ${err}`
@@ -59,7 +64,12 @@ const DBController = {
   selectFinish: async (ctx: Context) => {
     try {
       await db.Finish.sync({ alter: true })
-      const finish = await db.Finish.findAll()
+      const offset = (ctx.query.page - 1) * ctx.query.pageSize
+      const limit = ctx.query.pageSize
+      const finish = await db.Finish.findAndCountAll({
+        offset,
+        limit
+      })
       ctx.body = finish
     } catch (err) {
       ctx.body = `Error: ${err}`
