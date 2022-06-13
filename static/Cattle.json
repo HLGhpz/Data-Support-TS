@@ -1,0 +1,8641 @@
+[{
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1961,
+  "Production": 27682685,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1961,
+  "Production": 7425722,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1961,
+  "Production": 2864000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1961,
+  "Production": 2145064,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1961,
+  "Production": 1448000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1961,
+  "Production": 1369078,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1961,
+  "Production": 1296200,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1961,
+  "Production": 907472,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1961,
+  "Production": 677100,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1961,
+  "Production": 655323,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1961,
+  "Production": 642924,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1961,
+  "Production": 505680,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1961,
+  "Production": 390310,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1961,
+  "Production": 373000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1961,
+  "Production": 337800,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1961,
+  "Production": 328000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1962,
+  "Production": 29201543,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1962,
+  "Production": 7411207,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1962,
+  "Production": 3277000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1962,
+  "Production": 2378826,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1962,
+  "Production": 1483000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1962,
+  "Production": 1372900,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1962,
+  "Production": 1355958,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1962,
+  "Production": 919519,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1962,
+  "Production": 803950,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1962,
+  "Production": 724560,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1962,
+  "Production": 665216,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1962,
+  "Production": 514720,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1962,
+  "Production": 441560,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1962,
+  "Production": 391154,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1962,
+  "Production": 386400,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1962,
+  "Production": 361400,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1963,
+  "Production": 30853925,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1963,
+  "Production": 7885662,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1963,
+  "Production": 3741000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1963,
+  "Production": 2605287,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1963,
+  "Production": 1454000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1963,
+  "Production": 1402000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1963,
+  "Production": 1360928,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1963,
+  "Production": 946485,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1963,
+  "Production": 928606,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1963,
+  "Production": 702979,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1963,
+  "Production": 678400,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1963,
+  "Production": 528800,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1963,
+  "Production": 459820,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1963,
+  "Production": 434700,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1963,
+  "Production": 429000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1963,
+  "Production": 375000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1964,
+  "Production": 31274807,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1964,
+  "Production": 8830944,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1964,
+  "Production": 3571000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1964,
+  "Production": 2019240,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1964,
+  "Production": 1437185,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1964,
+  "Production": 1378000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1964,
+  "Production": 1362900,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1964,
+  "Production": 1001315,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1964,
+  "Production": 878268,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1964,
+  "Production": 777694,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1964,
+  "Production": 635380,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1964,
+  "Production": 534400,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1964,
+  "Production": 479740,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1964,
+  "Production": 453000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1964,
+  "Production": 449600,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1964,
+  "Production": 390000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1965,
+  "Production": 31856777,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1965,
+  "Production": 8957042,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1965,
+  "Production": 3917000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1965,
+  "Production": 1995096,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1965,
+  "Production": 1496849,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1965,
+  "Production": 1402000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1965,
+  "Production": 1331000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1965,
+  "Production": 1026287,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1965,
+  "Production": 867470,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1965,
+  "Production": 834319,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1965,
+  "Production": 675700,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1965,
+  "Production": 548800,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1965,
+  "Production": 489700,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1965,
+  "Production": 450000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1965,
+  "Production": 412100,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1965,
+  "Production": 392300,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1966,
+  "Production": 33552718,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1966,
+  "Production": 9360283,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1966,
+  "Production": 4377000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1966,
+  "Production": 2320931,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1966,
+  "Production": 1475000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1966,
+  "Production": 1452331,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1966,
+  "Production": 1441495,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1966,
+  "Production": 946333,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1966,
+  "Production": 868575,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1966,
+  "Production": 858537,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1966,
+  "Production": 812600,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1966,
+  "Production": 560000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1966,
+  "Production": 499330,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1966,
+  "Production": 430000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1966,
+  "Production": 406000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1966,
+  "Production": 362600,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1967,
+  "Production": 35267320,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1967,
+  "Production": 9530379,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1967,
+  "Production": 5081000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1967,
+  "Production": 2521953,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1967,
+  "Production": 1583000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1967,
+  "Production": 1505502,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1967,
+  "Production": 1469476,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1967,
+  "Production": 923530,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1967,
+  "Production": 889200,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1967,
+  "Production": 878683,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1967,
+  "Production": 845945,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1967,
+  "Production": 578400,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1967,
+  "Production": 508950,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1967,
+  "Production": 470500,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1967,
+  "Production": 378000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1967,
+  "Production": 359100,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1968,
+  "Production": 36963033,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1968,
+  "Production": 9789000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1968,
+  "Production": 5513000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1968,
+  "Production": 2561320,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1968,
+  "Production": 1694447,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1968,
+  "Production": 1624000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1968,
+  "Production": 1522092,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1968,
+  "Production": 971300,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1968,
+  "Production": 907603,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1968,
+  "Production": 904285,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1968,
+  "Production": 891938,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1968,
+  "Production": 593600,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1968,
+  "Production": 518600,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1968,
+  "Production": 505800,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1968,
+  "Production": 376500,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1968,
+  "Production": 355000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1969,
+  "Production": 37926239,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1969,
+  "Production": 9888000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1969,
+  "Production": 5569000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1969,
+  "Production": 2882933,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1969,
+  "Production": 1826440,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1969,
+  "Production": 1560173,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1969,
+  "Production": 1552000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1969,
+  "Production": 1026634,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1969,
+  "Production": 934766,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1969,
+  "Production": 873553,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1969,
+  "Production": 846394,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1969,
+  "Production": 608000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1969,
+  "Production": 544300,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1969,
+  "Production": 523730,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1969,
+  "Production": 390000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1969,
+  "Production": 390000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1970,
+  "Production": 38346654,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1970,
+  "Production": 10102810,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1970,
+  "Production": 5393000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1970,
+  "Production": 2624011,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1970,
+  "Production": 1845182,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1970,
+  "Production": 1663194,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1970,
+  "Production": 1565000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1970,
+  "Production": 1076080,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1970,
+  "Production": 1009954,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1970,
+  "Production": 947000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1970,
+  "Production": 850629,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1970,
+  "Production": 624000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1970,
+  "Production": 511129,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1970,
+  "Production": 508800,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1970,
+  "Production": 417800,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1970,
+  "Production": 388176,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1971,
+  "Production": 38070096,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1971,
+  "Production": 10182188,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1971,
+  "Production": 5562000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1971,
+  "Production": 2000893,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1971,
+  "Production": 1794200,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1971,
+  "Production": 1674235,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1971,
+  "Production": 1613000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1971,
+  "Production": 1083000,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1971,
+  "Production": 1047200,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1971,
+  "Production": 937000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1971,
+  "Production": 896349,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1971,
+  "Production": 640000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1971,
+  "Production": 495842,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1971,
+  "Production": 487300,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1971,
+  "Production": 462000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1971,
+  "Production": 415957,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1972,
+  "Production": 38536483,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1972,
+  "Production": 10374057,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1972,
+  "Production": 5722000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1972,
+  "Production": 2191102,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1972,
+  "Production": 2095200,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1972,
+  "Production": 1518828,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1972,
+  "Production": 1456000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1972,
+  "Production": 1164393,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1972,
+  "Production": 1026670,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1972,
+  "Production": 905000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1972,
+  "Production": 897588,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1972,
+  "Production": 648000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1972,
+  "Production": 500951,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1972,
+  "Production": 466552,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1972,
+  "Production": 451700,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1972,
+  "Production": 425000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1973,
+  "Production": 38837238,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1973,
+  "Production": 9812966,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1973,
+  "Production": 5873000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1973,
+  "Production": 2202000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1973,
+  "Production": 2148578,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1973,
+  "Production": 1574600,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1973,
+  "Production": 1460000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1973,
+  "Production": 1437944,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1973,
+  "Production": 1061000,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1973,
+  "Production": 906266,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1973,
+  "Production": 854000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1973,
+  "Production": 672400,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1973,
+  "Production": 488394,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1973,
+  "Production": 487400,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1973,
+  "Production": 476679,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1973,
+  "Production": 445500,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1974,
+  "Production": 41848344,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1974,
+  "Production": 10715610,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1974,
+  "Production": 6384000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1974,
+  "Production": 2163033,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1974,
+  "Production": 2030000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1974,
+  "Production": 1791000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1974,
+  "Production": 1748900,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1974,
+  "Production": 1321817,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1974,
+  "Production": 1074398,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1974,
+  "Production": 1072000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1974,
+  "Production": 953071,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1974,
+  "Production": 696370,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1974,
+  "Production": 627500,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1974,
+  "Production": 527036,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1974,
+  "Production": 491515,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1974,
+  "Production": 423000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1975,
+  "Production": 43732744,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1975,
+  "Production": 11271258,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1975,
+  "Production": 6473000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1975,
+  "Production": 2438552,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1975,
+  "Production": 2156979,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1975,
+  "Production": 1745000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1975,
+  "Production": 1718820,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1975,
+  "Production": 1546965,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1975,
+  "Production": 1215000,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1975,
+  "Production": 1087684,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1975,
+  "Production": 964149,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1975,
+  "Production": 723492,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1975,
+  "Production": 685300,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1975,
+  "Production": 569595,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1975,
+  "Production": 515035,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1975,
+  "Production": 508100,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1976,
+  "Production": 46089285,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1976,
+  "Production": 12166191,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1976,
+  "Production": 6552000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1976,
+  "Production": 2811410,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1976,
+  "Production": 2370000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1976,
+  "Production": 1840415,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1976,
+  "Production": 1800100,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1976,
+  "Production": 1717900,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1976,
+  "Production": 1165559,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1976,
+  "Production": 1057000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1976,
+  "Production": 1016662,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1976,
+  "Production": 778600,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1976,
+  "Production": 751145,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1976,
+  "Production": 677937,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1976,
+  "Production": 628100,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1976,
+  "Production": 544502,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1977,
+  "Production": 46484802,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1977,
+  "Production": 11844596,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1977,
+  "Production": 6888000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1977,
+  "Production": 2913776,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1977,
+  "Production": 2445520,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1977,
+  "Production": 1987800,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1977,
+  "Production": 1694600,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1977,
+  "Production": 1651900,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1977,
+  "Production": 1142105,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1977,
+  "Production": 1050756,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1977,
+  "Production": 1022000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1977,
+  "Production": 766190,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1977,
+  "Production": 746808,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1977,
+  "Production": 711000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "NZL",
+  "Country": "New Zealand",
+  "Year": 1977,
+  "Production": 557700,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1977,
+  "Production": 543690,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1978,
+  "Production": 46988322,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1978,
+  "Production": 11281690,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1978,
+  "Production": 7086000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1978,
+  "Production": 3193244,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1978,
+  "Production": 2570000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1978,
+  "Production": 2183800,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1978,
+  "Production": 1784500,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1978,
+  "Production": 1657900,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1978,
+  "Production": 1063113,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1978,
+  "Production": 1028000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1978,
+  "Production": 1022919,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1978,
+  "Production": 782600,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1978,
+  "Production": 732468,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1978,
+  "Production": 700200,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1978,
+  "Production": 588683,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1978,
+  "Production": 570400,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1979,
+  "Production": 45784285,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1979,
+  "Production": 9925000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1979,
+  "Production": 7000000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1979,
+  "Production": 3020199,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1979,
+  "Production": 2650000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1979,
+  "Production": 2018000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1979,
+  "Production": 1854400,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1979,
+  "Production": 1823000,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1979,
+  "Production": 1104490,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1979,
+  "Production": 1047000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1979,
+  "Production": 947455,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1979,
+  "Production": 817713,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1979,
+  "Production": 735500,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1979,
+  "Production": 652288,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1979,
+  "Production": 642044,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1979,
+  "Production": 597085,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1980,
+  "Production": 45565944,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1980,
+  "Production": 9998990,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1980,
+  "Production": 6645000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1980,
+  "Production": 2850000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1980,
+  "Production": 2839248,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1980,
+  "Production": 1892590,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1980,
+  "Production": 1838000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1980,
+  "Production": 1564400,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1980,
+  "Production": 1146823,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1980,
+  "Production": 1102000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1980,
+  "Production": 970706,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1980,
+  "Production": 853424,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1980,
+  "Production": 740755,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1980,
+  "Production": 702600,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1980,
+  "Production": 593223,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1980,
+  "Production": 584678,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1981,
+  "Production": 45953128,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1981,
+  "Production": 10353000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1981,
+  "Production": 6627000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1981,
+  "Production": 3000000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1981,
+  "Production": 2939205,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1981,
+  "Production": 1922770,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1981,
+  "Production": 1836200,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1981,
+  "Production": 1467200,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1981,
+  "Production": 1109545,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1981,
+  "Production": 1041000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1981,
+  "Production": 1013663,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1981,
+  "Production": 863456,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1981,
+  "Production": 835825,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1981,
+  "Production": 624254,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1981,
+  "Production": 542000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1981,
+  "Production": 524300,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1982,
+  "Production": 45914058,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1982,
+  "Production": 10425000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1982,
+  "Production": 6618000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1982,
+  "Production": 3050000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1982,
+  "Production": 2550542,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1982,
+  "Production": 1855427,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1982,
+  "Production": 1745000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1982,
+  "Production": 1576195,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1982,
+  "Production": 1106395,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1982,
+  "Production": 1025155,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1982,
+  "Production": 965000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1982,
+  "Production": 933610,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1982,
+  "Production": 861940,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1982,
+  "Production": 674000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1982,
+  "Production": 587004,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1982,
+  "Production": 582000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1983,
+  "Production": 47159800,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1983,
+  "Production": 10746000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1983,
+  "Production": 7011000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1983,
+  "Production": 3250000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1983,
+  "Production": 2455270,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1983,
+  "Production": 1854174,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1983,
+  "Production": 1812000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1983,
+  "Production": 1542890,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1983,
+  "Production": 1187744,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1983,
+  "Production": 1038000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1983,
+  "Production": 1032456,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1983,
+  "Production": 959310,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1983,
+  "Production": 944295,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1983,
+  "Production": 642000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1983,
+  "Production": 588000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1983,
+  "Production": 553055,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1984,
+  "Production": 48483781,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1984,
+  "Production": 10927000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1984,
+  "Production": 7244000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1984,
+  "Production": 3420000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1984,
+  "Production": 2553720,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1984,
+  "Production": 1991000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1984,
+  "Production": 1982190,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1984,
+  "Production": 1345276,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1984,
+  "Production": 1181266,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1984,
+  "Production": 1152000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1984,
+  "Production": 990722,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1984,
+  "Production": 966060,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1984,
+  "Production": 925020,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1984,
+  "Production": 686500,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1984,
+  "Production": 620000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1984,
+  "Production": 587889,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1985,
+  "Production": 49306824,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1985,
+  "Production": 10996000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1985,
+  "Production": 7370000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1985,
+  "Production": 3480000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1985,
+  "Production": 2847838,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1985,
+  "Production": 1993137,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1985,
+  "Production": 1893000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1985,
+  "Production": 1310020,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1985,
+  "Production": 1204074,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1985,
+  "Production": 1179000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1985,
+  "Production": 1028790,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1985,
+  "Production": 946400,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1985,
+  "Production": 926771,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1985,
+  "Production": 723500,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1985,
+  "Production": 650000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1985,
+  "Production": 585859,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1986,
+  "Production": 50983632,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1986,
+  "Production": 11292000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1986,
+  "Production": 7840000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1986,
+  "Production": 3600000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1986,
+  "Production": 3023413,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1986,
+  "Production": 2109861,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1986,
+  "Production": 1911000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1986,
+  "Production": 1384923,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1986,
+  "Production": 1247856,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1986,
+  "Production": 1179364,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1986,
+  "Production": 1062037,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1986,
+  "Production": 1028240,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1986,
+  "Production": 948520,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1986,
+  "Production": 751900,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1986,
+  "Production": 604000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1986,
+  "Production": 580541,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1987,
+  "Production": 50940348,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1987,
+  "Production": 10884000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1987,
+  "Production": 8281000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1987,
+  "Production": 3690000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1987,
+  "Production": 2574359,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1987,
+  "Production": 2098518,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1987,
+  "Production": 1963000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1987,
+  "Production": 1520723,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1987,
+  "Production": 1272593,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1987,
+  "Production": 1173809,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1987,
+  "Production": 1118256,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1987,
+  "Production": 1021140,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1987,
+  "Production": 953380,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1987,
+  "Production": 735100,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1987,
+  "Production": 648000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1987,
+  "Production": 596000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1988,
+  "Production": 51339867,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1988,
+  "Production": 10879000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1988,
+  "Production": 8616000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1988,
+  "Production": 4050000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1988,
+  "Production": 2506467,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1988,
+  "Production": 1987982,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1988,
+  "Production": 1828000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1988,
+  "Production": 1587724,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1988,
+  "Production": 1271000,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1988,
+  "Production": 1164410,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1988,
+  "Production": 1026198,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1988,
+  "Production": 947380,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1988,
+  "Production": 946101,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1988,
+  "Production": 755400,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1988,
+  "Production": 688900,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1988,
+  "Production": 622408,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1989,
+  "Production": 51557846,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1989,
+  "Production": 10633000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1989,
+  "Production": 8800000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1989,
+  "Production": 4225000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1989,
+  "Production": 2558857,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1989,
+  "Production": 1953392,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1989,
+  "Production": 1673000,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1989,
+  "Production": 1491478,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1989,
+  "Production": 1162780,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1989,
+  "Production": 1145402,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1989,
+  "Production": 1030845,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1989,
+  "Production": 977789,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1989,
+  "Production": 951930,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1989,
+  "Production": 911000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1989,
+  "Production": 691676,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1989,
+  "Production": 636700,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1990,
+  "Production": 53028463,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1990,
+  "Production": 10465000,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1990,
+  "Production": 8814000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1990,
+  "Production": 4115000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1990,
+  "Production": 3007000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1990,
+  "Production": 2111968,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1990,
+  "Production": 1911747,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1990,
+  "Production": 1676726,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1990,
+  "Production": 1164855,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1990,
+  "Production": 1113919,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1990,
+  "Production": 1078000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1990,
+  "Production": 1035878,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1990,
+  "Production": 1001743,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1990,
+  "Production": 900100,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1990,
+  "Production": 746107,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "POL",
+  "Country": "Poland",
+  "Year": 1990,
+  "Production": 725400,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1991,
+  "Production": 53427572,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1991,
+  "Production": 10316064,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "OWID_USS",
+  "Country": "USSR",
+  "Year": 1991,
+  "Production": 8261000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "苏联",
+  "iso2Code": "OWID_USS"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1991,
+  "Production": 4510800,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1991,
+  "Production": 2918000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1991,
+  "Production": 2180707,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1991,
+  "Production": 2026068,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1991,
+  "Production": 1759569,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1991,
+  "Production": 1314500,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1991,
+  "Production": 1188687,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1991,
+  "Production": 1181141,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1991,
+  "Production": 1067080,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1991,
+  "Production": 1019566,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1991,
+  "Production": 865960,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1991,
+  "Production": 701007,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1991,
+  "Production": 681000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1992,
+  "Production": 52586169,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1992,
+  "Production": 10394989,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1992,
+  "Production": 4715500,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1992,
+  "Production": 3631500,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1992,
+  "Production": 2784000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1992,
+  "Production": 1876800,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1992,
+  "Production": 1790870,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1992,
+  "Production": 1789700,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1992,
+  "Production": 1655600,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1992,
+  "Production": 1549450,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1992,
+  "Production": 1247195,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1992,
+  "Production": 1217170,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1992,
+  "Production": 1051424,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1992,
+  "Production": 973000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1992,
+  "Production": 898800,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1992,
+  "Production": 720500,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1993,
+  "Production": 51991718,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1993,
+  "Production": 10471646,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1993,
+  "Production": 4806900,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1993,
+  "Production": 3358800,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1993,
+  "Production": 2808000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1993,
+  "Production": 1955000,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1993,
+  "Production": 1825813,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1993,
+  "Production": 1703800,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1993,
+  "Production": 1570337,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1993,
+  "Production": 1379000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1993,
+  "Production": 1256478,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1993,
+  "Production": 1187265,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1993,
+  "Production": 1045553,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1993,
+  "Production": 888000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1993,
+  "Production": 859630,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "KAZ",
+  "Country": "Kazakhstan",
+  "Year": 1993,
+  "Production": 661500,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哈萨克斯坦",
+  "iso2Code": "KZ"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1994,
+  "Production": 51850333,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1994,
+  "Production": 10454863,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1994,
+  "Production": 5136000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1994,
+  "Production": 3240200,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1994,
+  "Production": 2783000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1994,
+  "Production": 2114500,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1994,
+  "Production": 1824805,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1994,
+  "Production": 1626800,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1994,
+  "Production": 1427000,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1994,
+  "Production": 1420300,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1994,
+  "Production": 1364711,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1994,
+  "Production": 1170832,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1994,
+  "Production": 1039682,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1994,
+  "Production": 947000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1994,
+  "Production": 899460,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1994,
+  "Production": 646274,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1995,
+  "Production": 52565797,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1995,
+  "Production": 11061317,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1995,
+  "Production": 5710200,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1995,
+  "Production": 2733500,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1995,
+  "Production": 2688000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1995,
+  "Production": 2570500,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1995,
+  "Production": 1803417,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1995,
+  "Production": 1683300,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1995,
+  "Production": 1412336,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1995,
+  "Production": 1407800,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1995,
+  "Production": 1185900,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1995,
+  "Production": 1180461,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1995,
+  "Production": 1033811,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1995,
+  "Production": 1002000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1995,
+  "Production": 928210,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1995,
+  "Production": 702334,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1996,
+  "Production": 53604128,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1996,
+  "Production": 11441428,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1996,
+  "Production": 6186900,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1996,
+  "Production": 2976300,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1996,
+  "Production": 2694000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1996,
+  "Production": 2629825,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1996,
+  "Production": 1744696,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1996,
+  "Production": 1737000,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1996,
+  "Production": 1481800,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1996,
+  "Production": 1329947,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1996,
+  "Production": 1180537,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1996,
+  "Production": 1047800,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1996,
+  "Production": 1027940,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1996,
+  "Production": 1016500,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1996,
+  "Production": 730034,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1996,
+  "Production": 710000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1997,
+  "Production": 54632292,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1997,
+  "Production": 11578866,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1997,
+  "Production": 5921500,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1997,
+  "Production": 3629300,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1997,
+  "Production": 2712000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1997,
+  "Production": 2394900,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1997,
+  "Production": 1810300,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1997,
+  "Production": 1720000,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1997,
+  "Production": 1447600,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1997,
+  "Production": 1340071,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1997,
+  "Production": 1159360,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1997,
+  "Production": 1089480,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1997,
+  "Production": 1021966,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1997,
+  "Production": 929600,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 1997,
+  "Production": 789000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1997,
+  "Production": 762988,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1998,
+  "Production": 54149017,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1998,
+  "Production": 11562083,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1998,
+  "Production": 5794300,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1998,
+  "Production": 4013000,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1998,
+  "Production": 2469169,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1998,
+  "Production": 2246500,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1998,
+  "Production": 1955253,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1998,
+  "Production": 1632000,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1998,
+  "Production": 1379768,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1998,
+  "Production": 1367000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1998,
+  "Production": 1181920,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1998,
+  "Production": 1111280,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1998,
+  "Production": 1009915,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1998,
+  "Production": 793300,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1998,
+  "Production": 766000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1998,
+  "Production": 699000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 1999,
+  "Production": 55350433,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 1999,
+  "Production": 11684553,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 1999,
+  "Production": 6413300,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 1999,
+  "Production": 4548600,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 1999,
+  "Production": 2719784,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 1999,
+  "Production": 2010530,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 1999,
+  "Production": 1867600,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 1999,
+  "Production": 1609000,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 1999,
+  "Production": 1399629,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 1999,
+  "Production": 1374000,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 1999,
+  "Production": 1263530,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 1999,
+  "Production": 1164433,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 1999,
+  "Production": 997864,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 1999,
+  "Production": 791200,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 1999,
+  "Production": 716000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 1999,
+  "Production": 679000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2000,
+  "Production": 55721614,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2000,
+  "Production": 12016583,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2000,
+  "Production": 6578800,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2000,
+  "Production": 4618080,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2000,
+  "Production": 2718000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2000,
+  "Production": 1987902,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2000,
+  "Production": 1897900,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2000,
+  "Production": 1527600,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2000,
+  "Production": 1408618,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2000,
+  "Production": 1303500,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2000,
+  "Production": 1263440,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2000,
+  "Production": 1151935,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2000,
+  "Production": 986225,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 2000,
+  "Production": 754300,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2000,
+  "Production": 745000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2000,
+  "Production": 705000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2001,
+  "Production": 55182061,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2001,
+  "Production": 12195753,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2001,
+  "Production": 6823600,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2001,
+  "Production": 4577400,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2001,
+  "Production": 2461000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2001,
+  "Production": 2078900,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2001,
+  "Production": 1878600,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2001,
+  "Production": 1561442,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2001,
+  "Production": 1444621,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2001,
+  "Production": 1361500,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2001,
+  "Production": 1261610,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2001,
+  "Production": 1133037,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2001,
+  "Production": 974483,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2001,
+  "Production": 700000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2001,
+  "Production": 650841,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 2001,
+  "Production": 645700,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2002,
+  "Production": 56218641,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2002,
+  "Production": 11890031,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2002,
+  "Production": 7139000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2002,
+  "Production": 4697100,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2002,
+  "Production": 2493000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2002,
+  "Production": 2089742,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2002,
+  "Production": 1967400,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2002,
+  "Production": 1646277,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2002,
+  "Production": 1467574,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2002,
+  "Production": 1316375,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2002,
+  "Production": 1297530,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2002,
+  "Production": 1133800,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2002,
+  "Production": 963050,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 2002,
+  "Production": 703800,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2002,
+  "Production": 694000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2002,
+  "Production": 678838,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2003,
+  "Production": 57002713,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2003,
+  "Production": 12334552,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2003,
+  "Production": 7230000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2003,
+  "Production": 4882500,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2003,
+  "Production": 2658000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2003,
+  "Production": 2002300,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2003,
+  "Production": 1997563,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2003,
+  "Production": 1632047,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2003,
+  "Production": 1503760,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2003,
+  "Production": 1226235,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2003,
+  "Production": 1203610,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2003,
+  "Production": 1126869,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2003,
+  "Production": 951720,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "UKR",
+  "Country": "Ukraine",
+  "Year": 2003,
+  "Production": 722900,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2003,
+  "Production": 706369,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2003,
+  "Production": 699000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2004,
+  "Production": 58624976,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2004,
+  "Production": 11947637,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2004,
+  "Production": 7774000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2004,
+  "Production": 5043600,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2004,
+  "Production": 3024000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2004,
+  "Production": 2112892,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2004,
+  "Production": 1953900,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2004,
+  "Production": 1577971,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2004,
+  "Production": 1543730,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2004,
+  "Production": 1500140,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2004,
+  "Production": 1258000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2004,
+  "Production": 1145103,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2004,
+  "Production": 969127,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2004,
+  "Production": 719000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2004,
+  "Production": 717288,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ESP",
+  "Country": "Spain",
+  "Year": 2004,
+  "Production": 713886,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2005,
+  "Production": 58919609,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2005,
+  "Production": 11180612,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2005,
+  "Production": 8592000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2005,
+  "Production": 5112900,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2005,
+  "Production": 3130800,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2005,
+  "Production": 2090272,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2005,
+  "Production": 1809200,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2005,
+  "Production": 1557707,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2005,
+  "Production": 1546741,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2005,
+  "Production": 1469980,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2005,
+  "Production": 1166900,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2005,
+  "Production": 1101972,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2005,
+  "Production": 986740,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2005,
+  "Production": 792168,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2005,
+  "Production": 762000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2005,
+  "Production": 746000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2006,
+  "Production": 60167280,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2006,
+  "Production": 11242845,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2006,
+  "Production": 9020000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2006,
+  "Production": 5312970,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2006,
+  "Production": 3033600,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2006,
+  "Production": 2188318,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2006,
+  "Production": 1721500,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2006,
+  "Production": 1612992,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2006,
+  "Production": 1486675,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2006,
+  "Production": 1328700,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2006,
+  "Production": 1193180,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2006,
+  "Production": 1109214,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2006,
+  "Production": 1004868,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2006,
+  "Production": 847281,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2006,
+  "Production": 832000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2006,
+  "Production": 827220,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2007,
+  "Production": 61967641,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2007,
+  "Production": 11909626,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2007,
+  "Production": 9303000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2007,
+  "Production": 5635980,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2007,
+  "Production": 3223700,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2007,
+  "Production": 2168946,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2007,
+  "Production": 1699200,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2007,
+  "Production": 1635040,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2007,
+  "Production": 1502561,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2007,
+  "Production": 1277650,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2007,
+  "Production": 1185724,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2007,
+  "Production": 1118531,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2007,
+  "Production": 1023058,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2007,
+  "Production": 882000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2007,
+  "Production": 856261,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2007,
+  "Production": 829000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2008,
+  "Production": 62005802,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2008,
+  "Production": 12030872,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2008,
+  "Production": 9024000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2008,
+  "Production": 5559120,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2008,
+  "Production": 3131902,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2008,
+  "Production": 2138328,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2008,
+  "Production": 1768716,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2008,
+  "Production": 1667136,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2008,
+  "Production": 1502901,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2008,
+  "Production": 1303630,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2008,
+  "Production": 1199431,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2008,
+  "Production": 1056912,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2008,
+  "Production": 1014551,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2008,
+  "Production": 917368,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2008,
+  "Production": 862000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2008,
+  "Production": 798000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2009,
+  "Production": 62299899,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2009,
+  "Production": 12091245,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2009,
+  "Production": 8935000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2009,
+  "Production": 5635620,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2009,
+  "Production": 3378460,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2009,
+  "Production": 2106385,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2009,
+  "Production": 1740628,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2009,
+  "Production": 1704985,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2009,
+  "Production": 1515808,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2009,
+  "Production": 1239440,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2009,
+  "Production": 1189615,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2009,
+  "Production": 1049261,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2009,
+  "Production": 1006311,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2009,
+  "Production": 833000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2009,
+  "Production": 810068,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2009,
+  "Production": 803000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2010,
+  "Production": 62372151,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2010,
+  "Production": 11818953,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2010,
+  "Production": 9115000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2010,
+  "Production": 5661630,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2010,
+  "Production": 2630163,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2010,
+  "Production": 2128598,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2010,
+  "Production": 1744738,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2010,
+  "Production": 1727311,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2010,
+  "Production": 1530258,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2010,
+  "Production": 1240625,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2010,
+  "Production": 1205002,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2010,
+  "Production": 1068900,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2010,
+  "Production": 998071,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2010,
+  "Production": 908000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2010,
+  "Production": 897000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2010,
+  "Production": 766591,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2011,
+  "Production": 62074029,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2011,
+  "Production": 11969954,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2011,
+  "Production": 9030000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2011,
+  "Production": 5496390,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2011,
+  "Production": 2498954,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2011,
+  "Production": 2129021,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2011,
+  "Production": 1803932,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2011,
+  "Production": 1625469,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2011,
+  "Production": 1566806,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2011,
+  "Production": 1170376,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2011,
+  "Production": 1105995,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2011,
+  "Production": 1000374,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2011,
+  "Production": 989522,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2011,
+  "Production": 936000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2011,
+  "Production": 878000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2011,
+  "Production": 820985,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2012,
+  "Production": 62499165,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2012,
+  "Production": 11916067,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2012,
+  "Production": 9307000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2012,
+  "Production": 5532750,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2012,
+  "Production": 2595815,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2012,
+  "Production": 2152031,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2012,
+  "Production": 1820547,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2012,
+  "Production": 1641519,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2012,
+  "Production": 1493865,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2012,
+  "Production": 1146255,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2012,
+  "Production": 1026027,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2012,
+  "Production": 980561,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "ITA",
+  "Country": "Italy",
+  "Year": 2012,
+  "Production": 957787,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2012,
+  "Production": 885000,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2012,
+  "Production": 875000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2012,
+  "Production": 854232,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2013,
+  "Production": 63521962,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2013,
+  "Production": 11788608,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2013,
+  "Production": 9675000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2013,
+  "Production": 5517810,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2013,
+  "Production": 2821608,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2013,
+  "Production": 2359064,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2013,
+  "Production": 1806758,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2013,
+  "Production": 1633258,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2013,
+  "Production": 1400331,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2013,
+  "Production": 1116507,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2013,
+  "Production": 1023995,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2013,
+  "Production": 971291,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2013,
+  "Production": 953107,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2013,
+  "Production": 869292,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "COL",
+  "Country": "Colombia",
+  "Year": 2013,
+  "Production": 856232,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2013,
+  "Production": 847000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2014,
+  "Production": 63934750,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2014,
+  "Production": 11698116,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2014,
+  "Production": 9723000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2014,
+  "Production": 5541480,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2014,
+  "Production": 2674000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2014,
+  "Production": 2595149,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2014,
+  "Production": 1827152,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2014,
+  "Production": 1654135,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2014,
+  "Production": 1410854,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2014,
+  "Production": 1142603,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2014,
+  "Production": 1068591,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2014,
+  "Production": 1000659,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2014,
+  "Production": 960991,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2014,
+  "Production": 881999,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2014,
+  "Production": 877000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2014,
+  "Production": 850000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2015,
+  "Production": 63434353,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2015,
+  "Production": 10777601,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2015,
+  "Production": 9425000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2015,
+  "Production": 5552010,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2015,
+  "Production": 2727000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2015,
+  "Production": 2661640,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2015,
+  "Production": 1845236,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2015,
+  "Production": 1649373,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2015,
+  "Production": 1447906,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2015,
+  "Production": 1132340,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2015,
+  "Production": 1072800,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2015,
+  "Production": 1017551,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2015,
+  "Production": 1014926,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2015,
+  "Production": 931645,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2015,
+  "Production": 885000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2015,
+  "Production": 882000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2016,
+  "Production": 63975547,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2016,
+  "Production": 11470607,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2016,
+  "Production": 9284000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2016,
+  "Production": 5552190,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2016,
+  "Production": 2644000,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2016,
+  "Production": 2315994,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2016,
+  "Production": 1878705,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2016,
+  "Production": 1588769,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2016,
+  "Production": 1466099,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2016,
+  "Production": 1155483,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2016,
+  "Production": 1111992,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2016,
+  "Production": 1089686,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2016,
+  "Production": 1059195,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2016,
+  "Production": 921743,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2016,
+  "Production": 915000,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2016,
+  "Production": 915000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2017,
+  "Production": 65193519,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2017,
+  "Production": 11907239,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2017,
+  "Production": 9550000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2017,
+  "Production": 5711580,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2017,
+  "Production": 2844511,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2017,
+  "Production": 2068616,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2017,
+  "Production": 1926901,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2017,
+  "Production": 1569267,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2017,
+  "Production": 1432780,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2017,
+  "Production": 1167695,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2017,
+  "Production": 1137008,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2017,
+  "Production": 1055000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2017,
+  "Production": 1014071,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2017,
+  "Production": 987482,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2017,
+  "Production": 911875,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2017,
+  "Production": 905000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2018,
+  "Production": 66739789,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2018,
+  "Production": 12219203,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2018,
+  "Production": 9900000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2018,
+  "Production": 5796540,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2018,
+  "Production": 3066094,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2018,
+  "Production": 2237675,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2018,
+  "Production": 1980846,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2018,
+  "Production": 1608136,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2018,
+  "Production": 1460000,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2018,
+  "Production": 1320744,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2018,
+  "Production": 1109000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2018,
+  "Production": 1095000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2018,
+  "Production": 1050612,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2018,
+  "Production": 1003859,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2018,
+  "Production": 1003214,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2018,
+  "Production": 922000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2019,
+  "Production": 67915624,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2019,
+  "Production": 12348749,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2019,
+  "Production": 10200000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2019,
+  "Production": 5988070,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2019,
+  "Production": 3135908,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2019,
+  "Production": 2351793,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2019,
+  "Production": 2027634,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2019,
+  "Production": 1625163,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2019,
+  "Production": 1428460,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2019,
+  "Production": 1393831,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2019,
+  "Production": 1136000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2019,
+  "Production": 1107000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2019,
+  "Production": 1075479,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2019,
+  "Production": 1036820,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2019,
+  "Production": 944724,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "IND",
+  "Country": "India",
+  "Year": 2019,
+  "Production": 915640,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Code": "OWID_WRL",
+  "Country": "World",
+  "Year": 2020,
+  "Production": 67883097,
+  "Type": "Meat, cattle",
+  "rank": 0,
+  "zhName": "世界",
+  "iso2Code": "UN"
+}, {
+  "Code": "USA",
+  "Country": "United States of America",
+  "Year": 2020,
+  "Production": 12357232,
+  "Type": "Meat, cattle",
+  "rank": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Code": "BRA",
+  "Country": "Brazil",
+  "Year": 2020,
+  "Production": 10100000,
+  "Type": "Meat, cattle",
+  "rank": 2,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Code": "CHN",
+  "Country": "China",
+  "Year": 2020,
+  "Production": 6034215,
+  "Type": "Meat, cattle",
+  "rank": 3,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Code": "ARG",
+  "Country": "Argentina",
+  "Year": 2020,
+  "Production": 3168472,
+  "Type": "Meat, cattle",
+  "rank": 4,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Code": "AUS",
+  "Country": "Australia",
+  "Year": 2020,
+  "Production": 2371600,
+  "Type": "Meat, cattle",
+  "rank": 5,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Code": "MEX",
+  "Country": "Mexico",
+  "Year": 2020,
+  "Production": 2081262,
+  "Type": "Meat, cattle",
+  "rank": 6,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Code": "RUS",
+  "Country": "Russian Federation",
+  "Year": 2020,
+  "Production": 1633742,
+  "Type": "Meat, cattle",
+  "rank": 7,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Code": "FRA",
+  "Country": "France",
+  "Year": 2020,
+  "Production": 1434590,
+  "Type": "Meat, cattle",
+  "rank": 8,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Code": "CAN",
+  "Country": "Canada",
+  "Year": 2020,
+  "Production": 1381940,
+  "Type": "Meat, cattle",
+  "rank": 9,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Code": "PAK",
+  "Country": "Pakistan",
+  "Year": 2020,
+  "Production": 1179000,
+  "Type": "Meat, cattle",
+  "rank": 10,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Code": "DEU",
+  "Country": "Germany",
+  "Year": 2020,
+  "Production": 1091000,
+  "Type": "Meat, cattle",
+  "rank": 11,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Code": "ZAF",
+  "Country": "South Africa",
+  "Year": 2020,
+  "Production": 1038688,
+  "Type": "Meat, cattle",
+  "rank": 12,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Code": "UZB",
+  "Country": "Uzbekistan",
+  "Year": 2020,
+  "Production": 961772,
+  "Type": "Meat, cattle",
+  "rank": 13,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Code": "TUR",
+  "Country": "Türkiye",
+  "Year": 2020,
+  "Production": 961519,
+  "Type": "Meat, cattle",
+  "rank": 14,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Code": "GBR",
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Year": 2020,
+  "Production": 932000,
+  "Type": "Meat, cattle",
+  "rank": 15,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}]
