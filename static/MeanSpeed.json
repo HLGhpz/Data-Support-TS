@@ -1,0 +1,1297 @@
+[{
+  "Country": "United States",
+  "MS": 107,
+  "gMS": 107,
+  "aMS": 114,
+  "Index": 1,
+  "zhName": "美国",
+  "iso2Code": "US"
+}, {
+  "Country": "Portugal",
+  "MS": 106,
+  "gMS": 106,
+  "aMS": 114,
+  "Index": 2,
+  "zhName": "葡萄牙",
+  "iso2Code": "PT"
+}, {
+  "Country": "Saudi Arabia",
+  "MS": 106,
+  "gMS": 106,
+  "aMS": 112,
+  "Index": 3,
+  "zhName": "沙特阿拉伯",
+  "iso2Code": "SA"
+}, {
+  "Country": "Canada",
+  "MS": 106,
+  "gMS": 103,
+  "aMS": 119,
+  "Index": 4,
+  "zhName": "加拿大",
+  "iso2Code": "CA"
+}, {
+  "Country": "France",
+  "MS": 105,
+  "gMS": 105,
+  "aMS": 114,
+  "Index": 5,
+  "zhName": "法国",
+  "iso2Code": "FR"
+}, {
+  "Country": "Spain",
+  "MS": 103,
+  "gMS": 102,
+  "aMS": 115,
+  "Index": 6,
+  "zhName": "西班牙",
+  "iso2Code": "ES"
+}, {
+  "Country": "Oman",
+  "MS": 102,
+  "gMS": 100,
+  "aMS": 111,
+  "Index": 7,
+  "zhName": "阿曼",
+  "iso2Code": "OM"
+}, {
+  "Country": "South Africa",
+  "MS": 100,
+  "gMS": 99,
+  "aMS": 106,
+  "Index": 8,
+  "zhName": "南非",
+  "iso2Code": "ZA"
+}, {
+  "Country": "Namibia",
+  "MS": 99,
+  "gMS": 99,
+  "aMS": 114,
+  "Index": 9,
+  "zhName": "纳米比亚",
+  "iso2Code": "NA"
+}, {
+  "Country": "Croatia",
+  "MS": 98,
+  "gMS": 97,
+  "aMS": 117,
+  "Index": 10,
+  "zhName": "克罗地亚",
+  "iso2Code": "HR"
+}, {
+  "Country": "Czech Republic",
+  "MS": 98,
+  "gMS": 93,
+  "aMS": 109,
+  "Index": 11,
+  "zhName": "捷克",
+  "iso2Code": "CZ"
+}, {
+  "Country": "Germany",
+  "MS": 97,
+  "gMS": 96,
+  "aMS": 107,
+  "Index": 12,
+  "zhName": "德国",
+  "iso2Code": "DE"
+}, {
+  "Country": "Hungary",
+  "MS": 96,
+  "gMS": 96,
+  "aMS": 104,
+  "Index": 13,
+  "zhName": "匈牙利",
+  "iso2Code": "HU"
+}, {
+  "Country": "Austria",
+  "MS": 96,
+  "gMS": 95,
+  "aMS": 107,
+  "Index": 14,
+  "zhName": "奥地利",
+  "iso2Code": "AT"
+}, {
+  "Country": "Australia",
+  "MS": 96,
+  "gMS": 96,
+  "aMS": 106,
+  "Index": 15,
+  "zhName": "澳大利亚",
+  "iso2Code": "AU"
+}, {
+  "Country": "Morocco",
+  "MS": 95,
+  "gMS": 95,
+  "aMS": 103,
+  "Index": 16,
+  "zhName": "摩洛哥",
+  "iso2Code": "MA"
+}, {
+  "Country": "Italy",
+  "MS": 95,
+  "gMS": 95,
+  "aMS": 113,
+  "Index": 17,
+  "zhName": "意大利",
+  "iso2Code": "IT"
+}, {
+  "Country": "Serbia",
+  "MS": 94,
+  "gMS": 93,
+  "aMS": 106,
+  "Index": 18,
+  "zhName": "塞尔维亚",
+  "iso2Code": "RS"
+}, {
+  "Country": "Iran",
+  "MS": 94,
+  "gMS": 94,
+  "aMS": 106,
+  "Index": 19,
+  "zhName": "伊朗",
+  "iso2Code": "IR"
+}, {
+  "Country": "Sweden",
+  "MS": 94,
+  "gMS": 93,
+  "aMS": 102,
+  "Index": 20,
+  "zhName": "瑞典",
+  "iso2Code": "SE"
+}, {
+  "Country": "Slovak Republic",
+  "MS": 93,
+  "gMS": 94,
+  "aMS": 105,
+  "Index": 21,
+  "zhName": "斯洛伐克",
+  "iso2Code": "SK"
+}, {
+  "Country": "Turkey",
+  "MS": 93,
+  "gMS": 90,
+  "aMS": 109,
+  "Index": 22,
+  "zhName": "土耳其",
+  "iso2Code": "TR"
+}, {
+  "Country": "Korea",
+  "MS": 93,
+  "gMS": 93,
+  "aMS": 100,
+  "Index": 23,
+  "zhName": "韩国",
+  "iso2Code": "KR"
+}, {
+  "Country": "Greece",
+  "MS": 93,
+  "gMS": 92,
+  "aMS": 115,
+  "Index": 24,
+  "zhName": "希腊",
+  "iso2Code": "GR"
+}, {
+  "Country": "Belgium",
+  "MS": 92,
+  "gMS": 91,
+  "aMS": 98,
+  "Index": 25,
+  "zhName": "比利时",
+  "iso2Code": "BE"
+}, {
+  "Country": "Chile",
+  "MS": 92,
+  "gMS": 86,
+  "aMS": 101,
+  "Index": 26,
+  "zhName": "智利",
+  "iso2Code": "CL"
+}, {
+  "Country": "Poland",
+  "MS": 92,
+  "gMS": 90,
+  "aMS": 98,
+  "Index": 27,
+  "zhName": "波兰",
+  "iso2Code": "PL"
+}, {
+  "Country": "Malaysia",
+  "MS": 92,
+  "gMS": 92,
+  "aMS": 101,
+  "Index": 28,
+  "zhName": "马来西亚",
+  "iso2Code": "MY"
+}, {
+  "Country": "Taiwan",
+  "MS": 91,
+  "gMS": 89,
+  "aMS": 100,
+  "Index": 29,
+  "zhName": "中国台湾省",
+  "iso2Code": "CN"
+}, {
+  "Country": "Botswana",
+  "MS": 91,
+  "gMS": 91,
+  "aMS": 96,
+  "Index": 30,
+  "zhName": "博茨瓦纳",
+  "iso2Code": "BW"
+}, {
+  "Country": "Argentina",
+  "MS": 91,
+  "gMS": 92,
+  "aMS": 95,
+  "Index": 31,
+  "zhName": "阿根廷",
+  "iso2Code": "AR"
+}, {
+  "Country": "Mexico",
+  "MS": 90,
+  "gMS": 85,
+  "aMS": 99,
+  "Index": 32,
+  "zhName": "墨西哥",
+  "iso2Code": "MX"
+}, {
+  "Country": "Slovenia",
+  "MS": 90,
+  "gMS": 88,
+  "aMS": 100,
+  "Index": 33,
+  "zhName": "斯洛文尼亚",
+  "iso2Code": "SI"
+}, {
+  "Country": "China",
+  "MS": 90,
+  "gMS": 91,
+  "aMS": 98,
+  "Index": 34,
+  "zhName": "中国",
+  "iso2Code": "CN"
+}, {
+  "Country": "Libya",
+  "MS": 90,
+  "gMS": 85,
+  "aMS": 110,
+  "Index": 35,
+  "zhName": "利比亚",
+  "iso2Code": "LY"
+}, {
+  "Country": "Lithuania",
+  "MS": 89,
+  "gMS": 88,
+  "aMS": 93,
+  "Index": 36,
+  "zhName": "立陶宛",
+  "iso2Code": "LT"
+}, {
+  "Country": "Ireland",
+  "MS": 88,
+  "gMS": 87,
+  "aMS": 95,
+  "Index": 37,
+  "zhName": "爱尔兰",
+  "iso2Code": "IE"
+}, {
+  "Country": "Algeria",
+  "MS": 88,
+  "gMS": 88,
+  "aMS": 99,
+  "Index": 38,
+  "zhName": "阿尔及利亚",
+  "iso2Code": "DZ"
+}, {
+  "Country": "Brunei Darussalam",
+  "MS": 88,
+  "gMS": 88,
+  "aMS": 101,
+  "Index": 39,
+  "zhName": "文莱",
+  "iso2Code": "BN"
+}, {
+  "Country": "Bulgaria",
+  "MS": 88,
+  "gMS": 87,
+  "aMS": 95,
+  "Index": 40,
+  "zhName": "保加利亚",
+  "iso2Code": "BG"
+}, {
+  "Country": "United Kingdom",
+  "MS": 87,
+  "gMS": 84,
+  "aMS": 95,
+  "Index": 41,
+  "zhName": "英国",
+  "iso2Code": "GB"
+}, {
+  "Country": "Netherlands",
+  "MS": 87,
+  "gMS": 87,
+  "aMS": 98,
+  "Index": 42,
+  "zhName": "荷兰",
+  "iso2Code": "NL"
+}, {
+  "Country": "Switzerland",
+  "MS": 87,
+  "gMS": 85,
+  "aMS": 97,
+  "Index": 43,
+  "zhName": "瑞士",
+  "iso2Code": "CH"
+}, {
+  "Country": "Pakistan",
+  "MS": 86,
+  "gMS": 86,
+  "aMS": 94,
+  "Index": 44,
+  "zhName": "巴基斯坦",
+  "iso2Code": "PK"
+}, {
+  "Country": "Belarus",
+  "MS": 85,
+  "gMS": 85,
+  "aMS": 91,
+  "Index": 45,
+  "zhName": "白俄罗斯",
+  "iso2Code": "BY"
+}, {
+  "Country": "Kuwait",
+  "MS": 85,
+  "gMS": 85,
+  "aMS": 97,
+  "Index": 46,
+  "zhName": "科威特",
+  "iso2Code": "KW"
+}, {
+  "Country": "Israel",
+  "MS": 84,
+  "gMS": 84,
+  "aMS": 99,
+  "Index": 47,
+  "zhName": "以色列",
+  "iso2Code": "IL"
+}, {
+  "Country": "Venezuela",
+  "MS": 83,
+  "gMS": 83,
+  "aMS": 95,
+  "Index": 48,
+  "zhName": "委内瑞拉",
+  "iso2Code": "VE"
+}, {
+  "Country": "Finland",
+  "MS": 83,
+  "gMS": 83,
+  "aMS": 89,
+  "Index": 49,
+  "zhName": "芬兰",
+  "iso2Code": "FI"
+}, {
+  "Country": "Zimbabwe",
+  "MS": 83,
+  "gMS": 83,
+  "aMS": 92,
+  "Index": 50,
+  "zhName": "津巴布韦",
+  "iso2Code": "ZW"
+}, {
+  "Country": "Egypt",
+  "MS": 83,
+  "gMS": 83,
+  "aMS": 90,
+  "Index": 51,
+  "zhName": "埃及",
+  "iso2Code": "EG"
+}, {
+  "Country": "New Zealand",
+  "MS": 83,
+  "gMS": 84,
+  "aMS": 95,
+  "Index": 52,
+  "zhName": "新西兰",
+  "iso2Code": "NZ"
+}, {
+  "Country": "Uruguay",
+  "MS": 82,
+  "gMS": 81,
+  "aMS": 88,
+  "Index": 53,
+  "zhName": "乌拉圭",
+  "iso2Code": "UY"
+}, {
+  "Country": "Qatar",
+  "MS": 82,
+  "gMS": 81,
+  "aMS": 86,
+  "Index": 54,
+  "zhName": "卡塔尔",
+  "iso2Code": "QA"
+}, {
+  "Country": "Japan",
+  "MS": 81,
+  "gMS": 81,
+  "aMS": 92,
+  "Index": 55,
+  "zhName": "日本",
+  "iso2Code": "JP"
+}, {
+  "Country": "Estonia",
+  "MS": 81,
+  "gMS": 80,
+  "aMS": 85,
+  "Index": 56,
+  "zhName": "爱沙尼亚",
+  "iso2Code": "EE"
+}, {
+  "Country": "United Arab Emirates",
+  "MS": 80,
+  "gMS": 82,
+  "aMS": 90,
+  "Index": 57,
+  "zhName": "阿联酋",
+  "iso2Code": "AE"
+}, {
+  "Country": "Azerbaijan",
+  "MS": 80,
+  "gMS": 82,
+  "aMS": 89,
+  "Index": 58,
+  "zhName": "阿塞拜疆",
+  "iso2Code": "AZ"
+}, {
+  "Country": "Turkmenistan",
+  "MS": 79,
+  "gMS": 81,
+  "aMS": 90,
+  "Index": 59,
+  "zhName": "土库曼斯坦",
+  "iso2Code": "TM"
+}, {
+  "Country": "Iraq",
+  "MS": 79,
+  "gMS": 79,
+  "aMS": 84,
+  "Index": 60,
+  "zhName": "伊拉克",
+  "iso2Code": "IQ"
+}, {
+  "Country": "Denmark",
+  "MS": 78,
+  "gMS": 79,
+  "aMS": 87,
+  "Index": 61,
+  "zhName": "丹麦",
+  "iso2Code": "DK"
+}, {
+  "Country": "Puerto Rico",
+  "MS": 78,
+  "gMS": 77,
+  "aMS": 95,
+  "Index": 62,
+  "zhName": "波多黎各",
+  "iso2Code": "PR"
+}, {
+  "Country": "Côte d'Ivoire",
+  "MS": 78,
+  "gMS": 79,
+  "aMS": 84,
+  "Index": 63,
+  "zhName": "科特迪瓦",
+  "iso2Code": ""
+}, {
+  "Country": "Tunisia",
+  "MS": 78,
+  "gMS": 78,
+  "aMS": 86,
+  "Index": 64,
+  "zhName": "突尼斯",
+  "iso2Code": "TN"
+}, {
+  "Country": "Mozambique",
+  "MS": 78,
+  "gMS": 77,
+  "aMS": 97,
+  "Index": 65,
+  "zhName": "莫桑比克",
+  "iso2Code": "MZ"
+}, {
+  "Country": "Cuba",
+  "MS": 78,
+  "gMS": 79,
+  "aMS": 82,
+  "Index": 66,
+  "zhName": "古巴",
+  "iso2Code": "CU"
+}, {
+  "Country": "Angola",
+  "MS": 78,
+  "gMS": 78,
+  "aMS": 86,
+  "Index": 67,
+  "zhName": "安哥拉",
+  "iso2Code": "AO"
+}, {
+  "Country": "Mauritania",
+  "MS": 77,
+  "gMS": 78,
+  "aMS": 85,
+  "Index": 68,
+  "zhName": "毛里塔尼亚",
+  "iso2Code": "MR"
+}, {
+  "Country": "Iceland",
+  "MS": 77,
+  "gMS": 77,
+  "aMS": 97,
+  "Index": 69,
+  "zhName": "冰岛",
+  "iso2Code": "IS"
+}, {
+  "Country": "Latvia",
+  "MS": 77,
+  "gMS": 77,
+  "aMS": 82,
+  "Index": 70,
+  "zhName": "拉脱维亚",
+  "iso2Code": "LV"
+}, {
+  "Country": "Thailand",
+  "MS": 77,
+  "gMS": 73,
+  "aMS": 86,
+  "Index": 71,
+  "zhName": "泰国",
+  "iso2Code": "TH"
+}, {
+  "Country": "Jordan",
+  "MS": 77,
+  "gMS": 74,
+  "aMS": 87,
+  "Index": 72,
+  "zhName": "约旦",
+  "iso2Code": "JO"
+}, {
+  "Country": "Cyprus",
+  "MS": 76,
+  "gMS": 76,
+  "aMS": 93,
+  "Index": 73,
+  "zhName": "塞浦路斯",
+  "iso2Code": "CY"
+}, {
+  "Country": "Russia",
+  "MS": 76,
+  "gMS": 77,
+  "aMS": 83,
+  "Index": 74,
+  "zhName": "俄罗斯",
+  "iso2Code": "RU"
+}, {
+  "Country": "Ukraine",
+  "MS": 75,
+  "gMS": 76,
+  "aMS": 83,
+  "Index": 75,
+  "zhName": "乌克兰",
+  "iso2Code": "UA"
+}, {
+  "Country": "Malawi",
+  "MS": 75,
+  "gMS": 74,
+  "aMS": 86,
+  "Index": 76,
+  "zhName": "马拉维",
+  "iso2Code": "MW"
+}, {
+  "Country": "North Macedonia",
+  "MS": 74,
+  "gMS": 74,
+  "aMS": 89,
+  "Index": 77,
+  "zhName": "北马其顿",
+  "iso2Code": "MK"
+}, {
+  "Country": "Dominican Republic",
+  "MS": 74,
+  "gMS": 75,
+  "aMS": 82,
+  "Index": 78,
+  "zhName": "多米尼加",
+  "iso2Code": "DO"
+}, {
+  "Country": "Equatorial Guinea",
+  "MS": 74,
+  "gMS": 76,
+  "aMS": 86,
+  "Index": 79,
+  "zhName": "赤道几内亚",
+  "iso2Code": "GQ"
+}, {
+  "Country": "Norway",
+  "MS": 73,
+  "gMS": 74,
+  "aMS": 88,
+  "Index": 80,
+  "zhName": "挪威",
+  "iso2Code": "NO"
+}, {
+  "Country": "Zambia",
+  "MS": 73,
+  "gMS": 71,
+  "aMS": 81,
+  "Index": 81,
+  "zhName": "赞比亚",
+  "iso2Code": "ZM"
+}, {
+  "Country": "Romania",
+  "MS": 73,
+  "gMS": 72,
+  "aMS": 83,
+  "Index": 82,
+  "zhName": "罗马尼亚",
+  "iso2Code": "RO"
+}, {
+  "Country": "Sudan",
+  "MS": 72,
+  "gMS": 73,
+  "aMS": 83,
+  "Index": 83,
+  "zhName": "苏丹",
+  "iso2Code": "SD"
+}, {
+  "Country": "Panama",
+  "MS": 72,
+  "gMS": 72,
+  "aMS": 87,
+  "Index": 84,
+  "zhName": "巴拿马",
+  "iso2Code": "PA"
+}, {
+  "Country": "Mali",
+  "MS": 72,
+  "gMS": 73,
+  "aMS": 84,
+  "Index": 85,
+  "zhName": "马里",
+  "iso2Code": "ML"
+}, {
+  "Country": "Brazil",
+  "MS": 72,
+  "gMS": 72,
+  "aMS": 81,
+  "Index": 86,
+  "zhName": "巴西",
+  "iso2Code": "BR"
+}, {
+  "Country": "Kazakhstan",
+  "MS": 72,
+  "gMS": 71,
+  "aMS": 81,
+  "Index": 87,
+  "zhName": "哈萨克斯坦",
+  "iso2Code": "KZ"
+}, {
+  "Country": "Syria",
+  "MS": 72,
+  "gMS": 71,
+  "aMS": 78,
+  "Index": 88,
+  "zhName": "叙利亚",
+  "iso2Code": "SY"
+}, {
+  "Country": "Myanmar",
+  "MS": 71,
+  "gMS": 69,
+  "aMS": 80,
+  "Index": 89,
+  "zhName": "缅甸",
+  "iso2Code": "MM"
+}, {
+  "Country": "Uzbekistan",
+  "MS": 71,
+  "gMS": 68,
+  "aMS": 83,
+  "Index": 90,
+  "zhName": "乌兹别克斯坦",
+  "iso2Code": "UZ"
+}, {
+  "Country": "Senegal",
+  "MS": 71,
+  "gMS": 70,
+  "aMS": 80,
+  "Index": 91,
+  "zhName": "塞内加尔",
+  "iso2Code": "SN"
+}, {
+  "Country": "Eswatini",
+  "MS": 69,
+  "gMS": 68,
+  "aMS": 82,
+  "Index": 92,
+  "zhName": "斯威士兰",
+  "iso2Code": "SZ"
+}, {
+  "Country": "Djibouti",
+  "MS": 69,
+  "gMS": 69,
+  "aMS": 91,
+  "Index": 93,
+  "zhName": "吉布提",
+  "iso2Code": "DJ"
+}, {
+  "Country": "Niger",
+  "MS": 69,
+  "gMS": 69,
+  "aMS": 78,
+  "Index": 94,
+  "zhName": "尼日尔",
+  "iso2Code": "NE"
+}, {
+  "Country": "Paraguay",
+  "MS": 67,
+  "gMS": 67,
+  "aMS": 73,
+  "Index": 95,
+  "zhName": "巴拉圭",
+  "iso2Code": "PY"
+}, {
+  "Country": "Belize",
+  "MS": 67,
+  "gMS": 66,
+  "aMS": 79,
+  "Index": 96,
+  "zhName": "伯利兹",
+  "iso2Code": "BZ"
+}, {
+  "Country": "Moldova",
+  "MS": 67,
+  "gMS": 68,
+  "aMS": 74,
+  "Index": 97,
+  "zhName": "摩尔多瓦",
+  "iso2Code": "MD"
+}, {
+  "Country": "Liberia",
+  "MS": 66,
+  "gMS": 65,
+  "aMS": 74,
+  "Index": 98,
+  "zhName": "利比里亚",
+  "iso2Code": "LR"
+}, {
+  "Country": "Suriname",
+  "MS": 65,
+  "gMS": 65,
+  "aMS": 74,
+  "Index": 99,
+  "zhName": "苏里南",
+  "iso2Code": "SR"
+}, {
+  "Country": "Kosovo",
+  "MS": 65,
+  "gMS": 66,
+  "aMS": 74,
+  "Index": 100,
+  "zhName": "科索沃",
+  "iso2Code": "XK"
+}, {
+  "Country": "Albania",
+  "MS": 65,
+  "gMS": 65,
+  "aMS": 80,
+  "Index": 101,
+  "zhName": "阿尔巴尼亚",
+  "iso2Code": "AL"
+}, {
+  "Country": "Sierra Leone",
+  "MS": 64,
+  "gMS": 62,
+  "aMS": 75,
+  "Index": 102,
+  "zhName": "塞拉利昂",
+  "iso2Code": "SL"
+}, {
+  "Country": "Georgia",
+  "MS": 64,
+  "gMS": 65,
+  "aMS": 75,
+  "Index": 103,
+  "zhName": "格鲁吉亚",
+  "iso2Code": "GE"
+}, {
+  "Country": "Uganda",
+  "MS": 64,
+  "gMS": 63,
+  "aMS": 69,
+  "Index": 104,
+  "zhName": "乌干达",
+  "iso2Code": "UG"
+}, {
+  "Country": "Chad",
+  "MS": 63,
+  "gMS": 62,
+  "aMS": 68,
+  "Index": 105,
+  "zhName": "乍得",
+  "iso2Code": "TD"
+}, {
+  "Country": "Benin",
+  "MS": 63,
+  "gMS": 62,
+  "aMS": 70,
+  "Index": 106,
+  "zhName": "贝宁",
+  "iso2Code": "BJ"
+}, {
+  "Country": "Burkina Faso",
+  "MS": 63,
+  "gMS": 62,
+  "aMS": 68,
+  "Index": 107,
+  "zhName": "布基纳法索",
+  "iso2Code": "BF"
+}, {
+  "Country": "Congo, Republic of",
+  "MS": 63,
+  "gMS": 62,
+  "aMS": 73,
+  "Index": 108,
+  "zhName": "刚果（布）",
+  "iso2Code": "CG"
+}, {
+  "Country": "Togo",
+  "MS": 63,
+  "gMS": 62,
+  "aMS": 66,
+  "Index": 109,
+  "zhName": "多哥",
+  "iso2Code": "TG"
+}, {
+  "Country": "Peru",
+  "MS": 62,
+  "gMS": 62,
+  "aMS": 73,
+  "Index": 110,
+  "zhName": "秘鲁",
+  "iso2Code": "PE"
+}, {
+  "Country": "Eritrea",
+  "MS": 62,
+  "gMS": 59,
+  "aMS": 82,
+  "Index": 111,
+  "zhName": "厄立特里亚",
+  "iso2Code": "ER"
+}, {
+  "Country": "Democratic Republic of the Congo",
+  "MS": 62,
+  "gMS": 61,
+  "aMS": 77,
+  "Index": 112,
+  "zhName": "刚果（金）",
+  "iso2Code": "CD"
+}, {
+  "Country": "Jamaica",
+  "MS": 61,
+  "gMS": 61,
+  "aMS": 71,
+  "Index": 113,
+  "zhName": "牙买加",
+  "iso2Code": "JM"
+}, {
+  "Country": "Central African Republic",
+  "MS": 61,
+  "gMS": 62,
+  "aMS": 73,
+  "Index": 114,
+  "zhName": "中非共和国",
+  "iso2Code": "CF"
+}, {
+  "Country": "Kyrgyz Republic",
+  "MS": 61,
+  "gMS": 63,
+  "aMS": 77,
+  "Index": 115,
+  "zhName": "吉尔吉斯坦",
+  "iso2Code": "KG"
+}, {
+  "Country": "Ethiopia",
+  "MS": 61,
+  "gMS": 59,
+  "aMS": 77,
+  "Index": 116,
+  "zhName": "埃塞俄比亚",
+  "iso2Code": "ET"
+}, {
+  "Country": "Gabon",
+  "MS": 60,
+  "gMS": 60,
+  "aMS": 71,
+  "Index": 117,
+  "zhName": "加蓬",
+  "iso2Code": "GA"
+}, {
+  "Country": "Guinea-Bissau",
+  "MS": 60,
+  "gMS": 60,
+  "aMS": 73,
+  "Index": 118,
+  "zhName": "几内亚比绍",
+  "iso2Code": "GW"
+}, {
+  "Country": "Lebanon",
+  "MS": 60,
+  "gMS": 61,
+  "aMS": 67,
+  "Index": 119,
+  "zhName": "黎巴嫩",
+  "iso2Code": "LB"
+}, {
+  "Country": "Laos",
+  "MS": 60,
+  "gMS": 59,
+  "aMS": 73,
+  "Index": 120,
+  "zhName": "老挝",
+  "iso2Code": "LA"
+}, {
+  "Country": "Ecuador",
+  "MS": 60,
+  "gMS": 62,
+  "aMS": 74,
+  "Index": 121,
+  "zhName": "厄瓜多尔",
+  "iso2Code": "EC"
+}, {
+  "Country": "Lesotho",
+  "MS": 60,
+  "gMS": 60,
+  "aMS": 76,
+  "Index": 122,
+  "zhName": "莱索托",
+  "iso2Code": "LS"
+}, {
+  "Country": "Montenegro",
+  "MS": 59,
+  "gMS": 59,
+  "aMS": 75,
+  "Index": 123,
+  "zhName": "黑山",
+  "iso2Code": "ME"
+}, {
+  "Country": "Guyana",
+  "MS": 59,
+  "gMS": 59,
+  "aMS": 74,
+  "Index": 124,
+  "zhName": "圭亚那",
+  "iso2Code": "GY"
+}, {
+  "Country": "Papua New Guinea",
+  "MS": 59,
+  "gMS": 58,
+  "aMS": 67,
+  "Index": 125,
+  "zhName": "巴布亚新几内亚",
+  "iso2Code": "PG"
+}, {
+  "Country": "South Sudan",
+  "MS": 59,
+  "gMS": 60,
+  "aMS": 67,
+  "Index": 126,
+  "zhName": "南苏丹",
+  "iso2Code": "SS"
+}, {
+  "Country": "Somalia",
+  "MS": 58,
+  "gMS": 57,
+  "aMS": 69,
+  "Index": 127,
+  "zhName": "索马里",
+  "iso2Code": "SO"
+}, {
+  "Country": "India",
+  "MS": 58,
+  "gMS": 58,
+  "aMS": 63,
+  "Index": 128,
+  "zhName": "印度",
+  "iso2Code": "IN"
+}, {
+  "Country": "Kenya",
+  "MS": 57,
+  "gMS": 55,
+  "aMS": 62,
+  "Index": 129,
+  "zhName": "肯尼亚",
+  "iso2Code": "KE"
+}, {
+  "Country": "Colombia",
+  "MS": 57,
+  "gMS": 55,
+  "aMS": 72,
+  "Index": 130,
+  "zhName": "哥伦比亚",
+  "iso2Code": "CO"
+}, {
+  "Country": "Armenia",
+  "MS": 57,
+  "gMS": 58,
+  "aMS": 70,
+  "Index": 131,
+  "zhName": "亚美尼亚",
+  "iso2Code": "AM"
+}, {
+  "Country": "Bosnia and Herzegovina",
+  "MS": 57,
+  "gMS": 57,
+  "aMS": 70,
+  "Index": 132,
+  "zhName": "波黑",
+  "iso2Code": "BA"
+}, {
+  "Country": "Afghanistan",
+  "MS": 57,
+  "gMS": 55,
+  "aMS": 63,
+  "Index": 133,
+  "zhName": "阿富汗",
+  "iso2Code": "AF"
+}, {
+  "Country": "Tanzania",
+  "MS": 57,
+  "gMS": 49,
+  "aMS": 66,
+  "Index": 134,
+  "zhName": "坦桑尼亚",
+  "iso2Code": "TZ"
+}, {
+  "Country": "Cameroon",
+  "MS": 56,
+  "gMS": 52,
+  "aMS": 72,
+  "Index": 135,
+  "zhName": "喀麦隆",
+  "iso2Code": "CM"
+}, {
+  "Country": "Honduras",
+  "MS": 56,
+  "gMS": 55,
+  "aMS": 72,
+  "Index": 136,
+  "zhName": "洪都拉斯",
+  "iso2Code": "HN"
+}, {
+  "Country": "Mongolia",
+  "MS": 56,
+  "gMS": 54,
+  "aMS": 66,
+  "Index": 137,
+  "zhName": "蒙古",
+  "iso2Code": "MN"
+}, {
+  "Country": "EI Salvador",
+  "MS": 56,
+  "gMS": 56,
+  "aMS": 62,
+  "Index": 138,
+  "zhName": "萨尔瓦多",
+  "iso2Code": "SV"
+}, {
+  "Country": "Ghana",
+  "MS": 56,
+  "gMS": 56,
+  "aMS": 63,
+  "Index": 139,
+  "zhName": "加纳",
+  "iso2Code": "GH"
+}, {
+  "Country": "Cambodia",
+  "MS": 55,
+  "gMS": 54,
+  "aMS": 64,
+  "Index": 140,
+  "zhName": "柬埔寨",
+  "iso2Code": "KH"
+}, {
+  "Country": "Yemen",
+  "MS": 55,
+  "gMS": 50,
+  "aMS": 65,
+  "Index": 141,
+  "zhName": "也门",
+  "iso2Code": "YE"
+}, {
+  "Country": "Nigeria",
+  "MS": 55,
+  "gMS": 56,
+  "aMS": 61,
+  "Index": 142,
+  "zhName": "尼日利亚",
+  "iso2Code": "NG"
+}, {
+  "Country": "Indonesia",
+  "MS": 55,
+  "gMS": 63,
+  "aMS": 63,
+  "Index": 143,
+  "zhName": "印度尼西亚",
+  "iso2Code": "ID"
+}, {
+  "Country": "Costa Rican",
+  "MS": 55,
+  "gMS": 54,
+  "aMS": 66,
+  "Index": 144,
+  "zhName": "哥斯达黎加",
+  "iso2Code": "CR"
+}, {
+  "Country": "Guatemala",
+  "MS": 53,
+  "gMS": 53,
+  "aMS": 67,
+  "Index": 145,
+  "zhName": "危地马拉",
+  "iso2Code": "GT"
+}, {
+  "Country": "Gambia",
+  "MS": 53,
+  "gMS": 52,
+  "aMS": 60,
+  "Index": 146,
+  "zhName": "冈比亚",
+  "iso2Code": "GM"
+}, {
+  "Country": "Philippines",
+  "MS": 52,
+  "gMS": 53,
+  "aMS": 60,
+  "Index": 147,
+  "zhName": "菲律宾",
+  "iso2Code": "PH"
+}, {
+  "Country": "Tajikistan",
+  "MS": 52,
+  "gMS": 54,
+  "aMS": 68,
+  "Index": 148,
+  "zhName": "塔吉克斯坦",
+  "iso2Code": "TJ"
+}, {
+  "Country": "Trinidad and Tobago",
+  "MS": 51,
+  "gMS": 50,
+  "aMS": 63,
+  "Index": 149,
+  "zhName": "特立尼达和多巴哥",
+  "iso2Code": "TT"
+}, {
+  "Country": "Madagascar",
+  "MS": 51,
+  "gMS": 50,
+  "aMS": 63,
+  "Index": 150,
+  "zhName": "马达加斯加",
+  "iso2Code": "MG"
+}, {
+  "Country": "Vietnam",
+  "MS": 51,
+  "gMS": 50,
+  "aMS": 61,
+  "Index": 151,
+  "zhName": "越南",
+  "iso2Code": "VN"
+}, {
+  "Country": "Burundi",
+  "MS": 51,
+  "gMS": 51,
+  "aMS": 66,
+  "Index": 152,
+  "zhName": "布隆迪",
+  "iso2Code": "BI"
+}, {
+  "Country": "Guinea",
+  "MS": 50,
+  "gMS": 49,
+  "aMS": 61,
+  "Index": 153,
+  "zhName": "几内亚",
+  "iso2Code": "GN"
+}, {
+  "Country": "Sri Lanka",
+  "MS": 50,
+  "gMS": 52,
+  "aMS": 56,
+  "Index": 154,
+  "zhName": "斯里兰卡",
+  "iso2Code": "LK"
+}, {
+  "Country": "Bolivia",
+  "MS": 50,
+  "gMS": 49,
+  "aMS": 62,
+  "Index": 155,
+  "zhName": "玻利维亚",
+  "iso2Code": "BO"
+}, {
+  "Country": "Rwanda",
+  "MS": 47,
+  "gMS": 47,
+  "aMS": 60,
+  "Index": 156,
+  "zhName": "卢旺达",
+  "iso2Code": "RW"
+}, {
+  "Country": "Nicaragua",
+  "MS": 46,
+  "gMS": 51,
+  "aMS": 54,
+  "Index": 157,
+  "zhName": "尼加拉瓜",
+  "iso2Code": "NI"
+}, {
+  "Country": "Haiti",
+  "MS": 41,
+  "gMS": 40,
+  "aMS": 50,
+  "Index": 158,
+  "zhName": "海地",
+  "iso2Code": "HT"
+}, {
+  "Country": "Bangladesh",
+  "MS": 41,
+  "gMS": 41,
+  "aMS": 48,
+  "Index": 159,
+  "zhName": "孟加拉国",
+  "iso2Code": "BD"
+}, {
+  "Country": "East Timor",
+  "MS": 40,
+  "gMS": 40,
+  "aMS": 53,
+  "Index": 160,
+  "zhName": "东帝汶",
+  "iso2Code": "TL"
+}, {
+  "Country": "Nepal",
+  "MS": 40,
+  "gMS": 40,
+  "aMS": 50,
+  "Index": 161,
+  "zhName": "尼泊尔",
+  "iso2Code": "NP"
+}, {
+  "Country": "Bhutan",
+  "MS": 38,
+  "gMS": 38,
+  "aMS": 51,
+  "Index": 162,
+  "zhName": "不丹",
+  "iso2Code": "BT"
+}]
