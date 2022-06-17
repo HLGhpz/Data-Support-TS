@@ -1,0 +1,497 @@
+[{
+  "Province": "河南省",
+  "Colleges": 151,
+  "Total": 249.22,
+  "Index": 1,
+  "short": "河南",
+  "Category": "Undergraduate",
+  "value": 125.07
+}, {
+  "Province": "河南省",
+  "Colleges": 151,
+  "Total": 249.22,
+  "Index": 1,
+  "short": "河南",
+  "Category": "CollegeStudent",
+  "value": 124.15
+}, {
+  "Province": "广东省",
+  "Colleges": 154,
+  "Total": 240.02,
+  "Index": 2,
+  "short": "广东",
+  "Category": "Undergraduate",
+  "value": 122.25
+}, {
+  "Province": "广东省",
+  "Colleges": 154,
+  "Total": 240.02,
+  "Index": 2,
+  "short": "广东",
+  "Category": "CollegeStudent",
+  "value": 117.77
+}, {
+  "Province": "山东省",
+  "Colleges": 152,
+  "Total": 229.15,
+  "Index": 3,
+  "short": "山东",
+  "Category": "Undergraduate",
+  "value": 113.7
+}, {
+  "Province": "山东省",
+  "Colleges": 152,
+  "Total": 229.15,
+  "Index": 3,
+  "short": "山东",
+  "Category": "CollegeStudent",
+  "value": 115.45
+}, {
+  "Province": "江苏省",
+  "Colleges": 167,
+  "Total": 201.47,
+  "Index": 4,
+  "short": "江苏",
+  "Category": "Undergraduate",
+  "value": 117.41
+}, {
+  "Province": "江苏省",
+  "Colleges": 167,
+  "Total": 201.47,
+  "Index": 4,
+  "short": "江苏",
+  "Category": "CollegeStudent",
+  "value": 84.06
+}, {
+  "Province": "四川省",
+  "Colleges": 132,
+  "Total": 180.09,
+  "Index": 5,
+  "short": "四川",
+  "Category": "Undergraduate",
+  "value": 99.38
+}, {
+  "Province": "四川省",
+  "Colleges": 132,
+  "Total": 180.09,
+  "Index": 5,
+  "short": "四川",
+  "Category": "CollegeStudent",
+  "value": 80.71
+}, {
+  "Province": "湖北省",
+  "Colleges": 129,
+  "Total": 161.69,
+  "Index": 6,
+  "short": "湖北",
+  "Category": "Undergraduate",
+  "value": 93.4
+}, {
+  "Province": "湖北省",
+  "Colleges": 129,
+  "Total": 161.69,
+  "Index": 6,
+  "short": "湖北",
+  "Category": "CollegeStudent",
+  "value": 68.29
+}, {
+  "Province": "河北省",
+  "Colleges": 125,
+  "Total": 160.48,
+  "Index": 7,
+  "short": "河北",
+  "Category": "Undergraduate",
+  "value": 87.45
+}, {
+  "Province": "河北省",
+  "Colleges": 125,
+  "Total": 160.48,
+  "Index": 7,
+  "short": "河北",
+  "Category": "CollegeStudent",
+  "value": 73.03
+}, {
+  "Province": "湖南省",
+  "Colleges": 128,
+  "Total": 151.03,
+  "Index": 8,
+  "short": "湖南",
+  "Category": "Undergraduate",
+  "value": 78.18
+}, {
+  "Province": "湖南省",
+  "Colleges": 128,
+  "Total": 151.03,
+  "Index": 8,
+  "short": "湖南",
+  "Category": "CollegeStudent",
+  "value": 72.85
+}, {
+  "Province": "安徽省",
+  "Colleges": 120,
+  "Total": 136.85,
+  "Index": 9,
+  "short": "安徽",
+  "Category": "Undergraduate",
+  "value": 71
+}, {
+  "Province": "安徽省",
+  "Colleges": 120,
+  "Total": 136.85,
+  "Index": 9,
+  "short": "安徽",
+  "Category": "CollegeStudent",
+  "value": 65.84
+}, {
+  "Province": "江西省",
+  "Colleges": 105,
+  "Total": 124.2,
+  "Index": 10,
+  "short": "江西",
+  "Category": "Undergraduate",
+  "value": 61.02
+}, {
+  "Province": "江西省",
+  "Colleges": 105,
+  "Total": 124.2,
+  "Index": 10,
+  "short": "江西",
+  "Category": "CollegeStudent",
+  "value": 63.18
+}, {
+  "Province": "陕西省",
+  "Colleges": 96,
+  "Total": 121,
+  "Index": 11,
+  "short": "陕西",
+  "Category": "Undergraduate",
+  "value": 72.22
+}, {
+  "Province": "陕西省",
+  "Colleges": 96,
+  "Total": 121,
+  "Index": 11,
+  "short": "陕西",
+  "Category": "CollegeStudent",
+  "value": 48.78
+}, {
+  "Province": "广西壮族自治区",
+  "Colleges": 82,
+  "Total": 118.42,
+  "Index": 12,
+  "short": "广西",
+  "Category": "Undergraduate",
+  "value": 56
+}, {
+  "Province": "广西壮族自治区",
+  "Colleges": 82,
+  "Total": 118.42,
+  "Index": 12,
+  "short": "广西",
+  "Category": "CollegeStudent",
+  "value": 62.41
+}, {
+  "Province": "浙江省",
+  "Colleges": 109,
+  "Total": 114.87,
+  "Index": 13,
+  "short": "浙江",
+  "Category": "Undergraduate",
+  "value": 66.13
+}, {
+  "Province": "浙江省",
+  "Colleges": 109,
+  "Total": 114.87,
+  "Index": 13,
+  "short": "浙江",
+  "Category": "CollegeStudent",
+  "value": 48.75
+}, {
+  "Province": "辽宁省",
+  "Colleges": 114,
+  "Total": 114.08,
+  "Index": 14,
+  "short": "辽宁",
+  "Category": "Undergraduate",
+  "value": 71.21
+}, {
+  "Province": "辽宁省",
+  "Colleges": 114,
+  "Total": 114.08,
+  "Index": 14,
+  "short": "辽宁",
+  "Category": "CollegeStudent",
+  "value": 42.87
+}, {
+  "Province": "云南省",
+  "Colleges": 82,
+  "Total": 96.42,
+  "Index": 15,
+  "short": "云南",
+  "Category": "Undergraduate",
+  "value": 49.94
+}, {
+  "Province": "云南省",
+  "Colleges": 82,
+  "Total": 96.42,
+  "Index": 15,
+  "short": "云南",
+  "Category": "CollegeStudent",
+  "value": 46.48
+}, {
+  "Province": "福建省",
+  "Colleges": 89,
+  "Total": 94.72,
+  "Index": 16,
+  "short": "福建",
+  "Category": "Undergraduate",
+  "value": 53.72
+}, {
+  "Province": "福建省",
+  "Colleges": 89,
+  "Total": 94.72,
+  "Index": 16,
+  "short": "福建",
+  "Category": "CollegeStudent",
+  "value": 41
+}, {
+  "Province": "重庆市",
+  "Colleges": 68,
+  "Total": 91.56,
+  "Index": 17,
+  "short": "重庆",
+  "Category": "Undergraduate",
+  "value": 48.83
+}, {
+  "Province": "重庆市",
+  "Colleges": 68,
+  "Total": 91.56,
+  "Index": 17,
+  "short": "重庆",
+  "Category": "CollegeStudent",
+  "value": 42.73
+}, {
+  "Province": "山西省",
+  "Colleges": 85,
+  "Total": 84.2,
+  "Index": 18,
+  "short": "山西",
+  "Category": "Undergraduate",
+  "value": 52.74
+}, {
+  "Province": "山西省",
+  "Colleges": 85,
+  "Total": 84.2,
+  "Index": 18,
+  "short": "山西",
+  "Category": "CollegeStudent",
+  "value": 31.46
+}, {
+  "Province": "贵州省",
+  "Colleges": 75,
+  "Total": 84.02,
+  "Index": 19,
+  "short": "贵州",
+  "Category": "Undergraduate",
+  "value": 39.4
+}, {
+  "Province": "贵州省",
+  "Colleges": 75,
+  "Total": 84.02,
+  "Index": 19,
+  "short": "贵州",
+  "Category": "CollegeStudent",
+  "value": 44.62
+}, {
+  "Province": "黑龙江省",
+  "Colleges": 80,
+  "Total": 82.56,
+  "Index": 20,
+  "short": "黑龙江",
+  "Category": "Undergraduate",
+  "value": 56.01
+}, {
+  "Province": "黑龙江省",
+  "Colleges": 80,
+  "Total": 82.56,
+  "Index": 20,
+  "short": "黑龙江",
+  "Category": "CollegeStudent",
+  "value": 26.55
+}, {
+  "Province": "吉林省",
+  "Colleges": 64,
+  "Total": 72.7,
+  "Index": 21,
+  "short": "吉林",
+  "Category": "Undergraduate",
+  "value": 50.08
+}, {
+  "Province": "吉林省",
+  "Colleges": 64,
+  "Total": 72.7,
+  "Index": 21,
+  "short": "吉林",
+  "Category": "CollegeStudent",
+  "value": 22.62
+}, {
+  "Province": "北京市",
+  "Colleges": 92,
+  "Total": 60.89,
+  "Index": 22,
+  "short": "北京",
+  "Category": "Undergraduate",
+  "value": 53.61
+}, {
+  "Province": "北京市",
+  "Colleges": 92,
+  "Total": 60.89,
+  "Index": 22,
+  "short": "北京",
+  "Category": "CollegeStudent",
+  "value": 7.28
+}, {
+  "Province": "甘肃省",
+  "Colleges": 50,
+  "Total": 58.11,
+  "Index": 23,
+  "short": "甘肃",
+  "Category": "Undergraduate",
+  "value": 30.75
+}, {
+  "Province": "甘肃省",
+  "Colleges": 50,
+  "Total": 58.11,
+  "Index": 23,
+  "short": "甘肃",
+  "Category": "CollegeStudent",
+  "value": 27.36
+}, {
+  "Province": "天津市",
+  "Colleges": 56,
+  "Total": 57.22,
+  "Index": 24,
+  "short": "天津",
+  "Category": "Undergraduate",
+  "value": 36.82
+}, {
+  "Province": "天津市",
+  "Colleges": 56,
+  "Total": 57.22,
+  "Index": 24,
+  "short": "天津",
+  "Category": "CollegeStudent",
+  "value": 20.39
+}, {
+  "Province": "上海市",
+  "Colleges": 63,
+  "Total": 54.07,
+  "Index": 25,
+  "short": "上海",
+  "Category": "Undergraduate",
+  "value": 40
+}, {
+  "Province": "上海市",
+  "Colleges": 63,
+  "Total": 54.07,
+  "Index": 25,
+  "short": "上海",
+  "Category": "CollegeStudent",
+  "value": 14.07
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Colleges": 56,
+  "Total": 48.67,
+  "Index": 26,
+  "short": "新疆",
+  "Category": "Undergraduate",
+  "value": 23.85
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Colleges": 56,
+  "Total": 48.67,
+  "Index": 26,
+  "short": "新疆",
+  "Category": "CollegeStudent",
+  "value": 24.82
+}, {
+  "Province": "内蒙古自治区",
+  "Colleges": 54,
+  "Total": 48.66,
+  "Index": 27,
+  "short": "内蒙古",
+  "Category": "Undergraduate",
+  "value": 27.11
+}, {
+  "Province": "内蒙古自治区",
+  "Colleges": 54,
+  "Total": 48.66,
+  "Index": 27,
+  "short": "内蒙古",
+  "Category": "CollegeStudent",
+  "value": 21.56
+}, {
+  "Province": "海南省",
+  "Colleges": 21,
+  "Total": 23.01,
+  "Index": 28,
+  "short": "海南",
+  "Category": "Undergraduate",
+  "value": 12.57
+}, {
+  "Province": "海南省",
+  "Colleges": 21,
+  "Total": 23.01,
+  "Index": 28,
+  "short": "海南",
+  "Category": "CollegeStudent",
+  "value": 10.44
+}, {
+  "Province": "宁夏回族自治区",
+  "Colleges": 20,
+  "Total": 14.67,
+  "Index": 29,
+  "short": "宁夏",
+  "Category": "Undergraduate",
+  "value": 8.94
+}, {
+  "Province": "宁夏回族自治区",
+  "Colleges": 20,
+  "Total": 14.67,
+  "Index": 29,
+  "short": "宁夏",
+  "Category": "CollegeStudent",
+  "value": 5.73
+}, {
+  "Province": "青海省",
+  "Colleges": 12,
+  "Total": 7.41,
+  "Index": 30,
+  "short": "青海",
+  "Category": "Undergraduate",
+  "value": 4.25
+}, {
+  "Province": "青海省",
+  "Colleges": 12,
+  "Total": 7.41,
+  "Index": 30,
+  "short": "青海",
+  "Category": "CollegeStudent",
+  "value": 3.16
+}, {
+  "Province": "西藏自治区",
+  "Colleges": 7,
+  "Total": 3.86,
+  "Index": 31,
+  "short": "西藏",
+  "Category": "Undergraduate",
+  "value": 2.7
+}, {
+  "Province": "西藏自治区",
+  "Colleges": 7,
+  "Total": 3.86,
+  "Index": 31,
+  "short": "西藏",
+  "Category": "CollegeStudent",
+  "value": 1.15
+}]
