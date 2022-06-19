@@ -1,0 +1,218 @@
+[{
+  "Province": "山东省",
+  "Scale": "10.24%",
+  "Index": 1,
+  "Short": "山东",
+  "Category": "FruitProduct",
+  "Value": 2938.91
+}, {
+  "Province": "广西壮族自治区",
+  "Scale": "9.71%",
+  "Index": 2,
+  "Short": "广西",
+  "Category": "FruitProduct",
+  "Value": 2785.74
+}, {
+  "Province": "河南省",
+  "Scale": "8.93%",
+  "Index": 3,
+  "Short": "河南",
+  "Category": "FruitProduct",
+  "Value": 2563.43
+}, {
+  "Province": "陕西省",
+  "Scale": "7.22%",
+  "Index": 4,
+  "Short": "陕西",
+  "Category": "FruitProduct",
+  "Value": 2070.55
+}, {
+  "Province": "广东省",
+  "Scale": "6.56%",
+  "Index": 5,
+  "Short": "广东",
+  "Category": "FruitProduct",
+  "Value": 1882.57
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Scale": "5.79%",
+  "Index": 6,
+  "Short": "新疆",
+  "Category": "FruitProduct",
+  "Value": 1660.39
+}, {
+  "Province": "河北省",
+  "Scale": "4.96%",
+  "Index": 7,
+  "Short": "河北",
+  "Category": "FruitProduct",
+  "Value": 1424.36
+}, {
+  "Province": "四川省",
+  "Scale": "4.26%",
+  "Index": 8,
+  "Short": "四川",
+  "Category": "FruitProduct",
+  "Value": 1221.3
+}, {
+  "Province": "湖南省",
+  "Scale": "4.01%",
+  "Index": 9,
+  "Short": "湖南",
+  "Category": "FruitProduct",
+  "Value": 1150.75
+}, {
+  "Province": "湖北省",
+  "Scale": "3.72%",
+  "Index": 10,
+  "Short": "湖北",
+  "Category": "FruitProduct",
+  "Value": 1066.83
+}, {
+  "Province": "江苏省",
+  "Scale": "3.40%",
+  "Index": 11,
+  "Short": "江苏",
+  "Category": "FruitProduct",
+  "Value": 974.17
+}, {
+  "Province": "云南省",
+  "Scale": "3.35%",
+  "Index": 12,
+  "Short": "云南",
+  "Category": "FruitProduct",
+  "Value": 961.58
+}, {
+  "Province": "山西省",
+  "Scale": "3.17%",
+  "Index": 13,
+  "Short": "山西",
+  "Category": "FruitProduct",
+  "Value": 909.77
+}, {
+  "Province": "辽宁省",
+  "Scale": "2.97%",
+  "Index": 14,
+  "Short": "辽宁",
+  "Category": "FruitProduct",
+  "Value": 851.29
+}, {
+  "Province": "甘肃省",
+  "Scale": "2.71%",
+  "Index": 15,
+  "Short": "甘肃",
+  "Category": "FruitProduct",
+  "Value": 778.96
+}, {
+  "Province": "福建省",
+  "Scale": "2.66%",
+  "Index": 16,
+  "Short": "福建",
+  "Category": "FruitProduct",
+  "Value": 764.58
+}, {
+  "Province": "浙江省",
+  "Scale": "2.63%",
+  "Index": 17,
+  "Short": "浙江",
+  "Category": "FruitProduct",
+  "Value": 755.27
+}, {
+  "Province": "安徽省",
+  "Scale": "2.58%",
+  "Index": 18,
+  "Short": "安徽",
+  "Category": "FruitProduct",
+  "Value": 741.52
+}, {
+  "Province": "江西省",
+  "Scale": "2.48%",
+  "Index": 19,
+  "Short": "江西",
+  "Category": "FruitProduct",
+  "Value": 712.82
+}, {
+  "Province": "贵州省",
+  "Scale": "1.91%",
+  "Index": 20,
+  "Short": "贵州",
+  "Category": "FruitProduct",
+  "Value": 548.11
+}, {
+  "Province": "重庆市",
+  "Scale": "1.79%",
+  "Index": 21,
+  "Short": "重庆",
+  "Category": "FruitProduct",
+  "Value": 514.82
+}, {
+  "Province": "海南省",
+  "Scale": "1.73%",
+  "Index": 22,
+  "Short": "海南",
+  "Category": "FruitProduct",
+  "Value": 495.63
+}, {
+  "Province": "内蒙古自治区",
+  "Scale": "0.83%",
+  "Index": 23,
+  "Short": "内蒙古",
+  "Category": "FruitProduct",
+  "Value": 238.7
+}, {
+  "Province": "宁夏回族自治区",
+  "Scale": "0.71%",
+  "Index": 24,
+  "Short": "宁夏",
+  "Category": "FruitProduct",
+  "Value": 204.45
+}, {
+  "Province": "黑龙江省",
+  "Scale": "0.59%",
+  "Index": 25,
+  "Short": "黑龙江",
+  "Category": "FruitProduct",
+  "Value": 170.09
+}, {
+  "Province": "吉林省",
+  "Scale": "0.51%",
+  "Index": 26,
+  "Short": "吉林",
+  "Category": "FruitProduct",
+  "Value": 146.55
+}, {
+  "Province": "天津市",
+  "Scale": "0.20%",
+  "Index": 27,
+  "Short": "天津",
+  "Category": "FruitProduct",
+  "Value": 56.39
+}, {
+  "Province": "北京市",
+  "Scale": "0.19%",
+  "Index": 28,
+  "Short": "北京",
+  "Category": "FruitProduct",
+  "Value": 53.81
+}, {
+  "Province": "上海市",
+  "Scale": "0.15%",
+  "Index": 29,
+  "Short": "上海",
+  "Category": "FruitProduct",
+  "Value": 43.94
+}, {
+  "Province": "青海省",
+  "Scale": "0.01%",
+  "Index": 30,
+  "Short": "青海",
+  "Category": "FruitProduct",
+  "Value": 2.91
+}, {
+  "Province": "西藏自治区",
+  "Scale": "0.01%",
+  "Index": 31,
+  "Short": "西藏",
+  "Category": "FruitProduct",
+  "Value": 2.16
+}]

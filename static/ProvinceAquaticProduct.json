@@ -1,0 +1,497 @@
+[{
+  "Province": "广东省",
+  "Total": 875.81,
+  "Index": 1,
+  "Scale": "13.37%",
+  "Short": "广东",
+  "Category": "Sea",
+  "Value": 450.53
+}, {
+  "Province": "广东省",
+  "Total": 875.81,
+  "Index": 1,
+  "Scale": "13.37%",
+  "Short": "广东",
+  "Category": "Freshwater",
+  "Value": 425.28
+}, {
+  "Province": "福建省",
+  "Total": 832.98,
+  "Index": 2,
+  "Scale": "12.72%",
+  "Short": "福建",
+  "Category": "Sea",
+  "Value": 740.49
+}, {
+  "Province": "福建省",
+  "Total": 832.98,
+  "Index": 2,
+  "Scale": "12.72%",
+  "Short": "福建",
+  "Category": "Freshwater",
+  "Value": 92.49
+}, {
+  "Province": "山东省",
+  "Total": 828.61,
+  "Index": 3,
+  "Scale": "12.65%",
+  "Short": "山东",
+  "Category": "Sea",
+  "Value": 718.09
+}, {
+  "Province": "山东省",
+  "Total": 828.61,
+  "Index": 3,
+  "Scale": "12.65%",
+  "Short": "山东",
+  "Category": "Freshwater",
+  "Value": 110.52
+}, {
+  "Province": "浙江省",
+  "Total": 589.55,
+  "Index": 4,
+  "Scale": "9.00%",
+  "Short": "浙江",
+  "Category": "Sea",
+  "Value": 450.94
+}, {
+  "Province": "浙江省",
+  "Total": 589.55,
+  "Index": 4,
+  "Scale": "9.00%",
+  "Short": "浙江",
+  "Category": "Freshwater",
+  "Value": 138.61
+}, {
+  "Province": "江苏省",
+  "Total": 490.18,
+  "Index": 5,
+  "Scale": "7.48%",
+  "Short": "江苏",
+  "Category": "Sea",
+  "Value": 134.99
+}, {
+  "Province": "江苏省",
+  "Total": 490.18,
+  "Index": 5,
+  "Scale": "7.48%",
+  "Short": "江苏",
+  "Category": "Freshwater",
+  "Value": 355.2
+}, {
+  "Province": "湖北省",
+  "Total": 467.93,
+  "Index": 6,
+  "Scale": "7.15%",
+  "Short": "湖北",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "湖北省",
+  "Total": 467.93,
+  "Index": 6,
+  "Scale": "7.15%",
+  "Short": "湖北",
+  "Category": "Freshwater",
+  "Value": 467.93
+}, {
+  "Province": "辽宁省",
+  "Total": 462.3,
+  "Index": 7,
+  "Scale": "7.06%",
+  "Short": "辽宁",
+  "Category": "Sea",
+  "Value": 377.85
+}, {
+  "Province": "辽宁省",
+  "Total": 462.3,
+  "Index": 7,
+  "Scale": "7.06%",
+  "Short": "辽宁",
+  "Category": "Freshwater",
+  "Value": 84.45
+}, {
+  "Province": "广西壮族自治区",
+  "Total": 345.8,
+  "Index": 8,
+  "Scale": "5.28%",
+  "Short": "广西",
+  "Category": "Sea",
+  "Value": 200.92
+}, {
+  "Province": "广西壮族自治区",
+  "Total": 345.8,
+  "Index": 8,
+  "Scale": "5.28%",
+  "Short": "广西",
+  "Category": "Freshwater",
+  "Value": 144.88
+}, {
+  "Province": "江西省",
+  "Total": 262.69,
+  "Index": 9,
+  "Scale": "4.01%",
+  "Short": "江西",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "江西省",
+  "Total": 262.69,
+  "Index": 9,
+  "Scale": "4.01%",
+  "Short": "江西",
+  "Category": "Freshwater",
+  "Value": 262.69
+}, {
+  "Province": "湖南省",
+  "Total": 258.92,
+  "Index": 10,
+  "Scale": "3.95%",
+  "Short": "湖南",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "湖南省",
+  "Total": 258.92,
+  "Index": 10,
+  "Scale": "3.95%",
+  "Short": "湖南",
+  "Category": "Freshwater",
+  "Value": 258.92
+}, {
+  "Province": "安徽省",
+  "Total": 232.41,
+  "Index": 11,
+  "Scale": "3.55%",
+  "Short": "安徽",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "安徽省",
+  "Total": 232.41,
+  "Index": 11,
+  "Scale": "3.55%",
+  "Short": "安徽",
+  "Category": "Freshwater",
+  "Value": 232.41
+}, {
+  "Province": "海南省",
+  "Total": 164.64,
+  "Index": 12,
+  "Scale": "2.51%",
+  "Short": "海南",
+  "Category": "Sea",
+  "Value": 128.12
+}, {
+  "Province": "海南省",
+  "Total": 164.64,
+  "Index": 12,
+  "Scale": "2.51%",
+  "Short": "海南",
+  "Category": "Freshwater",
+  "Value": 36.53
+}, {
+  "Province": "四川省",
+  "Total": 160.41,
+  "Index": 13,
+  "Scale": "2.45%",
+  "Short": "四川",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "四川省",
+  "Total": 160.41,
+  "Index": 13,
+  "Scale": "2.45%",
+  "Short": "四川",
+  "Category": "Freshwater",
+  "Value": 160.41
+}, {
+  "Province": "河北省",
+  "Total": 100.34,
+  "Index": 14,
+  "Scale": "1.53%",
+  "Short": "河北",
+  "Category": "Sea",
+  "Value": 71.02
+}, {
+  "Province": "河北省",
+  "Total": 100.34,
+  "Index": 14,
+  "Scale": "1.53%",
+  "Short": "河北",
+  "Category": "Freshwater",
+  "Value": 29.32
+}, {
+  "Province": "河南省",
+  "Total": 98.06,
+  "Index": 15,
+  "Scale": "1.50%",
+  "Short": "河南",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "河南省",
+  "Total": 98.06,
+  "Index": 15,
+  "Scale": "1.50%",
+  "Short": "河南",
+  "Category": "Freshwater",
+  "Value": 98.06
+}, {
+  "Province": "黑龙江省",
+  "Total": 67.41,
+  "Index": 16,
+  "Scale": "1.03%",
+  "Short": "黑龙江",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "黑龙江省",
+  "Total": 67.41,
+  "Index": 16,
+  "Scale": "1.03%",
+  "Short": "黑龙江",
+  "Category": "Freshwater",
+  "Value": 67.41
+}, {
+  "Province": "云南省",
+  "Total": 64.4,
+  "Index": 17,
+  "Scale": "0.98%",
+  "Short": "云南",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "云南省",
+  "Total": 64.4,
+  "Index": 17,
+  "Scale": "0.98%",
+  "Short": "云南",
+  "Category": "Freshwater",
+  "Value": 64.4
+}, {
+  "Province": "重庆市",
+  "Total": 52.4,
+  "Index": 18,
+  "Scale": "0.80%",
+  "Short": "重庆",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "重庆市",
+  "Total": 52.4,
+  "Index": 18,
+  "Scale": "0.80%",
+  "Short": "重庆",
+  "Category": "Freshwater",
+  "Value": 52.4
+}, {
+  "Province": "天津市",
+  "Total": 28.48,
+  "Index": 19,
+  "Scale": "0.43%",
+  "Short": "天津",
+  "Category": "Sea",
+  "Value": 4.28
+}, {
+  "Province": "天津市",
+  "Total": 28.48,
+  "Index": 19,
+  "Scale": "0.43%",
+  "Short": "天津",
+  "Category": "Freshwater",
+  "Value": 24.2
+}, {
+  "Province": "贵州省",
+  "Total": 24.87,
+  "Index": 20,
+  "Scale": "0.38%",
+  "Short": "贵州",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "贵州省",
+  "Total": 24.87,
+  "Index": 20,
+  "Scale": "0.38%",
+  "Short": "贵州",
+  "Category": "Freshwater",
+  "Value": 24.87
+}, {
+  "Province": "吉林省",
+  "Total": 24.48,
+  "Index": 21,
+  "Scale": "0.37%",
+  "Short": "吉林",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "吉林省",
+  "Total": 24.48,
+  "Index": 21,
+  "Scale": "0.37%",
+  "Short": "吉林",
+  "Category": "Freshwater",
+  "Value": 24.48
+}, {
+  "Province": "上海市",
+  "Total": 24.41,
+  "Index": 22,
+  "Scale": "0.37%",
+  "Short": "上海",
+  "Category": "Sea",
+  "Value": 16.07
+}, {
+  "Province": "上海市",
+  "Total": 24.41,
+  "Index": 22,
+  "Scale": "0.37%",
+  "Short": "上海",
+  "Category": "Freshwater",
+  "Value": 8.34
+}, {
+  "Province": "北京市",
+  "Total": 22.81,
+  "Index": 23,
+  "Scale": "0.35%",
+  "Short": "北京",
+  "Category": "Sea",
+  "Value": 21.08
+}, {
+  "Province": "北京市",
+  "Total": 22.81,
+  "Index": 23,
+  "Scale": "0.35%",
+  "Short": "北京",
+  "Category": "Freshwater",
+  "Value": 1.73
+}, {
+  "Province": "陕西省",
+  "Total": 16.9,
+  "Index": 24,
+  "Scale": "0.26%",
+  "Short": "陕西",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "陕西省",
+  "Total": 16.9,
+  "Index": 24,
+  "Scale": "0.26%",
+  "Short": "陕西",
+  "Category": "Freshwater",
+  "Value": 16.9
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Total": 16.3,
+  "Index": 25,
+  "Scale": "0.25%",
+  "Short": "新疆",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Total": 16.3,
+  "Index": 25,
+  "Scale": "0.25%",
+  "Short": "新疆",
+  "Category": "Freshwater",
+  "Value": 16.3
+}, {
+  "Province": "宁夏回族自治区",
+  "Total": 16.16,
+  "Index": 26,
+  "Scale": "0.25%",
+  "Short": "宁夏",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "宁夏回族自治区",
+  "Total": 16.16,
+  "Index": 26,
+  "Scale": "0.25%",
+  "Short": "宁夏",
+  "Category": "Freshwater",
+  "Value": 16.16
+}, {
+  "Province": "内蒙古自治区",
+  "Total": 11.76,
+  "Index": 27,
+  "Scale": "0.18%",
+  "Short": "内蒙古",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "内蒙古自治区",
+  "Total": 11.76,
+  "Index": 27,
+  "Scale": "0.18%",
+  "Short": "内蒙古",
+  "Category": "Freshwater",
+  "Value": 11.76
+}, {
+  "Province": "山西省",
+  "Total": 4.68,
+  "Index": 28,
+  "Scale": "0.07%",
+  "Short": "山西",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "山西省",
+  "Total": 4.68,
+  "Index": 28,
+  "Scale": "0.07%",
+  "Short": "山西",
+  "Category": "Freshwater",
+  "Value": 4.68
+}, {
+  "Province": "青海省",
+  "Total": 1.83,
+  "Index": 29,
+  "Scale": "0.03%",
+  "Short": "青海",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "青海省",
+  "Total": 1.83,
+  "Index": 29,
+  "Scale": "0.03%",
+  "Short": "青海",
+  "Category": "Freshwater",
+  "Value": 1.83
+}, {
+  "Province": "甘肃省",
+  "Total": 1.4,
+  "Index": 30,
+  "Scale": "0.02%",
+  "Short": "甘肃",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "甘肃省",
+  "Total": 1.4,
+  "Index": 30,
+  "Scale": "0.02%",
+  "Short": "甘肃",
+  "Category": "Freshwater",
+  "Value": 1.4
+}, {
+  "Province": "西藏自治区",
+  "Total": 0.09,
+  "Index": 31,
+  "Scale": "0.00%",
+  "Short": "西藏",
+  "Category": "Sea",
+  "Value": 0
+}, {
+  "Province": "西藏自治区",
+  "Total": 0.09,
+  "Index": 31,
+  "Scale": "0.00%",
+  "Short": "西藏",
+  "Category": "Freshwater",
+  "Value": 0.09
+}]

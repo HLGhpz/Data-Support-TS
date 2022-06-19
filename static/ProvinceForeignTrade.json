@@ -1,0 +1,621 @@
+[{
+  "Province": "广东省",
+  "Total": 1206212399,
+  "Index": 1,
+  "Scale": "25.91%",
+  "ExportScale": "29.19%",
+  "ImportScale": "21.79%",
+  "Short": "广东",
+  "Category": "Export",
+  "Value": 756102067
+}, {
+  "Province": "广东省",
+  "Total": 1206212399,
+  "Index": 1,
+  "Scale": "25.91%",
+  "ExportScale": "29.19%",
+  "ImportScale": "21.79%",
+  "Short": "广东",
+  "Category": "Import",
+  "Value": 450110332
+}, {
+  "Province": "江苏省",
+  "Total": 684371106,
+  "Index": 2,
+  "Scale": "14.70%",
+  "ExportScale": "15.34%",
+  "ImportScale": "13.89%",
+  "Short": "江苏",
+  "Category": "Export",
+  "Value": 397390421
+}, {
+  "Province": "江苏省",
+  "Total": 684371106,
+  "Index": 2,
+  "Scale": "14.70%",
+  "ExportScale": "15.34%",
+  "ImportScale": "13.89%",
+  "Short": "江苏",
+  "Category": "Import",
+  "Value": 286980685
+}, {
+  "Province": "上海市",
+  "Total": 478776906,
+  "Index": 3,
+  "Scale": "10.28%",
+  "ExportScale": "6.46%",
+  "ImportScale": "15.08%",
+  "Short": "上海",
+  "Category": "Export",
+  "Value": 167261919
+}, {
+  "Province": "上海市",
+  "Total": 478776906,
+  "Index": 3,
+  "Scale": "10.28%",
+  "ExportScale": "6.46%",
+  "ImportScale": "15.08%",
+  "Short": "上海",
+  "Category": "Import",
+  "Value": 311514987
+}, {
+  "Province": "浙江省",
+  "Total": 465044988,
+  "Index": 4,
+  "Scale": "9.99%",
+  "ExportScale": "13.58%",
+  "ImportScale": "5.48%",
+  "Short": "浙江",
+  "Category": "Export",
+  "Value": 351776359
+}, {
+  "Province": "浙江省",
+  "Total": 465044988,
+  "Index": 4,
+  "Scale": "9.99%",
+  "ExportScale": "13.58%",
+  "ImportScale": "5.48%",
+  "Short": "浙江",
+  "Category": "Import",
+  "Value": 113268629
+}, {
+  "Province": "山东省",
+  "Total": 353474472,
+  "Index": 5,
+  "Scale": "7.59%",
+  "ExportScale": "6.93%",
+  "ImportScale": "8.42%",
+  "Short": "山东",
+  "Category": "Export",
+  "Value": 179467137
+}, {
+  "Province": "山东省",
+  "Total": 353474472,
+  "Index": 5,
+  "Scale": "7.59%",
+  "ExportScale": "6.93%",
+  "ImportScale": "8.42%",
+  "Short": "山东",
+  "Category": "Import",
+  "Value": 174007335
+}, {
+  "Province": "福建省",
+  "Total": 172095783,
+  "Index": 6,
+  "Scale": "3.70%",
+  "ExportScale": "4.28%",
+  "ImportScale": "2.96%",
+  "Short": "福建",
+  "Category": "Export",
+  "Value": 110908865
+}, {
+  "Province": "福建省",
+  "Total": 172095783,
+  "Index": 6,
+  "Scale": "3.70%",
+  "ExportScale": "4.28%",
+  "ImportScale": "2.96%",
+  "Short": "福建",
+  "Category": "Import",
+  "Value": 61186918
+}, {
+  "Province": "天津市",
+  "Total": 125765698,
+  "Index": 7,
+  "Scale": "2.70%",
+  "ExportScale": "1.57%",
+  "ImportScale": "4.12%",
+  "Short": "天津",
+  "Category": "Export",
+  "Value": 40574114
+}, {
+  "Province": "天津市",
+  "Total": 125765698,
+  "Index": 7,
+  "Scale": "2.70%",
+  "ExportScale": "1.57%",
+  "ImportScale": "4.12%",
+  "Short": "天津",
+  "Category": "Import",
+  "Value": 85191584
+}, {
+  "Province": "辽宁省",
+  "Total": 118260577,
+  "Index": 8,
+  "Scale": "2.54%",
+  "ExportScale": "1.78%",
+  "ImportScale": "3.50%",
+  "Short": "辽宁",
+  "Category": "Export",
+  "Value": 45988471
+}, {
+  "Province": "辽宁省",
+  "Total": 118260577,
+  "Index": 8,
+  "Scale": "2.54%",
+  "ExportScale": "1.78%",
+  "ImportScale": "3.50%",
+  "Short": "辽宁",
+  "Category": "Import",
+  "Value": 72272106
+}, {
+  "Province": "四川省",
+  "Total": 117306653,
+  "Index": 9,
+  "Scale": "2.52%",
+  "ExportScale": "2.54%",
+  "ImportScale": "2.49%",
+  "Short": "四川",
+  "Category": "Export",
+  "Value": 65817537
+}, {
+  "Province": "四川省",
+  "Total": 117306653,
+  "Index": 9,
+  "Scale": "2.52%",
+  "ExportScale": "2.54%",
+  "ImportScale": "2.49%",
+  "Short": "四川",
+  "Category": "Import",
+  "Value": 51489117
+}, {
+  "Province": "北京市",
+  "Total": 115005601,
+  "Index": 10,
+  "Scale": "2.47%",
+  "ExportScale": "1.14%",
+  "ImportScale": "4.14%",
+  "Short": "北京",
+  "Category": "Export",
+  "Value": 29501695
+}, {
+  "Province": "北京市",
+  "Total": 115005601,
+  "Index": 10,
+  "Scale": "2.47%",
+  "ExportScale": "1.14%",
+  "ImportScale": "4.14%",
+  "Short": "北京",
+  "Category": "Import",
+  "Value": 85503906
+}, {
+  "Province": "河南省",
+  "Total": 104459906,
+  "Index": 11,
+  "Scale": "2.24%",
+  "ExportScale": "2.55%",
+  "ImportScale": "1.86%",
+  "Short": "河南",
+  "Category": "Export",
+  "Value": 65953300
+}, {
+  "Province": "河南省",
+  "Total": 104459906,
+  "Index": 11,
+  "Scale": "2.24%",
+  "ExportScale": "2.55%",
+  "ImportScale": "1.86%",
+  "Short": "河南",
+  "Category": "Import",
+  "Value": 38506606
+}, {
+  "Province": "河北省",
+  "Total": 100082027,
+  "Index": 12,
+  "Scale": "2.15%",
+  "ExportScale": "1.93%",
+  "ImportScale": "2.42%",
+  "Short": "河北",
+  "Category": "Export",
+  "Value": 50030792
+}, {
+  "Province": "河北省",
+  "Total": 100082027,
+  "Index": 12,
+  "Scale": "2.15%",
+  "ExportScale": "1.93%",
+  "ImportScale": "2.42%",
+  "Short": "河北",
+  "Category": "Import",
+  "Value": 50051235
+}, {
+  "Province": "重庆市",
+  "Total": 83982947,
+  "Index": 13,
+  "Scale": "1.80%",
+  "ExportScale": "2.12%",
+  "ImportScale": "1.40%",
+  "Short": "重庆",
+  "Category": "Export",
+  "Value": 55027076
+}, {
+  "Province": "重庆市",
+  "Total": 83982947,
+  "Index": 13,
+  "Scale": "1.80%",
+  "ExportScale": "2.12%",
+  "ImportScale": "1.40%",
+  "Short": "重庆",
+  "Category": "Import",
+  "Value": 28955871
+}, {
+  "Province": "安徽省",
+  "Total": 75224892,
+  "Index": 14,
+  "Scale": "1.62%",
+  "ExportScale": "1.84%",
+  "ImportScale": "1.33%",
+  "Short": "安徽",
+  "Category": "Export",
+  "Value": 47780443
+}, {
+  "Province": "安徽省",
+  "Total": 75224892,
+  "Index": 14,
+  "Scale": "1.62%",
+  "ExportScale": "1.84%",
+  "ImportScale": "1.33%",
+  "Short": "安徽",
+  "Category": "Import",
+  "Value": 27444449
+}, {
+  "Province": "广西壮族自治区",
+  "Total": 66703246,
+  "Index": 15,
+  "Scale": "1.43%",
+  "ExportScale": "0.82%",
+  "ImportScale": "2.20%",
+  "Short": "广西",
+  "Category": "Export",
+  "Value": 21228072
+}, {
+  "Province": "广西壮族自治区",
+  "Total": 66703246,
+  "Index": 15,
+  "Scale": "1.43%",
+  "ExportScale": "0.82%",
+  "ImportScale": "2.20%",
+  "Short": "广西",
+  "Category": "Import",
+  "Value": 45475174
+}, {
+  "Province": "湖北省",
+  "Total": 61649425,
+  "Index": 16,
+  "Scale": "1.32%",
+  "ExportScale": "1.47%",
+  "ImportScale": "1.14%",
+  "Short": "湖北",
+  "Category": "Export",
+  "Value": 38131699
+}, {
+  "Province": "湖北省",
+  "Total": 61649425,
+  "Index": 16,
+  "Scale": "1.32%",
+  "ExportScale": "1.47%",
+  "ImportScale": "1.14%",
+  "Short": "湖北",
+  "Category": "Import",
+  "Value": 23517726
+}, {
+  "Province": "陕西省",
+  "Total": 51300416,
+  "Index": 17,
+  "Scale": "1.10%",
+  "ExportScale": "1.03%",
+  "ImportScale": "1.19%",
+  "Short": "陕西",
+  "Category": "Export",
+  "Value": 26736810
+}, {
+  "Province": "陕西省",
+  "Total": 51300416,
+  "Index": 17,
+  "Scale": "1.10%",
+  "ExportScale": "1.03%",
+  "ImportScale": "1.19%",
+  "Short": "陕西",
+  "Category": "Import",
+  "Value": 24563606
+}, {
+  "Province": "江西省",
+  "Total": 50932240,
+  "Index": 18,
+  "Scale": "1.09%",
+  "ExportScale": "1.35%",
+  "ImportScale": "0.77%",
+  "Short": "江西",
+  "Category": "Export",
+  "Value": 35022865
+}, {
+  "Province": "江西省",
+  "Total": 50932240,
+  "Index": 18,
+  "Scale": "1.09%",
+  "ExportScale": "1.35%",
+  "ImportScale": "0.77%",
+  "Short": "江西",
+  "Category": "Import",
+  "Value": 15909375
+}, {
+  "Province": "湖南省",
+  "Total": 47862053,
+  "Index": 19,
+  "Scale": "1.03%",
+  "ExportScale": "1.18%",
+  "ImportScale": "0.83%",
+  "Short": "湖南",
+  "Category": "Export",
+  "Value": 30667720
+}, {
+  "Province": "湖南省",
+  "Total": 47862053,
+  "Index": 19,
+  "Scale": "1.03%",
+  "ExportScale": "1.18%",
+  "ImportScale": "0.83%",
+  "Short": "湖南",
+  "Category": "Import",
+  "Value": 17194333
+}, {
+  "Province": "云南省",
+  "Total": 34356745,
+  "Index": 20,
+  "Scale": "0.74%",
+  "ExportScale": "0.66%",
+  "ImportScale": "0.84%",
+  "Short": "云南",
+  "Category": "Export",
+  "Value": 17041934
+}, {
+  "Province": "云南省",
+  "Total": 34356745,
+  "Index": 20,
+  "Scale": "0.74%",
+  "ExportScale": "0.66%",
+  "ImportScale": "0.84%",
+  "Short": "云南",
+  "Category": "Import",
+  "Value": 17314811
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Total": 27067106,
+  "Index": 21,
+  "Scale": "0.58%",
+  "ExportScale": "0.48%",
+  "ImportScale": "0.71%",
+  "Short": "新疆",
+  "Category": "Export",
+  "Value": 12340092
+}, {
+  "Province": "新疆维吾尔自治区",
+  "Total": 27067106,
+  "Index": 21,
+  "Scale": "0.58%",
+  "ExportScale": "0.48%",
+  "ImportScale": "0.71%",
+  "Short": "新疆",
+  "Category": "Import",
+  "Value": 14727014
+}, {
+  "Province": "山西省",
+  "Total": 21993650,
+  "Index": 22,
+  "Scale": "0.47%",
+  "ExportScale": "0.55%",
+  "ImportScale": "0.38%",
+  "Short": "山西",
+  "Category": "Export",
+  "Value": 14221591
+}, {
+  "Province": "山西省",
+  "Total": 21993650,
+  "Index": 22,
+  "Scale": "0.47%",
+  "ExportScale": "0.55%",
+  "ImportScale": "0.38%",
+  "Short": "山西",
+  "Category": "Import",
+  "Value": 7772058
+}, {
+  "Province": "内蒙古自治区",
+  "Total": 20575473,
+  "Index": 23,
+  "Scale": "0.44%",
+  "ExportScale": "0.25%",
+  "ImportScale": "0.68%",
+  "Short": "内蒙古",
+  "Category": "Export",
+  "Value": 6517963
+}, {
+  "Province": "内蒙古自治区",
+  "Total": 20575473,
+  "Index": 23,
+  "Scale": "0.44%",
+  "ExportScale": "0.25%",
+  "ImportScale": "0.68%",
+  "Short": "内蒙古",
+  "Category": "Import",
+  "Value": 14057509
+}, {
+  "Province": "黑龙江省",
+  "Total": 20534528,
+  "Index": 24,
+  "Scale": "0.44%",
+  "ExportScale": "0.21%",
+  "ImportScale": "0.73%",
+  "Short": "黑龙江",
+  "Category": "Export",
+  "Value": 5410227
+}, {
+  "Province": "黑龙江省",
+  "Total": 20534528,
+  "Index": 24,
+  "Scale": "0.44%",
+  "ExportScale": "0.21%",
+  "ImportScale": "0.73%",
+  "Short": "黑龙江",
+  "Category": "Import",
+  "Value": 15124300
+}, {
+  "Province": "吉林省",
+  "Total": 19588258,
+  "Index": 25,
+  "Scale": "0.42%",
+  "ExportScale": "0.18%",
+  "ImportScale": "0.72%",
+  "Short": "吉林",
+  "Category": "Export",
+  "Value": 4661205
+}, {
+  "Province": "吉林省",
+  "Total": 19588258,
+  "Index": 25,
+  "Scale": "0.42%",
+  "ExportScale": "0.18%",
+  "ImportScale": "0.72%",
+  "Short": "吉林",
+  "Category": "Import",
+  "Value": 14927052
+}, {
+  "Province": "海南省",
+  "Total": 16580488,
+  "Index": 26,
+  "Scale": "0.36%",
+  "ExportScale": "0.15%",
+  "ImportScale": "0.61%",
+  "Short": "海南",
+  "Category": "Export",
+  "Value": 4006571
+}, {
+  "Province": "海南省",
+  "Total": 16580488,
+  "Index": 26,
+  "Scale": "0.36%",
+  "ExportScale": "0.15%",
+  "ImportScale": "0.61%",
+  "Short": "海南",
+  "Category": "Import",
+  "Value": 12573917
+}, {
+  "Province": "贵州省",
+  "Total": 7480070,
+  "Index": 27,
+  "Scale": "0.16%",
+  "ExportScale": "0.23%",
+  "ImportScale": "0.08%",
+  "Short": "贵州",
+  "Category": "Export",
+  "Value": 5902100
+}, {
+  "Province": "贵州省",
+  "Total": 7480070,
+  "Index": 27,
+  "Scale": "0.16%",
+  "ExportScale": "0.23%",
+  "ImportScale": "0.08%",
+  "Short": "贵州",
+  "Category": "Import",
+  "Value": 1577970
+}, {
+  "Province": "甘肃省",
+  "Total": 5704697,
+  "Index": 28,
+  "Scale": "0.12%",
+  "ExportScale": "0.07%",
+  "ImportScale": "0.19%",
+  "Short": "甘肃",
+  "Category": "Export",
+  "Value": 1808967
+}, {
+  "Province": "甘肃省",
+  "Total": 5704697,
+  "Index": 28,
+  "Scale": "0.12%",
+  "ExportScale": "0.07%",
+  "ImportScale": "0.19%",
+  "Short": "甘肃",
+  "Category": "Import",
+  "Value": 3895730
+}, {
+  "Province": "宁夏回族自治区",
+  "Total": 2927568,
+  "Index": 29,
+  "Scale": "0.06%",
+  "ExportScale": "0.09%",
+  "ImportScale": "0.03%",
+  "Short": "宁夏",
+  "Category": "Export",
+  "Value": 2239168
+}, {
+  "Province": "宁夏回族自治区",
+  "Total": 2927568,
+  "Index": 29,
+  "Scale": "0.06%",
+  "ExportScale": "0.09%",
+  "ImportScale": "0.03%",
+  "Short": "宁夏",
+  "Category": "Import",
+  "Value": 688400
+}, {
+  "Province": "青海省",
+  "Total": 310856,
+  "Index": 30,
+  "Scale": "0.01%",
+  "ExportScale": "0.01%",
+  "ImportScale": "0.01%",
+  "Short": "青海",
+  "Category": "Export",
+  "Value": 182260
+}, {
+  "Province": "青海省",
+  "Total": 310856,
+  "Index": 30,
+  "Scale": "0.01%",
+  "ExportScale": "0.01%",
+  "ImportScale": "0.01%",
+  "Short": "青海",
+  "Category": "Import",
+  "Value": 128596
+}, {
+  "Province": "西藏自治区",
+  "Total": 282377,
+  "Index": 31,
+  "Scale": "0.01%",
+  "ExportScale": "0.01%",
+  "ImportScale": "0.00%",
+  "Short": "西藏",
+  "Category": "Export",
+  "Value": 252166
+}, {
+  "Province": "西藏自治区",
+  "Total": 282377,
+  "Index": 31,
+  "Scale": "0.01%",
+  "ExportScale": "0.01%",
+  "ImportScale": "0.00%",
+  "Short": "西藏",
+  "Category": "Import",
+  "Value": 30211
+}]
