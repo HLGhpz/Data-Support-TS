@@ -1,0 +1,657 @@
+[{
+  "ProvinceCode": 10,
+  "Short": "全国",
+  "Total": 37704017,
+  "Male": 9499681,
+  "Female": 28204336,
+  "Ratio": 3.26,
+  "RatioIndex": 14,
+  "Category": "MaleRatio",
+  "Value": 1.62
+}, {
+  "ProvinceCode": 10,
+  "Short": "全国",
+  "Total": 37704017,
+  "Male": 9499681,
+  "Female": 28204336,
+  "Ratio": 3.26,
+  "RatioIndex": 14,
+  "Category": "FemaleRatio",
+  "Value": 4.95
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Total": 172141,
+  "Male": 38227,
+  "Female": 133914,
+  "Ratio": 0.89,
+  "RatioIndex": 32,
+  "Category": "MaleRatio",
+  "Value": 0.39
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Total": 172141,
+  "Male": 38227,
+  "Female": 133914,
+  "Ratio": 0.89,
+  "RatioIndex": 32,
+  "Category": "FemaleRatio",
+  "Value": 1.42
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Total": 169807,
+  "Male": 41581,
+  "Female": 128226,
+  "Ratio": 1.42,
+  "RatioIndex": 30,
+  "Category": "MaleRatio",
+  "Value": 0.67
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Total": 169807,
+  "Male": 41581,
+  "Female": 128226,
+  "Ratio": 1.42,
+  "RatioIndex": 30,
+  "Category": "FemaleRatio",
+  "Value": 2.2
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Total": 1127792,
+  "Male": 260624,
+  "Female": 867168,
+  "Ratio": 1.89,
+  "RatioIndex": 24,
+  "Category": "MaleRatio",
+  "Value": 0.88
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Total": 1127792,
+  "Male": 260624,
+  "Female": 867168,
+  "Ratio": 1.89,
+  "RatioIndex": 24,
+  "Category": "FemaleRatio",
+  "Value": 2.91
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Total": 422024,
+  "Male": 123585,
+  "Female": 298439,
+  "Ratio": 1.45,
+  "RatioIndex": 29,
+  "Category": "MaleRatio",
+  "Value": 0.83
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Total": 422024,
+  "Male": 123585,
+  "Female": 298439,
+  "Ratio": 1.45,
+  "RatioIndex": 29,
+  "Category": "FemaleRatio",
+  "Value": 2.08
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Total": 792204,
+  "Male": 216205,
+  "Female": 575999,
+  "Ratio": 3.83,
+  "RatioIndex": 11,
+  "Category": "MaleRatio",
+  "Value": 2.06
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Total": 792204,
+  "Male": 216205,
+  "Female": 575999,
+  "Ratio": 3.83,
+  "RatioIndex": 11,
+  "Category": "FemaleRatio",
+  "Value": 5.67
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Total": 381928,
+  "Male": 105570,
+  "Female": 276358,
+  "Ratio": 1.01,
+  "RatioIndex": 31,
+  "Category": "MaleRatio",
+  "Value": 0.56
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Total": 381928,
+  "Male": 105570,
+  "Female": 276358,
+  "Ratio": 1.01,
+  "RatioIndex": 31,
+  "Category": "FemaleRatio",
+  "Value": 1.45
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Total": 320865,
+  "Male": 95838,
+  "Female": 225027,
+  "Ratio": 1.51,
+  "RatioIndex": 28,
+  "Category": "MaleRatio",
+  "Value": 0.91
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Total": 320865,
+  "Male": 95838,
+  "Female": 225027,
+  "Ratio": 1.51,
+  "RatioIndex": 28,
+  "Category": "FemaleRatio",
+  "Value": 2.1
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Total": 436127,
+  "Male": 131375,
+  "Female": 304752,
+  "Ratio": 1.53,
+  "RatioIndex": 27,
+  "Category": "MaleRatio",
+  "Value": 0.92
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Total": 436127,
+  "Male": 131375,
+  "Female": 304752,
+  "Ratio": 1.53,
+  "RatioIndex": 27,
+  "Category": "FemaleRatio",
+  "Value": 2.13
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Total": 401232,
+  "Male": 80974,
+  "Female": 320258,
+  "Ratio": 1.79,
+  "RatioIndex": 25,
+  "Category": "MaleRatio",
+  "Value": 0.7
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Total": 401232,
+  "Male": 80974,
+  "Female": 320258,
+  "Ratio": 1.79,
+  "RatioIndex": 25,
+  "Category": "FemaleRatio",
+  "Value": 2.96
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Total": 2210138,
+  "Male": 460255,
+  "Female": 1749883,
+  "Ratio": 3.08,
+  "RatioIndex": 17,
+  "Category": "MaleRatio",
+  "Value": 1.27
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Total": 2210138,
+  "Male": 460255,
+  "Female": 1749883,
+  "Ratio": 3.08,
+  "RatioIndex": 17,
+  "Category": "FemaleRatio",
+  "Value": 4.9
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Total": 1753644,
+  "Male": 437643,
+  "Female": 1316001,
+  "Ratio": 3.14,
+  "RatioIndex": 15,
+  "Category": "MaleRatio",
+  "Value": 1.51
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Total": 1753644,
+  "Male": 437643,
+  "Female": 1316001,
+  "Ratio": 3.14,
+  "RatioIndex": 15,
+  "Category": "FemaleRatio",
+  "Value": 4.91
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Total": 2731931,
+  "Male": 665356,
+  "Female": 2066575,
+  "Ratio": 5.54,
+  "RatioIndex": 6,
+  "Category": "MaleRatio",
+  "Value": 2.69
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Total": 2731931,
+  "Male": 665356,
+  "Female": 2066575,
+  "Ratio": 5.54,
+  "RatioIndex": 6,
+  "Category": "FemaleRatio",
+  "Value": 8.43
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Total": 969613,
+  "Male": 174329,
+  "Female": 795284,
+  "Ratio": 2.89,
+  "RatioIndex": 19,
+  "Category": "MaleRatio",
+  "Value": 1.02
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Total": 969613,
+  "Male": 174329,
+  "Female": 795284,
+  "Ratio": 2.89,
+  "RatioIndex": 19,
+  "Category": "FemaleRatio",
+  "Value": 4.85
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Total": 875063,
+  "Male": 178545,
+  "Female": 696518,
+  "Ratio": 2.48,
+  "RatioIndex": 21,
+  "Category": "MaleRatio",
+  "Value": 1
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Total": 875063,
+  "Male": 178545,
+  "Female": 696518,
+  "Ratio": 2.48,
+  "RatioIndex": 21,
+  "Category": "FemaleRatio",
+  "Value": 4.01
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Total": 3306469,
+  "Male": 734437,
+  "Female": 2572032,
+  "Ratio": 4.01,
+  "RatioIndex": 10,
+  "Category": "MaleRatio",
+  "Value": 1.79
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Total": 3306469,
+  "Male": 734437,
+  "Female": 2572032,
+  "Ratio": 4.01,
+  "RatioIndex": 10,
+  "Category": "FemaleRatio",
+  "Value": 6.22
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Total": 2225359,
+  "Male": 542902,
+  "Female": 1682457,
+  "Ratio": 2.91,
+  "RatioIndex": 18,
+  "Category": "MaleRatio",
+  "Value": 1.44
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Total": 2225359,
+  "Male": 542902,
+  "Female": 1682457,
+  "Ratio": 2.91,
+  "RatioIndex": 18,
+  "Category": "FemaleRatio",
+  "Value": 4.34
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Total": 1339445,
+  "Male": 293761,
+  "Female": 1045684,
+  "Ratio": 2.77,
+  "RatioIndex": 20,
+  "Category": "MaleRatio",
+  "Value": 1.19
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Total": 1339445,
+  "Male": 293761,
+  "Female": 1045684,
+  "Ratio": 2.77,
+  "RatioIndex": 20,
+  "Category": "FemaleRatio",
+  "Value": 4.41
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Total": 1134692,
+  "Male": 286274,
+  "Female": 848418,
+  "Ratio": 2.12,
+  "RatioIndex": 22,
+  "Category": "MaleRatio",
+  "Value": 1.06
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Total": 1134692,
+  "Male": 286274,
+  "Female": 848418,
+  "Ratio": 2.12,
+  "RatioIndex": 22,
+  "Category": "FemaleRatio",
+  "Value": 3.21
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Total": 1825257,
+  "Male": 393622,
+  "Female": 1431635,
+  "Ratio": 1.78,
+  "RatioIndex": 26,
+  "Category": "MaleRatio",
+  "Value": 0.73
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Total": 1825257,
+  "Male": 393622,
+  "Female": 1431635,
+  "Ratio": 1.78,
+  "RatioIndex": 26,
+  "Category": "FemaleRatio",
+  "Value": 2.97
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Total": 1186492,
+  "Male": 248225,
+  "Female": 938267,
+  "Ratio": 3.1,
+  "RatioIndex": 16,
+  "Category": "MaleRatio",
+  "Value": 1.27
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Total": 1186492,
+  "Male": 248225,
+  "Female": 938267,
+  "Ratio": 3.1,
+  "RatioIndex": 16,
+  "Category": "FemaleRatio",
+  "Value": 5.02
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Total": 326988,
+  "Male": 77798,
+  "Female": 249190,
+  "Ratio": 4.05,
+  "RatioIndex": 9,
+  "Category": "MaleRatio",
+  "Value": 1.83
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Total": 326988,
+  "Male": 77798,
+  "Female": 249190,
+  "Ratio": 4.05,
+  "RatioIndex": 9,
+  "Category": "FemaleRatio",
+  "Value": 6.52
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Total": 520698,
+  "Male": 138679,
+  "Female": 382019,
+  "Ratio": 1.93,
+  "RatioIndex": 23,
+  "Category": "MaleRatio",
+  "Value": 1.02
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Total": 520698,
+  "Male": 138679,
+  "Female": 382019,
+  "Ratio": 1.93,
+  "RatioIndex": 23,
+  "Category": "FemaleRatio",
+  "Value": 2.85
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Total": 3326403,
+  "Male": 952948,
+  "Female": 2373455,
+  "Ratio": 4.74,
+  "RatioIndex": 8,
+  "Category": "MaleRatio",
+  "Value": 2.7
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Total": 3326403,
+  "Male": 952948,
+  "Female": 2373455,
+  "Ratio": 4.74,
+  "RatioIndex": 8,
+  "Category": "FemaleRatio",
+  "Value": 6.8
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Total": 2570789,
+  "Male": 602982,
+  "Female": 1967807,
+  "Ratio": 8.77,
+  "RatioIndex": 3,
+  "Category": "MaleRatio",
+  "Value": 4.08
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Total": 2570789,
+  "Male": 602982,
+  "Female": 1967807,
+  "Ratio": 8.77,
+  "RatioIndex": 3,
+  "Category": "FemaleRatio",
+  "Value": 13.53
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Total": 2191341,
+  "Male": 641120,
+  "Female": 1550221,
+  "Ratio": 5.77,
+  "RatioIndex": 5,
+  "Category": "MaleRatio",
+  "Value": 3.27
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Total": 2191341,
+  "Male": 641120,
+  "Female": 1550221,
+  "Ratio": 5.77,
+  "RatioIndex": 5,
+  "Category": "FemaleRatio",
+  "Value": 8.44
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Total": 773184,
+  "Male": 297847,
+  "Female": 475337,
+  "Ratio": 28.08,
+  "RatioIndex": 1,
+  "Category": "MaleRatio",
+  "Value": 20.44
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Total": 773184,
+  "Male": 297847,
+  "Female": 475337,
+  "Ratio": 28.08,
+  "RatioIndex": 1,
+  "Category": "FemaleRatio",
+  "Value": 36.68
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Total": 1087779,
+  "Male": 312607,
+  "Female": 775172,
+  "Ratio": 3.33,
+  "RatioIndex": 13,
+  "Category": "MaleRatio",
+  "Value": 1.88
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Total": 1087779,
+  "Male": 312607,
+  "Female": 775172,
+  "Ratio": 3.33,
+  "RatioIndex": 13,
+  "Category": "FemaleRatio",
+  "Value": 4.83
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Total": 1677613,
+  "Male": 473738,
+  "Female": 1203875,
+  "Ratio": 8.32,
+  "RatioIndex": 4,
+  "Category": "MaleRatio",
+  "Value": 4.66
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Total": 1677613,
+  "Male": 473738,
+  "Female": 1203875,
+  "Ratio": 8.32,
+  "RatioIndex": 4,
+  "Category": "FemaleRatio",
+  "Value": 12.04
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Total": 469499,
+  "Male": 147262,
+  "Female": 322237,
+  "Ratio": 10.01,
+  "RatioIndex": 2,
+  "Category": "MaleRatio",
+  "Value": 6.14
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Total": 469499,
+  "Male": 147262,
+  "Female": 322237,
+  "Ratio": 10.01,
+  "RatioIndex": 2,
+  "Category": "FemaleRatio",
+  "Value": 14.06
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Total": 290889,
+  "Male": 76950,
+  "Female": 213939,
+  "Ratio": 5.07,
+  "RatioIndex": 7,
+  "Category": "MaleRatio",
+  "Value": 2.65
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Total": 290889,
+  "Male": 76950,
+  "Female": 213939,
+  "Ratio": 5.07,
+  "RatioIndex": 7,
+  "Category": "FemaleRatio",
+  "Value": 7.56
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Total": 686611,
+  "Male": 268422,
+  "Female": 418189,
+  "Ratio": 3.43,
+  "RatioIndex": 12,
+  "Category": "MaleRatio",
+  "Value": 2.59
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Total": 686611,
+  "Male": 268422,
+  "Female": 418189,
+  "Ratio": 3.43,
+  "RatioIndex": 12,
+  "Category": "FemaleRatio",
+  "Value": 4.32
+}, {
+  "Province": "Unit",
+  "Total": "人",
+  "Male": "人",
+  "Female": "人",
+  "Ratio": "%",
+  "MaleRatio": "%",
+  "FemaleRatio": "%"
+}, {
+  "Province": "Remark",
+  "Total": "各地区分性别的15岁及以上文盲人口",
+  "Male": "",
+  "Female": "",
+  "Ratio": "",
+  "MaleRatio": "",
+  "FemaleRatio": ""
+}]

@@ -1,0 +1,685 @@
+[{
+  "ProvinceCode": 10,
+  "Short": "全国",
+  "Total": 100,
+  "M65Index": 14,
+  "Category": "L14",
+  "Value": 17.97
+}, {
+  "ProvinceCode": 10,
+  "Short": "全国",
+  "Total": 100,
+  "M65Index": 14,
+  "Category": "F15T64",
+  "Value": 68.5
+}, {
+  "ProvinceCode": 10,
+  "Short": "全国",
+  "Total": 100,
+  "M65Index": 14,
+  "Category": "M65",
+  "Value": 13.52
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Total": 100,
+  "M65Index": 17,
+  "Category": "L14",
+  "Value": 11.84
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Total": 100,
+  "M65Index": 17,
+  "Category": "F15T64",
+  "Value": 74.86
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Total": 100,
+  "M65Index": 17,
+  "Category": "M65",
+  "Value": 13.3
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Total": 100,
+  "M65Index": 11,
+  "Category": "L14",
+  "Value": 13.47
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Total": 100,
+  "M65Index": 11,
+  "Category": "F15T64",
+  "Value": 71.77
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Total": 100,
+  "M65Index": 11,
+  "Category": "M65",
+  "Value": 14.75
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Total": 100,
+  "M65Index": 13,
+  "Category": "L14",
+  "Value": 20.22
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Total": 100,
+  "M65Index": 13,
+  "Category": "F15T64",
+  "Value": 65.85
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Total": 100,
+  "M65Index": 13,
+  "Category": "M65",
+  "Value": 13.92
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Total": 100,
+  "M65Index": 20,
+  "Category": "L14",
+  "Value": 16.35
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Total": 100,
+  "M65Index": 20,
+  "Category": "F15T64",
+  "Value": 70.74
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Total": 100,
+  "M65Index": 20,
+  "Category": "M65",
+  "Value": 12.9
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Total": 100,
+  "M65Index": 19,
+  "Category": "L14",
+  "Value": 14.04
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Total": 100,
+  "M65Index": 19,
+  "Category": "F15T64",
+  "Value": 72.9
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Total": 100,
+  "M65Index": 19,
+  "Category": "M65",
+  "Value": 13.05
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Total": 100,
+  "M65Index": 1,
+  "Category": "L14",
+  "Value": 11.12
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Total": 100,
+  "M65Index": 1,
+  "Category": "F15T64",
+  "Value": 71.46
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Total": 100,
+  "M65Index": 1,
+  "Category": "M65",
+  "Value": 17.42
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Total": 100,
+  "M65Index": 7,
+  "Category": "L14",
+  "Value": 11.71
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Total": 100,
+  "M65Index": 7,
+  "Category": "F15T64",
+  "Value": 72.68
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Total": 100,
+  "M65Index": 7,
+  "Category": "M65",
+  "Value": 15.61
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Total": 100,
+  "M65Index": 6,
+  "Category": "L14",
+  "Value": 10.32
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Total": 100,
+  "M65Index": 6,
+  "Category": "F15T64",
+  "Value": 74.07
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Total": 100,
+  "M65Index": 6,
+  "Category": "M65",
+  "Value": 15.61
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Total": 100,
+  "M65Index": 4,
+  "Category": "L14",
+  "Value": 9.8
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Total": 100,
+  "M65Index": 4,
+  "Category": "F15T64",
+  "Value": 73.92
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Total": 100,
+  "M65Index": 4,
+  "Category": "M65",
+  "Value": 16.28
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Total": 100,
+  "M65Index": 5,
+  "Category": "L14",
+  "Value": 15.21
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Total": 100,
+  "M65Index": 5,
+  "Category": "F15T64",
+  "Value": 68.59
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Total": 100,
+  "M65Index": 5,
+  "Category": "M65",
+  "Value": 16.2
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Total": 100,
+  "M65Index": 18,
+  "Category": "L14",
+  "Value": 13.45
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Total": 100,
+  "M65Index": 18,
+  "Category": "F15T64",
+  "Value": 73.29
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Total": 100,
+  "M65Index": 18,
+  "Category": "M65",
+  "Value": 13.27
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Total": 100,
+  "M65Index": 9,
+  "Category": "L14",
+  "Value": 19.24
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Total": 100,
+  "M65Index": 9,
+  "Category": "F15T64",
+  "Value": 65.75
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Total": 100,
+  "M65Index": 9,
+  "Category": "M65",
+  "Value": 15.01
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Total": 100,
+  "M65Index": 25,
+  "Category": "L14",
+  "Value": 19.32
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Total": 100,
+  "M65Index": 25,
+  "Category": "F15T64",
+  "Value": 69.58
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Total": 100,
+  "M65Index": 25,
+  "Category": "M65",
+  "Value": 11.1
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Total": 100,
+  "M65Index": 23,
+  "Category": "L14",
+  "Value": 21.96
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Total": 100,
+  "M65Index": 23,
+  "Category": "F15T64",
+  "Value": 66.16
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Total": 100,
+  "M65Index": 23,
+  "Category": "M65",
+  "Value": 11.89
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Total": 100,
+  "M65Index": 8,
+  "Category": "L14",
+  "Value": 18.78
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Total": 100,
+  "M65Index": 8,
+  "Category": "F15T64",
+  "Value": 66.09
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Total": 100,
+  "M65Index": 8,
+  "Category": "M65",
+  "Value": 15.13
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Total": 100,
+  "M65Index": 15,
+  "Category": "L14",
+  "Value": 23.14
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Total": 100,
+  "M65Index": 15,
+  "Category": "F15T64",
+  "Value": 63.38
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Total": 100,
+  "M65Index": 15,
+  "Category": "M65",
+  "Value": 13.49
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Total": 100,
+  "M65Index": 12,
+  "Category": "L14",
+  "Value": 16.31
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Total": 100,
+  "M65Index": 12,
+  "Category": "F15T64",
+  "Value": 69.1
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Total": 100,
+  "M65Index": 12,
+  "Category": "M65",
+  "Value": 14.59
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Total": 100,
+  "M65Index": 10,
+  "Category": "L14",
+  "Value": 19.52
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Total": 100,
+  "M65Index": 10,
+  "Category": "F15T64",
+  "Value": 65.67
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Total": 100,
+  "M65Index": 10,
+  "Category": "M65",
+  "Value": 14.81
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Total": 100,
+  "M65Index": 30,
+  "Category": "L14",
+  "Value": 18.85
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Total": 100,
+  "M65Index": 30,
+  "Category": "F15T64",
+  "Value": 72.57
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Total": 100,
+  "M65Index": 30,
+  "Category": "M65",
+  "Value": 8.58
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Total": 100,
+  "M65Index": 22,
+  "Category": "L14",
+  "Value": 23.63
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Total": 100,
+  "M65Index": 22,
+  "Category": "F15T64",
+  "Value": 64.18
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Total": 100,
+  "M65Index": 22,
+  "Category": "M65",
+  "Value": 12.2
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Total": 100,
+  "M65Index": 27,
+  "Category": "L14",
+  "Value": 19.97
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Total": 100,
+  "M65Index": 27,
+  "Category": "F15T64",
+  "Value": 69.59
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Total": 100,
+  "M65Index": 27,
+  "Category": "M65",
+  "Value": 10.43
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Total": 100,
+  "M65Index": 2,
+  "Category": "L14",
+  "Value": 15.91
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Total": 100,
+  "M65Index": 2,
+  "Category": "F15T64",
+  "Value": 67.02
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Total": 100,
+  "M65Index": 2,
+  "Category": "M65",
+  "Value": 17.08
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Total": 100,
+  "M65Index": 3,
+  "Category": "L14",
+  "Value": 16.1
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Total": 100,
+  "M65Index": 3,
+  "Category": "F15T64",
+  "Value": 66.97
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Total": 100,
+  "M65Index": 3,
+  "Category": "M65",
+  "Value": 16.93
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Total": 100,
+  "M65Index": 24,
+  "Category": "L14",
+  "Value": 23.97
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Total": 100,
+  "M65Index": 24,
+  "Category": "F15T64",
+  "Value": 64.48
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Total": 100,
+  "M65Index": 24,
+  "Category": "M65",
+  "Value": 11.56
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Total": 100,
+  "M65Index": 26,
+  "Category": "L14",
+  "Value": 19.57
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Total": 100,
+  "M65Index": 26,
+  "Category": "F15T64",
+  "Value": 69.69
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Total": 100,
+  "M65Index": 26,
+  "Category": "M65",
+  "Value": 10.75
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Total": 100,
+  "M65Index": 32,
+  "Category": "L14",
+  "Value": 24.53
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Total": 100,
+  "M65Index": 32,
+  "Category": "F15T64",
+  "Value": 69.8
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Total": 100,
+  "M65Index": 32,
+  "Category": "M65",
+  "Value": 5.67
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Total": 100,
+  "M65Index": 16,
+  "Category": "L14",
+  "Value": 17.33
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Total": 100,
+  "M65Index": 16,
+  "Category": "F15T64",
+  "Value": 69.34
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Total": 100,
+  "M65Index": 16,
+  "Category": "M65",
+  "Value": 13.32
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Total": 100,
+  "M65Index": 21,
+  "Category": "L14",
+  "Value": 19.4
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Total": 100,
+  "M65Index": 21,
+  "Category": "F15T64",
+  "Value": 68.02
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Total": 100,
+  "M65Index": 21,
+  "Category": "M65",
+  "Value": 12.58
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Total": 100,
+  "M65Index": 29,
+  "Category": "L14",
+  "Value": 20.81
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Total": 100,
+  "M65Index": 29,
+  "Category": "F15T64",
+  "Value": 70.51
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Total": 100,
+  "M65Index": 29,
+  "Category": "M65",
+  "Value": 8.68
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Total": 100,
+  "M65Index": 28,
+  "Category": "L14",
+  "Value": 20.38
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Total": 100,
+  "M65Index": 28,
+  "Category": "F15T64",
+  "Value": 70
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Total": 100,
+  "M65Index": 28,
+  "Category": "M65",
+  "Value": 9.62
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Total": 100,
+  "M65Index": 31,
+  "Category": "L14",
+  "Value": 22.46
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Total": 100,
+  "M65Index": 31,
+  "Category": "F15T64",
+  "Value": 69.78
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Total": 100,
+  "M65Index": 31,
+  "Category": "M65",
+  "Value": 7.76
+}, {
+  "Province": "Unit",
+  "Total": "%",
+  "L14": "%",
+  "F15T64": "%",
+  "M65": "%"
+}, {
+  "Province": "Remark",
+  "Total": "各地区人口年龄构成",
+  "L14": "",
+  "F15T64": "",
+  "M65": ""
+}]
