@@ -1,0 +1,1540 @@
+[{
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "没有汽车",
+  "Value": 397374
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "不满10万元",
+  "Value": 64678
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "10万元以上",
+  "Value": 149345
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "20万元以上",
+  "Value": 84622
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "30万元以上",
+  "Value": 51470
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "50万元以上",
+  "Value": 19809
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "合计": 772865,
+  "合计Index": 24,
+  "Category": "100万元及以上",
+  "Value": 5567
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "没有汽车",
+  "Value": 226879
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "不满10万元",
+  "Value": 94163
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "10万元以上",
+  "Value": 87994
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "20万元以上",
+  "Value": 23610
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "30万元以上",
+  "Value": 10871
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "50万元以上",
+  "Value": 3886
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "合计": 448523,
+  "合计Index": 27,
+  "Category": "100万元及以上",
+  "Value": 1120
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "没有汽车",
+  "Value": 1216522
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "不满10万元",
+  "Value": 695884
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "10万元以上",
+  "Value": 389708
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "20万元以上",
+  "Value": 71870
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "30万元以上",
+  "Value": 29138
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "50万元以上",
+  "Value": 10239
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "合计": 2416146,
+  "合计Index": 6,
+  "Category": "100万元及以上",
+  "Value": 2785
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "没有汽车",
+  "Value": 691790
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "不满10万元",
+  "Value": 312003
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "10万元以上",
+  "Value": 143923
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "20万元以上",
+  "Value": 27257
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "30万元以上",
+  "Value": 9600
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "50万元以上",
+  "Value": 3226
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "合计": 1188728,
+  "合计Index": 17,
+  "Category": "100万元及以上",
+  "Value": 929
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "没有汽车",
+  "Value": 482051
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "不满10万元",
+  "Value": 198771
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "10万元以上",
+  "Value": 131110
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "20万元以上",
+  "Value": 33372
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "30万元以上",
+  "Value": 16074
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "50万元以上",
+  "Value": 5789
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "合计": 868558,
+  "合计Index": 22,
+  "Category": "100万元及以上",
+  "Value": 1391
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "没有汽车",
+  "Value": 1068557
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "不满10万元",
+  "Value": 276463
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "10万元以上",
+  "Value": 202453
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "20万元以上",
+  "Value": 49913
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "30万元以上",
+  "Value": 21046
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "50万元以上",
+  "Value": 7523
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "合计": 1628448,
+  "合计Index": 11,
+  "Category": "100万元及以上",
+  "Value": 2493
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "没有汽车",
+  "Value": 564267
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "不满10万元",
+  "Value": 162957
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "10万元以上",
+  "Value": 94519
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "20万元以上",
+  "Value": 21653
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "30万元以上",
+  "Value": 9903
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "50万元以上",
+  "Value": 3464
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "合计": 857737,
+  "合计Index": 23,
+  "Category": "100万元及以上",
+  "Value": 974
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "没有汽车",
+  "Value": 853526
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "不满10万元",
+  "Value": 174324
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "10万元以上",
+  "Value": 109768
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "20万元以上",
+  "Value": 23303
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "30万元以上",
+  "Value": 8339
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "50万元以上",
+  "Value": 2585
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "合计": 1172755,
+  "合计Index": 18,
+  "Category": "100万元及以上",
+  "Value": 910
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "没有汽车",
+  "Value": 513299
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "不满10万元",
+  "Value": 46875
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "10万元以上",
+  "Value": 166185
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "20万元以上",
+  "Value": 86796
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "30万元以上",
+  "Value": 57365
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "50万元以上",
+  "Value": 23949
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "合计": 901732,
+  "合计Index": 21,
+  "Category": "100万元及以上",
+  "Value": 7263
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "没有汽车",
+  "Value": 1342356
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "不满10万元",
+  "Value": 264789
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "10万元以上",
+  "Value": 754549
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "20万元以上",
+  "Value": 214601
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "30万元以上",
+  "Value": 107886
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "50万元以上",
+  "Value": 45610
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "合计": 2743393,
+  "合计Index": 5,
+  "Category": "100万元及以上",
+  "Value": 13602
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "没有汽车",
+  "Value": 1140989
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "不满10万元",
+  "Value": 195663
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "10万元以上",
+  "Value": 536189
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "20万元以上",
+  "Value": 195754
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "30万元以上",
+  "Value": 125924
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "50万元以上",
+  "Value": 62902
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "合计": 2279907,
+  "合计Index": 7,
+  "Category": "100万元及以上",
+  "Value": 22486
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "没有汽车",
+  "Value": 1202319
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "不满10万元",
+  "Value": 259895
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "10万元以上",
+  "Value": 416187
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "20万元以上",
+  "Value": 76563
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "30万元以上",
+  "Value": 34214
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "50万元以上",
+  "Value": 12622
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "合计": 2005193,
+  "合计Index": 9,
+  "Category": "100万元及以上",
+  "Value": 3393
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "没有汽车",
+  "Value": 770810
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "不满10万元",
+  "Value": 126473
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "10万元以上",
+  "Value": 240748
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "20万元以上",
+  "Value": 71476
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "30万元以上",
+  "Value": 35683
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "50万元以上",
+  "Value": 15914
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "合计": 1266971,
+  "合计Index": 16,
+  "Category": "100万元及以上",
+  "Value": 5867
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "没有汽车",
+  "Value": 777345
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "不满10万元",
+  "Value": 173468
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "10万元以上",
+  "Value": 293568
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "20万元以上",
+  "Value": 59011
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "30万元以上",
+  "Value": 25501
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "50万元以上",
+  "Value": 9170
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "合计": 1340608,
+  "合计Index": 14,
+  "Category": "100万元及以上",
+  "Value": 2545
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "没有汽车",
+  "Value": 1712472
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "不满10万元",
+  "Value": 938837
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "10万元以上",
+  "Value": 610350
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "20万元以上",
+  "Value": 122659
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "30万元以上",
+  "Value": 54166
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "50万元以上",
+  "Value": 21221
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "合计": 3465782,
+  "合计Index": 2,
+  "Category": "100万元及以上",
+  "Value": 6077
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "没有汽车",
+  "Value": 1646800
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "不满10万元",
+  "Value": 647865
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "10万元以上",
+  "Value": 543362
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "20万元以上",
+  "Value": 89877
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "30万元以上",
+  "Value": 33802
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "50万元以上",
+  "Value": 10963
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "合计": 2975955,
+  "合计Index": 3,
+  "Category": "100万元及以上",
+  "Value": 3286
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "没有汽车",
+  "Value": 1143474
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "不满10万元",
+  "Value": 219893
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "10万元以上",
+  "Value": 399574
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "20万元以上",
+  "Value": 84942
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "30万元以上",
+  "Value": 32224
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "50万元以上",
+  "Value": 11515
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "合计": 1894974,
+  "合计Index": 10,
+  "Category": "100万元及以上",
+  "Value": 3352
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "没有汽车",
+  "Value": 1376072
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "不满10万元",
+  "Value": 249306
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "10万元以上",
+  "Value": 397729
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "20万元以上",
+  "Value": 87744
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "30万元以上",
+  "Value": 35254
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "50万元以上",
+  "Value": 12747
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "合计": 2162386,
+  "合计Index": 8,
+  "Category": "100万元及以上",
+  "Value": 3534
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "没有汽车",
+  "Value": 2294322
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "不满10万元",
+  "Value": 380062
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "10万元以上",
+  "Value": 688365
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "20万元以上",
+  "Value": 214822
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "30万元以上",
+  "Value": 110014
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "50万元以上",
+  "Value": 48098
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "合计": 3752057,
+  "合计Index": 1,
+  "Category": "100万元及以上",
+  "Value": 16374
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "没有汽车",
+  "Value": 950845
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "不满10万元",
+  "Value": 238982
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "10万元以上",
+  "Value": 193953
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "20万元以上",
+  "Value": 38707
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "30万元以上",
+  "Value": 15891
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "50万元以上",
+  "Value": 5738
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "合计": 1445879,
+  "合计Index": 12,
+  "Category": "100万元及以上",
+  "Value": 1763
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "没有汽车",
+  "Value": 182940
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "不满10万元",
+  "Value": 22872
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "10万元以上",
+  "Value": 41769
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "20万元以上",
+  "Value": 10685
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "30万元以上",
+  "Value": 4466
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "50万元以上",
+  "Value": 1665
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "合计": 264959,
+  "合计Index": 28,
+  "Category": "100万元及以上",
+  "Value": 562
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "没有汽车",
+  "Value": 716549
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "不满10万元",
+  "Value": 138862
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "10万元以上",
+  "Value": 203671
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "20万元以上",
+  "Value": 47141
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "30万元以上",
+  "Value": 19910
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "50万元以上",
+  "Value": 7451
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "合计": 1136063,
+  "合计Index": 20,
+  "Category": "100万元及以上",
+  "Value": 2479
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "没有汽车",
+  "Value": 1823832
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "不满10万元",
+  "Value": 431050
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "10万元以上",
+  "Value": 504513
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "20万元以上",
+  "Value": 111026
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "30万元以上",
+  "Value": 51866
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "50万元以上",
+  "Value": 19362
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "合计": 2947695,
+  "合计Index": 4,
+  "Category": "100万元及以上",
+  "Value": 6046
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "没有汽车",
+  "Value": 724464
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "不满10万元",
+  "Value": 187049
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "10万元以上",
+  "Value": 168866
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "20万元以上",
+  "Value": 38779
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "30万元以上",
+  "Value": 18092
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "50万元以上",
+  "Value": 6382
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "合计": 1145420,
+  "合计Index": 19,
+  "Category": "100万元及以上",
+  "Value": 1788
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "没有汽车",
+  "Value": 854404
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "不满10万元",
+  "Value": 263649
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "10万元以上",
+  "Value": 207819
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "20万元以上",
+  "Value": 49521
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "30万元以上",
+  "Value": 24413
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "50万元以上",
+  "Value": 10199
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "合计": 1413050,
+  "合计Index": 13,
+  "Category": "100万元及以上",
+  "Value": 3045
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "没有汽车",
+  "Value": 44143
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "不满10万元",
+  "Value": 15287
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "10万元以上",
+  "Value": 9372
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "20万元以上",
+  "Value": 3669
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "30万元以上",
+  "Value": 2559
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "50万元以上",
+  "Value": 1251
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "合计": 76553,
+  "合计Index": 31,
+  "Category": "100万元及以上",
+  "Value": 272
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "没有汽车",
+  "Value": 787043
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "不满10万元",
+  "Value": 232715
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "10万元以上",
+  "Value": 194911
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "20万元以上",
+  "Value": 39258
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "30万元以上",
+  "Value": 15196
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "50万元以上",
+  "Value": 5282
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "合计": 1275990,
+  "合计Index": 15,
+  "Category": "100万元及以上",
+  "Value": 1585
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "没有汽车",
+  "Value": 510759
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "不满10万元",
+  "Value": 140968
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "10万元以上",
+  "Value": 85186
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "20万元以上",
+  "Value": 17549
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "30万元以上",
+  "Value": 7164
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "50万元以上",
+  "Value": 2524
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "合计": 764771,
+  "合计Index": 26,
+  "Category": "100万元及以上",
+  "Value": 621
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "没有汽车",
+  "Value": 92211
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "不满10万元",
+  "Value": 44603
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "10万元以上",
+  "Value": 25801
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "20万元以上",
+  "Value": 7663
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "30万元以上",
+  "Value": 3354
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "50万元以上",
+  "Value": 1041
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "合计": 174934,
+  "合计Index": 30,
+  "Category": "100万元及以上",
+  "Value": 261
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "没有汽车",
+  "Value": 134805
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "不满10万元",
+  "Value": 47900
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "10万元以上",
+  "Value": 36216
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "20万元以上",
+  "Value": 9072
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "30万元以上",
+  "Value": 4014
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "50万元以上",
+  "Value": 1552
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "合计": 233945,
+  "合计Index": 29,
+  "Category": "100万元及以上",
+  "Value": 386
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "没有汽车",
+  "Value": 465682
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "不满10万元",
+  "Value": 140693
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "10万元以上",
+  "Value": 109570
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "20万元以上",
+  "Value": 29363
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "30万元以上",
+  "Value": 14620
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "50万元以上",
+  "Value": 7441
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "合计": 769328,
+  "合计Index": 25,
+  "Category": "100万元及以上",
+  "Value": 1959
+}, {
+  "Province": "Unit",
+  "合计": "户",
+  "没有汽车": "户",
+  "不满10万元": "户",
+  "10万元以上": "户",
+  "20万元以上": "户",
+  "30万元以上": "户",
+  "50万元以上": "户",
+  "100万元及以上": "户"
+}, {
+  "Province": "Remark",
+  "合计": "9-13各地区按拥有全部家用汽车总价分的家庭户户数",
+  "没有汽车": "",
+  "不满10万元": "",
+  "10万元以上": "",
+  "20万元以上": "",
+  "30万元以上": "",
+  "50万元以上": "",
+  "100万元及以上": ""
+}]
