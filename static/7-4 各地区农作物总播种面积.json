@@ -1,0 +1,457 @@
+[{
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Y2020比Y2019": 110.9,
+  "Y2020Index": 31,
+  "Category": "Y2019",
+  "Value": 88.6
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "Y2020比Y2019": 110.9,
+  "Y2020Index": 31,
+  "Category": "Y2020",
+  "Value": 98.2
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Y2020比Y2019": 102.2,
+  "Y2020Index": 28,
+  "Category": "Y2019",
+  "Value": 410.3
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "Y2020比Y2019": 102.2,
+  "Y2020Index": 28,
+  "Category": "Y2020",
+  "Value": 419.2
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Y2020比Y2019": 99.5,
+  "Y2020Index": 8,
+  "Category": "Y2019",
+  "Value": 8132.7
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "Y2020比Y2019": 99.5,
+  "Y2020Index": 8,
+  "Category": "Y2020",
+  "Value": 8089.4
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Y2020比Y2019": 100.5,
+  "Y2020Index": 21,
+  "Category": "Y2019",
+  "Value": 3524.4
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "Y2020比Y2019": 100.5,
+  "Y2020Index": 21,
+  "Category": "Y2020",
+  "Value": 3541.5
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Y2020比Y2019": 100,
+  "Y2020Index": 5,
+  "Category": "Y2019",
+  "Value": 8885
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "Y2020比Y2019": 100,
+  "Y2020Index": 5,
+  "Category": "Y2020",
+  "Value": 8882.8
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Y2020比Y2019": 101.7,
+  "Y2020Index": 18,
+  "Category": "Y2019",
+  "Value": 4217.1
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "Y2020比Y2019": 101.7,
+  "Y2020Index": 18,
+  "Category": "Y2020",
+  "Value": 4287.8
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Y2020比Y2019": 100.6,
+  "Y2020Index": 13,
+  "Category": "Y2019",
+  "Value": 6117.1
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "Y2020比Y2019": 100.6,
+  "Y2020Index": 13,
+  "Category": "Y2020",
+  "Value": 6151
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Y2020比Y2019": 100.9,
+  "Y2020Index": 1,
+  "Category": "Y2019",
+  "Value": 14770.1
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "Y2020比Y2019": 100.9,
+  "Y2020Index": 1,
+  "Category": "Y2020",
+  "Value": 14910.1
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Y2020比Y2019": 97.6,
+  "Y2020Index": 30,
+  "Category": "Y2019",
+  "Value": 261.4
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "Y2020比Y2019": 97.6,
+  "Y2020Index": 30,
+  "Category": "Y2020",
+  "Value": 255.2
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Y2020比Y2019": 100.5,
+  "Y2020Index": 10,
+  "Category": "Y2019",
+  "Value": 7442.6
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "Y2020比Y2019": 100.5,
+  "Y2020Index": 10,
+  "Category": "Y2020",
+  "Value": 7478.4
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Y2020比Y2019": 100.7,
+  "Y2020Index": 23,
+  "Category": "Y2019",
+  "Value": 1999.6
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "Y2020比Y2019": 100.7,
+  "Y2020Index": 23,
+  "Category": "Y2020",
+  "Value": 2014.5
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Y2020比Y2019": 100.4,
+  "Y2020Index": 6,
+  "Category": "Y2019",
+  "Value": 8782
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "Y2020比Y2019": 100.4,
+  "Y2020Index": 6,
+  "Category": "Y2020",
+  "Value": 8818
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Y2020比Y2019": 102,
+  "Y2020Index": 24,
+  "Category": "Y2019",
+  "Value": 1599.3
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "Y2020比Y2019": 102,
+  "Y2020Index": 24,
+  "Category": "Y2020",
+  "Value": 1631.3
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Y2020比Y2019": 102.2,
+  "Y2020Index": 15,
+  "Category": "Y2019",
+  "Value": 5521.2
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "Y2020比Y2019": 102.2,
+  "Y2020Index": 15,
+  "Category": "Y2020",
+  "Value": 5644.4
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Y2020比Y2019": 99.6,
+  "Y2020Index": 3,
+  "Category": "Y2019",
+  "Value": 10933.1
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "Y2020比Y2019": 99.6,
+  "Y2020Index": 3,
+  "Category": "Y2020",
+  "Value": 10889.1
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Y2020比Y2019": 99.8,
+  "Y2020Index": 2,
+  "Category": "Y2019",
+  "Value": 14714
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "Y2020比Y2019": 99.8,
+  "Y2020Index": 2,
+  "Category": "Y2020",
+  "Value": 14688
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Y2020比Y2019": 102,
+  "Y2020Index": 9,
+  "Category": "Y2019",
+  "Value": 7815.9
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "Y2020比Y2019": 102,
+  "Y2020Index": 9,
+  "Category": "Y2020",
+  "Value": 7974.4
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Y2020比Y2019": 103.4,
+  "Y2020Index": 7,
+  "Category": "Y2019",
+  "Value": 8122.8
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "Y2020比Y2019": 103.4,
+  "Y2020Index": 7,
+  "Category": "Y2020",
+  "Value": 8400.1
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Y2020比Y2019": 102.2,
+  "Y2020Index": 17,
+  "Category": "Y2019",
+  "Value": 4357.4
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "Y2020比Y2019": 102.2,
+  "Y2020Index": 17,
+  "Category": "Y2020",
+  "Value": 4451.8
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Y2020比Y2019": 102,
+  "Y2020Index": 14,
+  "Category": "Y2019",
+  "Value": 5989.2
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "Y2020比Y2019": 102,
+  "Y2020Index": 14,
+  "Category": "Y2020",
+  "Value": 6107.3
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Y2020比Y2019": 100.1,
+  "Y2020Index": 26,
+  "Category": "Y2019",
+  "Value": 676.2
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "Y2020比Y2019": 100.1,
+  "Y2020Index": 26,
+  "Category": "Y2020",
+  "Value": 676.9
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Y2020比Y2019": 100.8,
+  "Y2020Index": 22,
+  "Category": "Y2019",
+  "Value": 3345.7
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "Y2020比Y2019": 100.8,
+  "Y2020Index": 22,
+  "Category": "Y2020",
+  "Value": 3372.5
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Y2020比Y2019": 101.6,
+  "Y2020Index": 4,
+  "Category": "Y2019",
+  "Value": 9693
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "Y2020比Y2019": 101.6,
+  "Y2020Index": 4,
+  "Category": "Y2020",
+  "Value": 9849.9
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Y2020比Y2019": 99.9,
+  "Y2020Index": 16,
+  "Category": "Y2019",
+  "Value": 5481.6
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "Y2020比Y2019": 99.9,
+  "Y2020Index": 16,
+  "Category": "Y2020",
+  "Value": 5475.3
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Y2020比Y2019": 100.7,
+  "Y2020Index": 11,
+  "Category": "Y2019",
+  "Value": 6938.9
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "Y2020比Y2019": 100.7,
+  "Y2020Index": 11,
+  "Category": "Y2020",
+  "Value": 6989.7
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Y2020比Y2019": 100.2,
+  "Y2020Index": 29,
+  "Category": "Y2019",
+  "Value": 271.5
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "Y2020比Y2019": 100.2,
+  "Y2020Index": 29,
+  "Category": "Y2020",
+  "Value": 272.1
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Y2020比Y2019": 100.7,
+  "Y2020Index": 19,
+  "Category": "Y2019",
+  "Value": 4132.1
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "Y2020比Y2019": 100.7,
+  "Y2020Index": 19,
+  "Category": "Y2020",
+  "Value": 4160.8
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Y2020比Y2019": 102.6,
+  "Y2020Index": 20,
+  "Category": "Y2019",
+  "Value": 3831.6
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "Y2020比Y2019": 102.6,
+  "Y2020Index": 20,
+  "Category": "Y2020",
+  "Value": 3931.8
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Y2020比Y2019": 103.2,
+  "Y2020Index": 27,
+  "Category": "Y2019",
+  "Value": 553.5
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "Y2020比Y2019": 103.2,
+  "Y2020Index": 27,
+  "Category": "Y2020",
+  "Value": 571.4
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Y2020比Y2019": 101.8,
+  "Y2020Index": 25,
+  "Category": "Y2019",
+  "Value": 1153
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "Y2020比Y2019": 101.8,
+  "Y2020Index": 25,
+  "Category": "Y2020",
+  "Value": 1174.2
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Y2020比Y2019": 101.8,
+  "Y2020Index": 12,
+  "Category": "Y2019",
+  "Value": 6170
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "Y2020比Y2019": 101.8,
+  "Y2020Index": 12,
+  "Category": "Y2020",
+  "Value": 6280
+}, {
+  "Province": "Unit",
+  "Y1990": "千公顷",
+  "Y1995": "千公顷",
+  "Y2000": "千公顷",
+  "Y2016": "千公顷",
+  "Y2017": "千公顷",
+  "Y2018": "千公顷",
+  "Y2019": "千公顷",
+  "Y2020": "千公顷",
+  "Y2020比Y2019": "%"
+}, {
+  "Province": "Remark",
+  "Y1990": "7-4 各地区农作物总播种面积",
+  "Y1995": "",
+  "Y2000": "",
+  "Y2016": "",
+  "Y2017": "",
+  "Y2018": "",
+  "Y2019": "",
+  "Y2020": "",
+  "Y2020比Y2019": ""
+}]

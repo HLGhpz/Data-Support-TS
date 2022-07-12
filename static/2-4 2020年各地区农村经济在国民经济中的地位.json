@@ -1,0 +1,381 @@
+[{
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "第一产业增加值占地区生产总值比重Index": 31,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 0.3
+}, {
+  "ProvinceCode": 11,
+  "Short": "北京",
+  "第一产业增加值占地区生产总值比重Index": 31,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 20.1
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "第一产业增加值占地区生产总值比重Index": 29,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 1.5
+}, {
+  "ProvinceCode": 12,
+  "Short": "天津",
+  "第一产业增加值占地区生产总值比重Index": 29,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 20.9
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "第一产业增加值占地区生产总值比重Index": 12,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 10.7
+}, {
+  "ProvinceCode": 13,
+  "Short": "河北",
+  "第一产业增加值占地区生产总值比重Index": 12,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 60.5
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "第一产业增加值占地区生产总值比重Index": 25,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 5.4
+}, {
+  "ProvinceCode": 14,
+  "Short": "山西",
+  "第一产业增加值占地区生产总值比重Index": 25,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 42.8
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "第一产业增加值占地区生产总值比重Index": 9,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 11.7
+}, {
+  "ProvinceCode": 15,
+  "Short": "内蒙古",
+  "第一产业增加值占地区生产总值比重Index": 9,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 38.6
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "第一产业增加值占地区生产总值比重Index": 16,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 9.1
+}, {
+  "ProvinceCode": 21,
+  "Short": "辽宁",
+  "第一产业增加值占地区生产总值比重Index": 16,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 37
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "第一产业增加值占地区生产总值比重Index": 8,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 12.6
+}, {
+  "ProvinceCode": 22,
+  "Short": "吉林",
+  "第一产业增加值占地区生产总值比重Index": 8,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 39.9
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "第一产业增加值占地区生产总值比重Index": 1,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 25.1
+}, {
+  "ProvinceCode": 23,
+  "Short": "黑龙江",
+  "第一产业增加值占地区生产总值比重Index": 1,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 35.8
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "第一产业增加值占地区生产总值比重Index": 30,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 0.3
+}, {
+  "ProvinceCode": 31,
+  "Short": "上海",
+  "第一产业增加值占地区生产总值比重Index": 30,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 6.2
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "第一产业增加值占地区生产总值比重Index": 26,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 4.4
+}, {
+  "ProvinceCode": 32,
+  "Short": "江苏",
+  "第一产业增加值占地区生产总值比重Index": 26,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 36.5
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "第一产业增加值占地区生产总值比重Index": 28,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 3.4
+}, {
+  "ProvinceCode": 33,
+  "Short": "浙江",
+  "第一产业增加值占地区生产总值比重Index": 28,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 38.3
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "第一产业增加值占地区生产总值比重Index": 20,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 8.2
+}, {
+  "ProvinceCode": 34,
+  "Short": "安徽",
+  "第一产业增加值占地区生产总值比重Index": 20,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 46.8
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "第一产业增加值占地区生产总值比重Index": 24,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 6.2
+}, {
+  "ProvinceCode": 35,
+  "Short": "福建",
+  "第一产业增加值占地区生产总值比重Index": 24,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 38.3
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "第一产业增加值占地区生产总值比重Index": 18,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 8.7
+}, {
+  "ProvinceCode": 36,
+  "Short": "江西",
+  "第一产业增加值占地区生产总值比重Index": 18,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 51.3
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "第一产业增加值占地区生产总值比重Index": 22,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 7.3
+}, {
+  "ProvinceCode": 37,
+  "Short": "山东",
+  "第一产业增加值占地区生产总值比重Index": 22,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 42.7
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "第一产业增加值占地区生产总值比重Index": 14,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 9.7
+}, {
+  "ProvinceCode": 41,
+  "Short": "河南",
+  "第一产业增加值占地区生产总值比重Index": 14,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 49.6
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "第一产业增加值占地区生产总值比重Index": 15,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 9.5
+}, {
+  "ProvinceCode": 42,
+  "Short": "湖北",
+  "第一产业增加值占地区生产总值比重Index": 15,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 40.7
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "第一产业增加值占地区生产总值比重Index": 13,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 10.1
+}, {
+  "ProvinceCode": 43,
+  "Short": "湖南",
+  "第一产业增加值占地区生产总值比重Index": 13,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 39.6
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "第一产业增加值占地区生产总值比重Index": 27,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 4.3
+}, {
+  "ProvinceCode": 44,
+  "Short": "广东",
+  "第一产业增加值占地区生产总值比重Index": 27,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 25.8
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "第一产业增加值占地区生产总值比重Index": 3,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 16
+}, {
+  "ProvinceCode": 45,
+  "Short": "广西",
+  "第一产业增加值占地区生产总值比重Index": 3,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 39.8
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "第一产业增加值占地区生产总值比重Index": 2,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 20.5
+}, {
+  "ProvinceCode": 46,
+  "Short": "海南",
+  "第一产业增加值占地区生产总值比重Index": 2,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 46
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "第一产业增加值占地区生产总值比重Index": 23,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 7.2
+}, {
+  "ProvinceCode": 50,
+  "Short": "重庆",
+  "第一产业增加值占地区生产总值比重Index": 23,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 37.7
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "第一产业增加值占地区生产总值比重Index": 10,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 11.4
+}, {
+  "ProvinceCode": 51,
+  "Short": "四川",
+  "第一产业增加值占地区生产总值比重Index": 10,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 45.4
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "第一产业增加值占地区生产总值比重Index": 6,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 14.2
+}, {
+  "ProvinceCode": 52,
+  "Short": "贵州",
+  "第一产业增加值占地区生产总值比重Index": 6,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 39.7
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "第一产业增加值占地区生产总值比重Index": 4,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 14.7
+}, {
+  "ProvinceCode": 53,
+  "Short": "云南",
+  "第一产业增加值占地区生产总值比重Index": 4,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 42.8
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "第一产业增加值占地区生产总值比重Index": 21,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 7.9
+}, {
+  "ProvinceCode": 54,
+  "Short": "西藏",
+  "第一产业增加值占地区生产总值比重Index": 21,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 44.1
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "第一产业增加值占地区生产总值比重Index": 17,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 8.7
+}, {
+  "ProvinceCode": 61,
+  "Short": "陕西",
+  "第一产业增加值占地区生产总值比重Index": 17,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 37.8
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "第一产业增加值占地区生产总值比重Index": 7,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 13.3
+}, {
+  "ProvinceCode": 62,
+  "Short": "甘肃",
+  "第一产业增加值占地区生产总值比重Index": 7,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 40.9
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "第一产业增加值占地区生产总值比重Index": 11,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 11.1
+}, {
+  "ProvinceCode": 63,
+  "Short": "青海",
+  "第一产业增加值占地区生产总值比重Index": 11,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 47.5
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "第一产业增加值占地区生产总值比重Index": 19,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 8.6
+}, {
+  "ProvinceCode": 64,
+  "Short": "宁夏",
+  "第一产业增加值占地区生产总值比重Index": 19,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 40.5
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "第一产业增加值占地区生产总值比重Index": 5,
+  "Category": "第一产业增加值占地区生产总值比重",
+  "Value": 14.4
+}, {
+  "ProvinceCode": 65,
+  "Short": "新疆",
+  "第一产业增加值占地区生产总值比重Index": 5,
+  "Category": "镇区及乡村消费品零售额占全社会消费品零售额的比重",
+  "Value": 43.3
+}, {
+  "Province": "Unit",
+  "第一产业增加值占地区生产总值比重": "%",
+  "镇区及乡村消费品零售额占全社会消费品零售额的比重": "%"
+}, {
+  "Province": "Remark",
+  "第一产业增加值占地区生产总值比重": "2-4 2020年各地区农村经济在国民经济中的地位",
+  "镇区及乡村消费品零售额占全社会消费品零售额的比重": ""
+}]
